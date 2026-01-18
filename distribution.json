@@ -8,9 +8,9 @@
   },
   "servers": [
     {
-      "id": "Survival-1.17.1",
-      "name": "Survival (Minecraft 1.17.1)",
-      "description": "Survival Running Minecraft 1.17.1 (Fabric v0.18.4)",
+      "id": "Eclipse",
+      "name": "Eclipse (Minecraft 1.17.1)",
+      "description": "Eclipse Running Minecraft 1.17.1 (Fabric v0.18.4)",
       "icon": null,
       "version": "1.0.0",
       "address": "localhost:25565",
