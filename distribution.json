@@ -1,10 +1,9 @@
 {
   "version": "1.0.0",
-  "rss": "https://krone.dev/news.rss",
-  "discord": {
-    "clientId": "892062369796010044",
-    "smallImageText": "Eclipse Launcher",
-    "smallImageKey": "seal"
+  "rss": "<LINK TO RSS FEED>",
+
+  "landing": {
+    "mediaInstagramURL": "https://www.instagram.com/eclipsegamesxd"
   },
   "servers": [
     {
