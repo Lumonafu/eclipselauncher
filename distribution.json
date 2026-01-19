@@ -1,9 +1,13 @@
 {
   "version": "1.0.0",
-  "rss": "<LINK TO RSS FEED>",
-
+  "rss": "<LINK TO RSS>",
   "landing": {
     "mediaInstagramURL": "https://www.instagram.com/eclipsegamesxd"
+  },
+  "discord": {
+    "clientId": "892062369796010044",
+    "smallImageText": "Eclipse Launcher",
+    "smallImageKey": "seal"
   },
   "servers": [
     {
@@ -119,7 +123,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 928251,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Survival-1.17.1/fabricmods/required/appleskin-fabric-mc1.17.1-2.5.1.jar",
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse/fabricmods/required/appleskin-fabric-mc1.17.1-2.5.1.jar",
             "MD5": "b3c9ca3ed1ca60b0fa6e4cb15a2bf47f"
           }
         },
@@ -129,7 +133,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 32049,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Survival-1.17.1/fabricmods/required/audiooutput-0.0.4.jar",
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse/fabricmods/required/audiooutput-0.0.4.jar",
             "MD5": "e0ddcb9189f02cf1bd3e558dfc50d04a"
           }
         },
@@ -139,7 +143,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 47953,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Survival-1.17.1/fabricmods/required/bears-armor-hud-0.3.4.jar",
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse/fabricmods/required/bears-armor-hud-0.3.4.jar",
             "MD5": "25c950968105bf42cca3994c8904710a"
           }
         },
@@ -149,7 +153,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 84793,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Survival-1.17.1/fabricmods/required/borderless-mining-1.1.1+1.17.jar",
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse/fabricmods/required/borderless-mining-1.1.1+1.17.jar",
             "MD5": "0e99a36a0ee916892f2496a70f21ffbd"
           }
         },
@@ -159,7 +163,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 22575,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Survival-1.17.1/fabricmods/required/chunkumulator-1.0.3+MC1.17.1.jar",
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse/fabricmods/required/chunkumulator-1.0.3+MC1.17.1.jar",
             "MD5": "df8e61e9ba159ec87a05e4b7c748d021"
           }
         },
@@ -169,7 +173,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 44215,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Survival-1.17.1/fabricmods/required/entityculling-fabric-mc1.17.1-1.5.0.jar",
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse/fabricmods/required/entityculling-fabric-mc1.17.1-1.5.0.jar",
             "MD5": "3b0aa700dfbfc39842128e6afb585171"
           }
         },
@@ -179,7 +183,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1207739,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Survival-1.17.1/fabricmods/required/fabric-api-0.46.1+1.17.jar",
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse/fabricmods/required/fabric-api-0.46.1+1.17.jar",
             "MD5": "eebba029ba1aa20477b94dd535e59ee0"
           }
         },
@@ -189,7 +193,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 999609,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Survival-1.17.1/fabricmods/required/Gamma-Utils-1.4.8-mc1.17.1.jar",
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse/fabricmods/required/Gamma-Utils-1.4.8-mc1.17.1.jar",
             "MD5": "450e9fe3286c04584bcdad6d178a2fdf"
           }
         },
@@ -199,7 +203,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 127183,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Survival-1.17.1/fabricmods/required/krypton-0.1.4.jar",
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse/fabricmods/required/krypton-0.1.4.jar",
             "MD5": "9ed7dbe7b0803fc3f463f5ae099e2961"
           }
         },
@@ -209,7 +213,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 15517,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Survival-1.17.1/fabricmods/required/lazydfu-0.1.2.jar",
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse/fabricmods/required/lazydfu-0.1.2.jar",
             "MD5": "b2597e901c05673ef2834dad32da8824"
           }
         },
@@ -219,7 +223,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 444781,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Survival-1.17.1/fabricmods/required/lithium-fabric-mc1.17.1-0.7.5.jar",
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse/fabricmods/required/lithium-fabric-mc1.17.1-0.7.5.jar",
             "MD5": "a66d363e0da033c98a43986a3183ef2a"
           }
         },
@@ -229,7 +233,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 548701,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Survival-1.17.1/fabricmods/required/modmenu-2.0.17.jar",
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse/fabricmods/required/modmenu-2.0.17.jar",
             "MD5": "b52845f39b33e875c95a2c6d0f25782a"
           }
         },
@@ -239,7 +243,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 269759,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Survival-1.17.1/fabricmods/required/okzoomer-5.0.0-beta.3+1.17.1.jar",
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse/fabricmods/required/okzoomer-5.0.0-beta.3+1.17.1.jar",
             "MD5": "466ef40f80e077bfbd701cea64530498"
           }
         },
@@ -249,7 +253,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 67841,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Survival-1.17.1/fabricmods/required/reeses_sodium_options-1.6.3+mc1.17.1-build.87.jar",
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse/fabricmods/required/reeses_sodium_options-1.6.3+mc1.17.1-build.87.jar",
             "MD5": "e09b31f3ff7525ca012bd291f0be0a2d"
           }
         },
@@ -259,7 +263,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 13930479,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Survival-1.17.1/fabricmods/required/replaymod-1.17.1-2.6.20.jar",
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse/fabricmods/required/replaymod-1.17.1-2.6.20.jar",
             "MD5": "7ca5383f66ce4ce301ee11b0db4149e5"
           }
         },
@@ -269,7 +273,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 326175,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Survival-1.17.1/fabricmods/required/sodium-extra-0.4.18+mc1.17.1-build.97.jar",
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse/fabricmods/required/sodium-extra-0.4.18+mc1.17.1-build.97.jar",
             "MD5": "d04d88362df43074a262de0615f8e67f"
           }
         },
@@ -279,7 +283,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1286054,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Survival-1.17.1/fabricmods/required/sodium-fabric-mc1.17.1-0.3.4+build.13.jar",
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse/fabricmods/required/sodium-fabric-mc1.17.1-0.3.4+build.13.jar",
             "MD5": "e10ad1ca16385fd9464613a710138194"
           }
         },
@@ -289,7 +293,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 133032,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Survival-1.17.1/fabricmods/required/starlight-1.0.0+fabric.73f6d37.jar",
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse/fabricmods/required/starlight-1.0.0+fabric.73f6d37.jar",
             "MD5": "33a056d716ddb2cb834b6bcb9d5bc889"
           }
         },
@@ -299,7 +303,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 6093,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Survival-1.17.1/fabricmods/required/Woweclipse-2.7.jar",
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse/fabricmods/required/Woweclipse-2.7.jar",
             "MD5": "ae7b1fbb3cae7105aea50191bcc0fe35"
           }
         }
