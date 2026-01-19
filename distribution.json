@@ -6,6 +6,9 @@
     "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
     "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
   },
+  "landing": {
+    "mediaInstagramURL": "https://www.instagram.com/eclipsegamesxd/"
+  },
   "servers": [
     {
       "id": "Eclipse",
