@@ -10,7 +10,6 @@
       "id": "Eclipse",
       "name": "Eclipse (Minecraft 1.17.1)",
       "description": "Eclipse Running Minecraft 1.17.1 (Fabric v0.18.4)",
-      "icon": "https://krone.dev/icon.png",
       "version": "1.0.0",
       "address": "krone.dev",
       "minecraftVersion": "1.17.1",
