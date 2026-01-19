@@ -16,7 +16,7 @@
       "description": "Eclipse Running Minecraft 1.17.1 (Fabric v0.18.4)",
       "icon": null,
       "version": "1.0.0",
-      "address": "krone.dev",
+      "address": "krone.dev:25565",
       "minecraftVersion": "1.17.1",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
