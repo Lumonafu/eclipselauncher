@@ -9,12 +9,12 @@
             "largeImageKey": "seal"
         },
         "mainServer": true,
-        "name": "Eclipse", 
+        "name": "Eclipse",
         "version": "1.0.0"
     },
     "forge": null,
     "fabric": {
-        "version": "0.14.22"
+        "version": "0.16.9" 
     },
     "minecraftVersion": "1.17.1"
 }
