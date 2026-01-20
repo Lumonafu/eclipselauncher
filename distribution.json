@@ -616,6 +616,17 @@
           }
         },
         {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 4982,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/defaultconfigs/options.txt",
+            "MD5": "e72f7dac3b3818b2b3fe7d8426424c07",
+            "path": "defaultconfigs/options.txt"
+          }
+        },
+        {
           "id": "appleskin-fabric-mc1.20.1-2.5.1.jar",
           "name": "appleskin-fabric-mc1.20.1-2.5.1.jar",
           "type": "File",
@@ -635,6 +646,17 @@
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/mods/bactromod-1.8.jar",
             "MD5": "9af8dffcb5cd3f954122430360d727e5",
             "path": "mods/bactromod-1.8.jar"
+          }
+        },
+        {
+          "id": "balm-fabric-1.20.1-7.3.38.jar",
+          "name": "balm-fabric-1.20.1-7.3.38.jar",
+          "type": "File",
+          "artifact": {
+            "size": 609150,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/mods/balm-fabric-1.20.1-7.3.38.jar",
+            "MD5": "e940a352fb92223a94fda2b94826b34c",
+            "path": "mods/balm-fabric-1.20.1-7.3.38.jar"
           }
         },
         {
@@ -734,6 +756,17 @@
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/mods/Debugify-1.20.1+2.0.jar",
             "MD5": "39e6ead07cd3ce225fb24775e0cb0341",
             "path": "mods/Debugify-1.20.1+2.0.jar"
+          }
+        },
+        {
+          "id": "defaultoptions-fabric-1.20.1-18.0.4.jar",
+          "name": "defaultoptions-fabric-1.20.1-18.0.4.jar",
+          "type": "File",
+          "artifact": {
+            "size": 92486,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/mods/defaultoptions-fabric-1.20.1-18.0.4.jar",
+            "MD5": "64e780375ac8b71efe7099695375ac0b",
+            "path": "mods/defaultoptions-fabric-1.20.1-18.0.4.jar"
           }
         },
         {
@@ -1119,17 +1152,6 @@
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/mods/zoomify-2.15.1+1.20.1.jar",
             "MD5": "42c3ffce80e7a19b6dd18befcc6d0049",
             "path": "mods/zoomify-2.15.1+1.20.1.jar"
-          }
-        },
-        {
-          "id": "options.txt",
-          "name": "options.txt",
-          "type": "File",
-          "artifact": {
-            "size": 4982,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/options.txt",
-            "MD5": "e72f7dac3b3818b2b3fe7d8426424c07",
-            "path": "options.txt"
           }
         }
       ]
