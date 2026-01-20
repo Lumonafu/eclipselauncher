@@ -110,6 +110,486 @@
           ]
         },
         {
+          "id": "squeek.appleskin:appleskin:2.5.1+mc1.20@jar",
+          "name": "AppleSkin",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1064362,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/appleskin-fabric-mc1.20.1-2.5.1.jar",
+            "MD5": "723370be246a876144ae424cbbfd60f4"
+          }
+        },
+        {
+          "id": "de.daniel:bactromod:1.8@jar",
+          "name": "BactroMod",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 58965,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/bactromod-1.8.jar",
+            "MD5": "9af8dffcb5cd3f954122430360d727e5"
+          }
+        },
+        {
+          "id": "net.blay09.mods:balm:7.3.38@jar",
+          "name": "Balm",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 609150,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/balm-fabric-1.20.1-7.3.38.jar",
+            "MD5": "e940a352fb92223a94fda2b94826b34c"
+          }
+        },
+        {
+          "id": "net.uku3lig:bettershields:1.0.0+mc1.19.4@jar",
+          "name": "BetterShields",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 47660,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/bettershields-1.0.0+mc1.19.4.jar",
+            "MD5": "e1e5ec1c5f9c45e303ca411417596a8f"
+          }
+        },
+        {
+          "id": "com.ishland:c2me:0.2.0+alpha.11.16@jar",
+          "name": "Concurrent Chunk Management Engine",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1426500,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16.jar",
+            "MD5": "92a6600d0f05c7e70d92d459b3b9eba8"
+          }
+        },
+        {
+          "id": "dzwdz.chat_heads:chat_heads:0.14.2@jar",
+          "name": "Chat Heads",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 80747,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/chat_heads-0.14.2-fabric-1.20.jar",
+            "MD5": "571c0a5993d1693590e635ed2d4fba8f"
+          }
+        },
+        {
+          "id": "net.mrboogybam.chatcoords:ccoords:0.4.2338@jar",
+          "name": "Chat Coords",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 14451,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/chat-coords-0.4.2338.jar",
+            "MD5": "aac854e882d9420deb6c39041fd6eb27"
+          }
+        },
+        {
+          "id": "me.shedaniel.autoconfig.example:cloth-config:11.1.136@jar",
+          "name": "Cloth Config v11",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1172214,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/cloth-config-11.1.136-fabric.jar",
+            "MD5": "45d8bada7797af61d1f5543313b1f9f0"
+          }
+        },
+        {
+          "id": "com.natamus:collective:8.13@jar",
+          "name": "Collective",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 665169,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/collective-1.20.1-8.13.jar",
+            "MD5": "abe112af460bf8befe26605a5e4c4248"
+          }
+        },
+        {
+          "id": "dev.isxander.culllessleaves:cull-less-leaves:1.4.2+1.21-fabric@jar",
+          "name": "Cull Less Leaves",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 27086,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/Cull%20Less%20Leaves-1.4.2+1.21-fabric.jar",
+            "MD5": "f19165dad0971e6bfcecca1bf9ac0af2"
+          }
+        },
+        {
+          "id": "com.illusivesoulworks:customfov:6.2.1+1.20.1@jar",
+          "name": "Custom FOV",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 48686,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/customfov-fabric-6.2.1+1.20.1.jar",
+            "MD5": "deb9836bd2a6541d23d638bb1568c8da"
+          }
+        },
+        {
+          "id": "dev.isxander:debugify:1.20.1+2.0@jar",
+          "name": "Debugify",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 337545,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/Debugify-1.20.1+2.0.jar",
+            "MD5": "39e6ead07cd3ce225fb24775e0cb0341"
+          }
+        },
+        {
+          "id": "net.blay09.mods:defaultoptions:18.0.4@jar",
+          "name": "Default Options",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 92486,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/defaultoptions-fabric-1.20.1-18.0.4.jar",
+            "MD5": "64e780375ac8b71efe7099695375ac0b"
+          }
+        },
+        {
+          "id": "de.ryycat:deletenarrator:1.2@jar",
+          "name": "DeleteNarrator",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 879652,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/DeleteNarrator-1.2.jar",
+            "MD5": "50c95c3a4fee324e02ecf1f2adc7564b"
+          }
+        },
+        {
+          "id": "com.seibel:distanthorizons:2.4.5-b@jar",
+          "name": "Distant Horizons",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 25378978,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/DistantHorizons-2.4.5-b-1.20.1-fabric-forge.jar",
+            "MD5": "9d238e4b055990d7e202d9d24f410a5e"
+          }
+        },
+        {
+          "id": "com.provismet.dynamicFB:dynamic-fullbright:1.2.0@jar",
+          "name": "Dynamic Fullbright",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 118292,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/dynamic-fullbright-1.2.0.jar",
+            "MD5": "eaa770e3a3e8fc4d150bd56cae8dbb0c"
+          }
+        },
+        {
+          "id": "foundationgames.enhancedblockentities:enhancedblockentities:0.9+1.20@jar",
+          "name": "Enhanced Block Entities",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 490690,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/enhancedblockentities-0.9+1.20.jar",
+            "MD5": "bfc7a62a2834f824bb426b73f383e0cb"
+          }
+        },
+        {
+          "id": "dev.tr7zw:entityculling:1.9.5@jar",
+          "name": "EntityCulling",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1561882,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/entityculling-fabric-1.9.5-mc1.20.1.jar",
+            "MD5": "27c6f4d0ae823a847a5f737b2c67f587"
+          }
+        },
+        {
+          "id": "dev.tr7zw:exordium:1.4.2@jar",
+          "name": "Exordium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 220776,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/exordium-fabric-1.4.2-mc1.20.1.jar",
+            "MD5": "1c8acf731c0aafa67bc824ff413504c4"
+          }
+        },
+        {
+          "id": "generated.fabricmod:fabric-api:0.92.7+1.20.1@jar",
+          "name": "Fabric API",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2107977,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/fabric-api-0.92.7+1.20.1.jar",
+            "MD5": "789c66d62c1ef077c457a10191d7df23"
+          }
+        },
+        {
+          "id": "generated.fabricmod:fabric-language-kotlin:1.13.8+kotlin.2.3.0@jar",
+          "name": "Fabric Language Kotlin",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 7618852,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/fabric-language-kotlin-1.13.8+kotlin.2.3.0.jar",
+            "MD5": "964103287b72e606de845420d1a8cc57"
+          }
+        },
+        {
+          "id": "generated.fabricmod:ferritecore:6.0.1@jar",
+          "name": "FerriteCore",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 125197,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/ferritecore-6.0.1-fabric.jar",
+            "MD5": "a19272e427f75fea59127de6610ea26b"
+          }
+        },
+        {
+          "id": "org.lumobest:forced:1.0-SNAPSHOT@jar",
+          "name": "Forced",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 5921,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/Forced-1.2.jar",
+            "MD5": "df15af6d2a2b1fd2f54507584e13a2a8"
+          }
+        },
+        {
+          "id": "com.natamus:guieffecttimer:1.0@jar",
+          "name": "GUI Effect Timer",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 21801,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/guieffecttimer-1.20.1-1.0.jar",
+            "MD5": "6c45954ccda8131ffe3c87927008ff9c"
+          }
+        },
+        {
+          "id": "generated.fabricmod:immediatelyfast:1.5.3+1.20.4@jar",
+          "name": "ImmediatelyFast",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 242879,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/ImmediatelyFast-Fabric-1.5.3+1.20.4.jar",
+            "MD5": "1c34ed239ffc6eebf749da48eeef940b"
+          }
+        },
+        {
+          "id": "link.infra:indium:1.0.36+mc1.20.1@jar",
+          "name": "Indium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 105382,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/indium-1.0.36+mc1.20.1.jar",
+            "MD5": "21cefdaa742e1f31ded4f85f55a0f41c"
+          }
+        },
+        {
+          "id": "me.steinborn.krypton.mod.shared:krypton:0.2.3@jar",
+          "name": "Krypton",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 185895,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/krypton-0.2.3.jar",
+            "MD5": "3bf353c1ab576b57c003109c079e2ec8"
+          }
+        },
+        {
+          "id": "me.jellysquid.mods:lithium:0.11.4@jar",
+          "name": "Lithium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 691483,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/lithium-fabric-mc1.20.1-0.11.4.jar",
+            "MD5": "01fba3b3678fadc34d4d2878031762cd"
+          }
+        },
+        {
+          "id": "com.marlowcrystal:marlows-crystal-optimizer:1.0.3@jar",
+          "name": "Marlow's Crystal Optimizer",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 91032,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/Marlow's%20Crystal%20Optimizer-1.19.X-1.0.3.jar",
+            "MD5": "0c319c044ab31f1d6180872a27743c82"
+          }
+        },
+        {
+          "id": "ca.fxco:memoryleakfix:1.1.5@jar",
+          "name": "Memory Leak Fix",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 49334,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/memoryleakfix-fabric-1.17+-1.1.5.jar",
+            "MD5": "a8461f89d267441752c95beb5448e940"
+          }
+        },
+        {
+          "id": "org.embeddedt:modernfix:5.25.2+mc1.20.1@jar",
+          "name": "ModernFix",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 545175,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/modernfix-fabric-5.25.2+mc1.20.1.jar",
+            "MD5": "f4b88179db335a7e4f0234357b1a5ed1"
+          }
+        },
+        {
+          "id": "com.terraformersmc:modmenu:7.2.2@jar",
+          "name": "Mod Menu",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 721366,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/modmenu-7.2.2.jar",
+            "MD5": "2629511a2d3b141d9f2a24dc9685637e"
+          }
+        },
+        {
+          "id": "generated.fabricmod:morechathistory:1.3.0@jar",
+          "name": "More Chat History",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 3546,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/morechathistory-1.3.0.jar",
+            "MD5": "1980ac8b5b66417091d101682af8865c"
+          }
+        },
+        {
+          "id": "ca.fxco:moreculling:1.20.1-0.24.4@jar",
+          "name": "More Culling",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 274503,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/moreculling-1.20.1-0.24.4.jar",
+            "MD5": "0d1e44018278c368accfb64eaec30808"
+          }
+        },
+        {
+          "id": "dev.tr7zw:notenoughanimations:1.11.1@jar",
+          "name": "NotEnoughAnimations",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1924462,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/notenoughanimations-fabric-1.11.1-mc1.20.1.jar",
+            "MD5": "9fcdab86e5ecf1edadc4c83b9d507291"
+          }
+        },
+        {
+          "id": "generated.fabricmod:reeses-sodium-options:1.7.2+mc1.20.1-build.101@jar",
+          "name": "Reese's Sodium Options",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 77304,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/reeses_sodium_options-1.7.2+mc1.20.1-build.101.jar",
+            "MD5": "0db2ef332dd00de8c64e34f192317118"
+          }
+        },
+        {
+          "id": "com.replaymod.core:replaymod:1.20.1-2.6.23@jar",
+          "name": "Replay Mod",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 14739015,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/replaymod-1.20.1-2.6.23.jar",
+            "MD5": "a5306cc46ec23df781df1b86a2106373"
+          }
+        },
+        {
+          "id": "com.misterpemodder:shulkerboxtooltip:4.0.4+1.20.1@jar",
+          "name": "Shulker Box Tooltip",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1215693,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/shulkerboxtooltip-fabric-4.0.4+1.20.1.jar",
+            "MD5": "f3dbda55b10626725456665abd633e93"
+          }
+        },
+        {
+          "id": "net.racialgamer:smallpop:0.4@jar",
+          "name": "Small pop",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 14285,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/smallpop-1.20.1-0.4.jar",
+            "MD5": "bce8e04ab5061e64568f7130eedfbfe0"
+          }
+        },
+        {
+          "id": "me.flashyreese.mods.sodiumextra:sodium-extra:0.5.9+mc1.20.1@jar",
+          "name": "Sodium Extra",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 370701,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/sodium-extra-0.5.9+mc1.20.1.jar",
+            "MD5": "cb941aa93cad7e9e238f56b6f75b1c10"
+          }
+        },
+        {
+          "id": "me.jellysquid.mods:sodium:0.5.13+mc1.20.1@jar",
+          "name": "Sodium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 971552,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/sodium-fabric-0.5.13+mc1.20.1.jar",
+            "MD5": "76e0349865f91f315aae087a6e88a84a"
+          }
+        },
+        {
+          "id": "toni.sodiumextras:sodiumextras:1.0.6@jar",
+          "name": "Sodium Extras",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 630468,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/sodiumextras-fabric-1.0.7-1.20.1.jar",
+            "MD5": "2a4783798a52fe22c5f6476fc65c0ff1"
+          }
+        },
+        {
+          "id": "toni.sodiumoptionsapi:sodiumoptionsapi:1.0.10@jar",
+          "name": "Sodium Options API",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 657853,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/sodiumoptionsapi-fabric-1.0.10-1.20.1.jar",
+            "MD5": "39dcf7865bc46eaf3d446da02b29c3c5"
+          }
+        },
+        {
+          "id": "com.github.getchoo.smoothboot:threadtweak:1.20.2-0.1.1@jar",
+          "name": "ThreadTweak",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 144848,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/threadtweak-fabric-1.20.2-0.1.1.jar",
+            "MD5": "3db999f5fc9b78fdbbf66d12461d49f5"
+          }
+        },
+        {
+          "id": "generated.fabricmod:ukulib:0.7.0+1.20@jar",
+          "name": "Ukulib",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 239638,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/ukulib-0.7.0+1.20.jar",
+            "MD5": "747b0247c69327641b615a398e6dfb10"
+          }
+        },
+        {
+          "id": "generated.fabricmod:ukus-armor-hud:0.3.10+mc1.20.1@jar",
+          "name": "Uku's Armor HUD",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 31693,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/ukus-armor-hud-0.3.10+mc1.20.1.jar",
+            "MD5": "6436065b939fe4215c67452fbee1e94c"
+          }
+        },
+        {
+          "id": "dev.isxander.yacl3.platform:yet_another_config_lib_v3:3.6.6+1.20.1-fabric@jar",
+          "name": "YetAnotherConfigLib",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1294234,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/yet_another_config_lib_v3-3.6.6+1.20.1-fabric.jar",
+            "MD5": "b6960b2defbf8cb1b983cffd261089ba"
+          }
+        },
+        {
+          "id": "dev.isxander:zoomify:2.15.1+1.20.1@jar",
+          "name": "Zoomify",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 872547,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/zoomify-2.15.1+1.20.1.jar",
+            "MD5": "42c3ffce80e7a19b6dd18befcc6d0049"
+          }
+        },
+        {
           "id": "advanced-ui-scale.json",
           "name": "advanced-ui-scale.json",
           "type": "File",
@@ -657,534 +1137,6 @@
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/config/defaultoptions/zoomify.json",
             "MD5": "c36fa335724f4f5b6848ba340ae58511",
             "path": "config/defaultoptions/zoomify.json"
-          }
-        },
-        {
-          "id": "appleskin-fabric-mc1.20.1-2.5.1.jar",
-          "name": "appleskin-fabric-mc1.20.1-2.5.1.jar",
-          "type": "File",
-          "artifact": {
-            "size": 1064362,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/mods/required/appleskin-fabric-mc1.20.1-2.5.1.jar",
-            "MD5": "723370be246a876144ae424cbbfd60f4",
-            "path": "mods/required/appleskin-fabric-mc1.20.1-2.5.1.jar"
-          }
-        },
-        {
-          "id": "bactromod-1.8.jar",
-          "name": "bactromod-1.8.jar",
-          "type": "File",
-          "artifact": {
-            "size": 58965,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/mods/required/bactromod-1.8.jar",
-            "MD5": "9af8dffcb5cd3f954122430360d727e5",
-            "path": "mods/required/bactromod-1.8.jar"
-          }
-        },
-        {
-          "id": "balm-fabric-1.20.1-7.3.38.jar",
-          "name": "balm-fabric-1.20.1-7.3.38.jar",
-          "type": "File",
-          "artifact": {
-            "size": 609150,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/mods/required/balm-fabric-1.20.1-7.3.38.jar",
-            "MD5": "e940a352fb92223a94fda2b94826b34c",
-            "path": "mods/required/balm-fabric-1.20.1-7.3.38.jar"
-          }
-        },
-        {
-          "id": "bettershields-1.0.0+mc1.19.4.jar",
-          "name": "bettershields-1.0.0+mc1.19.4.jar",
-          "type": "File",
-          "artifact": {
-            "size": 47660,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/mods/required/bettershields-1.0.0+mc1.19.4.jar",
-            "MD5": "e1e5ec1c5f9c45e303ca411417596a8f",
-            "path": "mods/required/bettershields-1.0.0+mc1.19.4.jar"
-          }
-        },
-        {
-          "id": "c2me-fabric-mc1.20.1-0.2.0+alpha.11.16.jar",
-          "name": "c2me-fabric-mc1.20.1-0.2.0+alpha.11.16.jar",
-          "type": "File",
-          "artifact": {
-            "size": 1426500,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/mods/required/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16.jar",
-            "MD5": "92a6600d0f05c7e70d92d459b3b9eba8",
-            "path": "mods/required/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16.jar"
-          }
-        },
-        {
-          "id": "chat-coords-0.4.2338.jar",
-          "name": "chat-coords-0.4.2338.jar",
-          "type": "File",
-          "artifact": {
-            "size": 14451,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/mods/required/chat-coords-0.4.2338.jar",
-            "MD5": "aac854e882d9420deb6c39041fd6eb27",
-            "path": "mods/required/chat-coords-0.4.2338.jar"
-          }
-        },
-        {
-          "id": "chat_heads-0.14.2-fabric-1.20.jar",
-          "name": "chat_heads-0.14.2-fabric-1.20.jar",
-          "type": "File",
-          "artifact": {
-            "size": 80747,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/mods/required/chat_heads-0.14.2-fabric-1.20.jar",
-            "MD5": "571c0a5993d1693590e635ed2d4fba8f",
-            "path": "mods/required/chat_heads-0.14.2-fabric-1.20.jar"
-          }
-        },
-        {
-          "id": "cloth-config-11.1.136-fabric.jar",
-          "name": "cloth-config-11.1.136-fabric.jar",
-          "type": "File",
-          "artifact": {
-            "size": 1172214,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/mods/required/cloth-config-11.1.136-fabric.jar",
-            "MD5": "45d8bada7797af61d1f5543313b1f9f0",
-            "path": "mods/required/cloth-config-11.1.136-fabric.jar"
-          }
-        },
-        {
-          "id": "collective-1.20.1-8.13.jar",
-          "name": "collective-1.20.1-8.13.jar",
-          "type": "File",
-          "artifact": {
-            "size": 665169,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/mods/required/collective-1.20.1-8.13.jar",
-            "MD5": "abe112af460bf8befe26605a5e4c4248",
-            "path": "mods/required/collective-1.20.1-8.13.jar"
-          }
-        },
-        {
-          "id": "Cull Less Leaves-1.4.2+1.21-fabric.jar",
-          "name": "Cull Less Leaves-1.4.2+1.21-fabric.jar",
-          "type": "File",
-          "artifact": {
-            "size": 27086,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/mods/required/Cull%20Less%20Leaves-1.4.2+1.21-fabric.jar",
-            "MD5": "f19165dad0971e6bfcecca1bf9ac0af2",
-            "path": "mods/required/Cull Less Leaves-1.4.2+1.21-fabric.jar"
-          }
-        },
-        {
-          "id": "customfov-fabric-6.2.1+1.20.1.jar",
-          "name": "customfov-fabric-6.2.1+1.20.1.jar",
-          "type": "File",
-          "artifact": {
-            "size": 48686,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/mods/required/customfov-fabric-6.2.1+1.20.1.jar",
-            "MD5": "deb9836bd2a6541d23d638bb1568c8da",
-            "path": "mods/required/customfov-fabric-6.2.1+1.20.1.jar"
-          }
-        },
-        {
-          "id": "Debugify-1.20.1+2.0.jar",
-          "name": "Debugify-1.20.1+2.0.jar",
-          "type": "File",
-          "artifact": {
-            "size": 337545,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/mods/required/Debugify-1.20.1+2.0.jar",
-            "MD5": "39e6ead07cd3ce225fb24775e0cb0341",
-            "path": "mods/required/Debugify-1.20.1+2.0.jar"
-          }
-        },
-        {
-          "id": "defaultoptions-fabric-1.20.1-18.0.4.jar",
-          "name": "defaultoptions-fabric-1.20.1-18.0.4.jar",
-          "type": "File",
-          "artifact": {
-            "size": 92486,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/mods/required/defaultoptions-fabric-1.20.1-18.0.4.jar",
-            "MD5": "64e780375ac8b71efe7099695375ac0b",
-            "path": "mods/required/defaultoptions-fabric-1.20.1-18.0.4.jar"
-          }
-        },
-        {
-          "id": "DeleteNarrator-1.2.jar",
-          "name": "DeleteNarrator-1.2.jar",
-          "type": "File",
-          "artifact": {
-            "size": 879652,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/mods/required/DeleteNarrator-1.2.jar",
-            "MD5": "50c95c3a4fee324e02ecf1f2adc7564b",
-            "path": "mods/required/DeleteNarrator-1.2.jar"
-          }
-        },
-        {
-          "id": "DistantHorizons-2.4.5-b-1.20.1-fabric-forge.jar",
-          "name": "DistantHorizons-2.4.5-b-1.20.1-fabric-forge.jar",
-          "type": "File",
-          "artifact": {
-            "size": 25378978,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/mods/required/DistantHorizons-2.4.5-b-1.20.1-fabric-forge.jar",
-            "MD5": "9d238e4b055990d7e202d9d24f410a5e",
-            "path": "mods/required/DistantHorizons-2.4.5-b-1.20.1-fabric-forge.jar"
-          }
-        },
-        {
-          "id": "dynamic-fullbright-1.2.0.jar",
-          "name": "dynamic-fullbright-1.2.0.jar",
-          "type": "File",
-          "artifact": {
-            "size": 118292,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/mods/required/dynamic-fullbright-1.2.0.jar",
-            "MD5": "eaa770e3a3e8fc4d150bd56cae8dbb0c",
-            "path": "mods/required/dynamic-fullbright-1.2.0.jar"
-          }
-        },
-        {
-          "id": "enhancedblockentities-0.9+1.20.jar",
-          "name": "enhancedblockentities-0.9+1.20.jar",
-          "type": "File",
-          "artifact": {
-            "size": 490690,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/mods/required/enhancedblockentities-0.9+1.20.jar",
-            "MD5": "bfc7a62a2834f824bb426b73f383e0cb",
-            "path": "mods/required/enhancedblockentities-0.9+1.20.jar"
-          }
-        },
-        {
-          "id": "entityculling-fabric-1.9.5-mc1.20.1.jar",
-          "name": "entityculling-fabric-1.9.5-mc1.20.1.jar",
-          "type": "File",
-          "artifact": {
-            "size": 1561882,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/mods/required/entityculling-fabric-1.9.5-mc1.20.1.jar",
-            "MD5": "27c6f4d0ae823a847a5f737b2c67f587",
-            "path": "mods/required/entityculling-fabric-1.9.5-mc1.20.1.jar"
-          }
-        },
-        {
-          "id": "exordium-fabric-1.4.2-mc1.20.1.jar",
-          "name": "exordium-fabric-1.4.2-mc1.20.1.jar",
-          "type": "File",
-          "artifact": {
-            "size": 220776,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/mods/required/exordium-fabric-1.4.2-mc1.20.1.jar",
-            "MD5": "1c8acf731c0aafa67bc824ff413504c4",
-            "path": "mods/required/exordium-fabric-1.4.2-mc1.20.1.jar"
-          }
-        },
-        {
-          "id": "fabric-api-0.92.7+1.20.1.jar",
-          "name": "fabric-api-0.92.7+1.20.1.jar",
-          "type": "File",
-          "artifact": {
-            "size": 2107977,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/mods/required/fabric-api-0.92.7+1.20.1.jar",
-            "MD5": "789c66d62c1ef077c457a10191d7df23",
-            "path": "mods/required/fabric-api-0.92.7+1.20.1.jar"
-          }
-        },
-        {
-          "id": "fabric-language-kotlin-1.13.8+kotlin.2.3.0.jar",
-          "name": "fabric-language-kotlin-1.13.8+kotlin.2.3.0.jar",
-          "type": "File",
-          "artifact": {
-            "size": 7618852,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/mods/required/fabric-language-kotlin-1.13.8+kotlin.2.3.0.jar",
-            "MD5": "964103287b72e606de845420d1a8cc57",
-            "path": "mods/required/fabric-language-kotlin-1.13.8+kotlin.2.3.0.jar"
-          }
-        },
-        {
-          "id": "ferritecore-6.0.1-fabric.jar",
-          "name": "ferritecore-6.0.1-fabric.jar",
-          "type": "File",
-          "artifact": {
-            "size": 125197,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/mods/required/ferritecore-6.0.1-fabric.jar",
-            "MD5": "a19272e427f75fea59127de6610ea26b",
-            "path": "mods/required/ferritecore-6.0.1-fabric.jar"
-          }
-        },
-        {
-          "id": "Forced-1.2.jar",
-          "name": "Forced-1.2.jar",
-          "type": "File",
-          "artifact": {
-            "size": 5921,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/mods/required/Forced-1.2.jar",
-            "MD5": "df15af6d2a2b1fd2f54507584e13a2a8",
-            "path": "mods/required/Forced-1.2.jar"
-          }
-        },
-        {
-          "id": "guieffecttimer-1.20.1-1.0.jar",
-          "name": "guieffecttimer-1.20.1-1.0.jar",
-          "type": "File",
-          "artifact": {
-            "size": 21801,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/mods/required/guieffecttimer-1.20.1-1.0.jar",
-            "MD5": "6c45954ccda8131ffe3c87927008ff9c",
-            "path": "mods/required/guieffecttimer-1.20.1-1.0.jar"
-          }
-        },
-        {
-          "id": "ImmediatelyFast-Fabric-1.5.3+1.20.4.jar",
-          "name": "ImmediatelyFast-Fabric-1.5.3+1.20.4.jar",
-          "type": "File",
-          "artifact": {
-            "size": 242879,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/mods/required/ImmediatelyFast-Fabric-1.5.3+1.20.4.jar",
-            "MD5": "1c34ed239ffc6eebf749da48eeef940b",
-            "path": "mods/required/ImmediatelyFast-Fabric-1.5.3+1.20.4.jar"
-          }
-        },
-        {
-          "id": "indium-1.0.36+mc1.20.1.jar",
-          "name": "indium-1.0.36+mc1.20.1.jar",
-          "type": "File",
-          "artifact": {
-            "size": 105382,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/mods/required/indium-1.0.36+mc1.20.1.jar",
-            "MD5": "21cefdaa742e1f31ded4f85f55a0f41c",
-            "path": "mods/required/indium-1.0.36+mc1.20.1.jar"
-          }
-        },
-        {
-          "id": "krypton-0.2.3.jar",
-          "name": "krypton-0.2.3.jar",
-          "type": "File",
-          "artifact": {
-            "size": 185895,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/mods/required/krypton-0.2.3.jar",
-            "MD5": "3bf353c1ab576b57c003109c079e2ec8",
-            "path": "mods/required/krypton-0.2.3.jar"
-          }
-        },
-        {
-          "id": "lithium-fabric-mc1.20.1-0.11.4.jar",
-          "name": "lithium-fabric-mc1.20.1-0.11.4.jar",
-          "type": "File",
-          "artifact": {
-            "size": 691483,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/mods/required/lithium-fabric-mc1.20.1-0.11.4.jar",
-            "MD5": "01fba3b3678fadc34d4d2878031762cd",
-            "path": "mods/required/lithium-fabric-mc1.20.1-0.11.4.jar"
-          }
-        },
-        {
-          "id": "Marlow's Crystal Optimizer-1.19.X-1.0.3.jar",
-          "name": "Marlow's Crystal Optimizer-1.19.X-1.0.3.jar",
-          "type": "File",
-          "artifact": {
-            "size": 91032,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/mods/required/Marlow's%20Crystal%20Optimizer-1.19.X-1.0.3.jar",
-            "MD5": "0c319c044ab31f1d6180872a27743c82",
-            "path": "mods/required/Marlow's Crystal Optimizer-1.19.X-1.0.3.jar"
-          }
-        },
-        {
-          "id": "memoryleakfix-fabric-1.17+-1.1.5.jar",
-          "name": "memoryleakfix-fabric-1.17+-1.1.5.jar",
-          "type": "File",
-          "artifact": {
-            "size": 49334,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/mods/required/memoryleakfix-fabric-1.17+-1.1.5.jar",
-            "MD5": "a8461f89d267441752c95beb5448e940",
-            "path": "mods/required/memoryleakfix-fabric-1.17+-1.1.5.jar"
-          }
-        },
-        {
-          "id": "modernfix-fabric-5.25.2+mc1.20.1.jar",
-          "name": "modernfix-fabric-5.25.2+mc1.20.1.jar",
-          "type": "File",
-          "artifact": {
-            "size": 545175,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/mods/required/modernfix-fabric-5.25.2+mc1.20.1.jar",
-            "MD5": "f4b88179db335a7e4f0234357b1a5ed1",
-            "path": "mods/required/modernfix-fabric-5.25.2+mc1.20.1.jar"
-          }
-        },
-        {
-          "id": "modmenu-7.2.2.jar",
-          "name": "modmenu-7.2.2.jar",
-          "type": "File",
-          "artifact": {
-            "size": 721366,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/mods/required/modmenu-7.2.2.jar",
-            "MD5": "2629511a2d3b141d9f2a24dc9685637e",
-            "path": "mods/required/modmenu-7.2.2.jar"
-          }
-        },
-        {
-          "id": "morechathistory-1.3.0.jar",
-          "name": "morechathistory-1.3.0.jar",
-          "type": "File",
-          "artifact": {
-            "size": 3546,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/mods/required/morechathistory-1.3.0.jar",
-            "MD5": "1980ac8b5b66417091d101682af8865c",
-            "path": "mods/required/morechathistory-1.3.0.jar"
-          }
-        },
-        {
-          "id": "moreculling-1.20.1-0.24.4.jar",
-          "name": "moreculling-1.20.1-0.24.4.jar",
-          "type": "File",
-          "artifact": {
-            "size": 274503,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/mods/required/moreculling-1.20.1-0.24.4.jar",
-            "MD5": "0d1e44018278c368accfb64eaec30808",
-            "path": "mods/required/moreculling-1.20.1-0.24.4.jar"
-          }
-        },
-        {
-          "id": "notenoughanimations-fabric-1.11.1-mc1.20.1.jar",
-          "name": "notenoughanimations-fabric-1.11.1-mc1.20.1.jar",
-          "type": "File",
-          "artifact": {
-            "size": 1924462,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/mods/required/notenoughanimations-fabric-1.11.1-mc1.20.1.jar",
-            "MD5": "9fcdab86e5ecf1edadc4c83b9d507291",
-            "path": "mods/required/notenoughanimations-fabric-1.11.1-mc1.20.1.jar"
-          }
-        },
-        {
-          "id": "reeses_sodium_options-1.7.2+mc1.20.1-build.101.jar",
-          "name": "reeses_sodium_options-1.7.2+mc1.20.1-build.101.jar",
-          "type": "File",
-          "artifact": {
-            "size": 77304,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/mods/required/reeses_sodium_options-1.7.2+mc1.20.1-build.101.jar",
-            "MD5": "0db2ef332dd00de8c64e34f192317118",
-            "path": "mods/required/reeses_sodium_options-1.7.2+mc1.20.1-build.101.jar"
-          }
-        },
-        {
-          "id": "replaymod-1.20.1-2.6.23.jar",
-          "name": "replaymod-1.20.1-2.6.23.jar",
-          "type": "File",
-          "artifact": {
-            "size": 14739015,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/mods/required/replaymod-1.20.1-2.6.23.jar",
-            "MD5": "a5306cc46ec23df781df1b86a2106373",
-            "path": "mods/required/replaymod-1.20.1-2.6.23.jar"
-          }
-        },
-        {
-          "id": "shulkerboxtooltip-fabric-4.0.4+1.20.1.jar",
-          "name": "shulkerboxtooltip-fabric-4.0.4+1.20.1.jar",
-          "type": "File",
-          "artifact": {
-            "size": 1215693,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/mods/required/shulkerboxtooltip-fabric-4.0.4+1.20.1.jar",
-            "MD5": "f3dbda55b10626725456665abd633e93",
-            "path": "mods/required/shulkerboxtooltip-fabric-4.0.4+1.20.1.jar"
-          }
-        },
-        {
-          "id": "smallpop-1.20.1-0.4.jar",
-          "name": "smallpop-1.20.1-0.4.jar",
-          "type": "File",
-          "artifact": {
-            "size": 14285,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/mods/required/smallpop-1.20.1-0.4.jar",
-            "MD5": "bce8e04ab5061e64568f7130eedfbfe0",
-            "path": "mods/required/smallpop-1.20.1-0.4.jar"
-          }
-        },
-        {
-          "id": "sodium-extra-0.5.9+mc1.20.1.jar",
-          "name": "sodium-extra-0.5.9+mc1.20.1.jar",
-          "type": "File",
-          "artifact": {
-            "size": 370701,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/mods/required/sodium-extra-0.5.9+mc1.20.1.jar",
-            "MD5": "cb941aa93cad7e9e238f56b6f75b1c10",
-            "path": "mods/required/sodium-extra-0.5.9+mc1.20.1.jar"
-          }
-        },
-        {
-          "id": "sodium-fabric-0.5.13+mc1.20.1.jar",
-          "name": "sodium-fabric-0.5.13+mc1.20.1.jar",
-          "type": "File",
-          "artifact": {
-            "size": 971552,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/mods/required/sodium-fabric-0.5.13+mc1.20.1.jar",
-            "MD5": "76e0349865f91f315aae087a6e88a84a",
-            "path": "mods/required/sodium-fabric-0.5.13+mc1.20.1.jar"
-          }
-        },
-        {
-          "id": "sodiumextras-fabric-1.0.7-1.20.1.jar",
-          "name": "sodiumextras-fabric-1.0.7-1.20.1.jar",
-          "type": "File",
-          "artifact": {
-            "size": 630468,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/mods/required/sodiumextras-fabric-1.0.7-1.20.1.jar",
-            "MD5": "2a4783798a52fe22c5f6476fc65c0ff1",
-            "path": "mods/required/sodiumextras-fabric-1.0.7-1.20.1.jar"
-          }
-        },
-        {
-          "id": "sodiumoptionsapi-fabric-1.0.10-1.20.1.jar",
-          "name": "sodiumoptionsapi-fabric-1.0.10-1.20.1.jar",
-          "type": "File",
-          "artifact": {
-            "size": 657853,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/mods/required/sodiumoptionsapi-fabric-1.0.10-1.20.1.jar",
-            "MD5": "39dcf7865bc46eaf3d446da02b29c3c5",
-            "path": "mods/required/sodiumoptionsapi-fabric-1.0.10-1.20.1.jar"
-          }
-        },
-        {
-          "id": "threadtweak-fabric-1.20.2-0.1.1.jar",
-          "name": "threadtweak-fabric-1.20.2-0.1.1.jar",
-          "type": "File",
-          "artifact": {
-            "size": 144848,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/mods/required/threadtweak-fabric-1.20.2-0.1.1.jar",
-            "MD5": "3db999f5fc9b78fdbbf66d12461d49f5",
-            "path": "mods/required/threadtweak-fabric-1.20.2-0.1.1.jar"
-          }
-        },
-        {
-          "id": "ukulib-0.7.0+1.20.jar",
-          "name": "ukulib-0.7.0+1.20.jar",
-          "type": "File",
-          "artifact": {
-            "size": 239638,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/mods/required/ukulib-0.7.0+1.20.jar",
-            "MD5": "747b0247c69327641b615a398e6dfb10",
-            "path": "mods/required/ukulib-0.7.0+1.20.jar"
-          }
-        },
-        {
-          "id": "ukus-armor-hud-0.3.10+mc1.20.1.jar",
-          "name": "ukus-armor-hud-0.3.10+mc1.20.1.jar",
-          "type": "File",
-          "artifact": {
-            "size": 31693,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/mods/required/ukus-armor-hud-0.3.10+mc1.20.1.jar",
-            "MD5": "6436065b939fe4215c67452fbee1e94c",
-            "path": "mods/required/ukus-armor-hud-0.3.10+mc1.20.1.jar"
-          }
-        },
-        {
-          "id": "yet_another_config_lib_v3-3.6.6+1.20.1-fabric.jar",
-          "name": "yet_another_config_lib_v3-3.6.6+1.20.1-fabric.jar",
-          "type": "File",
-          "artifact": {
-            "size": 1294234,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/mods/required/yet_another_config_lib_v3-3.6.6+1.20.1-fabric.jar",
-            "MD5": "b6960b2defbf8cb1b983cffd261089ba",
-            "path": "mods/required/yet_another_config_lib_v3-3.6.6+1.20.1-fabric.jar"
-          }
-        },
-        {
-          "id": "zoomify-2.15.1+1.20.1.jar",
-          "name": "zoomify-2.15.1+1.20.1.jar",
-          "type": "File",
-          "artifact": {
-            "size": 872547,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/mods/required/zoomify-2.15.1+1.20.1.jar",
-            "MD5": "42c3ffce80e7a19b6dd18befcc6d0049",
-            "path": "mods/required/zoomify-2.15.1+1.20.1.jar"
           }
         }
       ]
