@@ -245,8 +245,12 @@
           "type": "FabricMod",
           "artifact": {
             "size": 25378978,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/DistantHorizons-2.4.5-b-1.20.1-fabric-forge.jar",
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/optionaloff/DistantHorizons-2.4.5-b-1.20.1-fabric-forge.jar",
             "MD5": "9d238e4b055990d7e202d9d24f410a5e"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -285,8 +289,12 @@
           "type": "FabricMod",
           "artifact": {
             "size": 220776,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/exordium-fabric-1.4.2-mc1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/optionaloff/exordium-fabric-1.4.2-mc1.20.1.jar",
             "MD5": "1c8acf731c0aafa67bc824ff413504c4"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -535,8 +543,12 @@
           "type": "FabricMod",
           "artifact": {
             "size": 144848,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/threadtweak-fabric-1.20.2-0.1.1.jar",
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/optionaloff/threadtweak-fabric-1.20.2-0.1.1.jar",
             "MD5": "3db999f5fc9b78fdbbf66d12461d49f5"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
