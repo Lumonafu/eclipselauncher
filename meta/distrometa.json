@@ -1,16 +1,29 @@
 {
     "meta": {
-        "rss": "https://krone.dev/news.rss",
-        "description": "El launcher oficial de Eclipse",
-        "name": "Eclipse Launcher",
-        "version": "1.0.0"
+        "rss": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/distribution.json",
+        "description": "Distribución oficial de Eclipse Launcher",
+        "name": "Eclipse Distribution"
     },
-    "landing": {
-        "mediaInstagramURL": "https://www.instagram.com/eclipsegamesxd"
-    },
-    "discord": {
-        "clientId": "892062369796010044",
-        "smallImageText": "Eclipse Launcher",
-        "smallImageKey": "seal"
-    }
+    "servers": [
+        {
+            "meta": {
+                "id": "Eclipse-1.20.1",
+                "address": "krone.dev",
+                "description": "Eclipse Running Minecraft 1.20.1",
+                "discord": {
+                    "shortId": "Eclipse",
+                    "largeImageText": "Jugando en Eclipse",
+                    "largeImageKey": "seal"
+                },
+                "mainServer": true,
+                "name": "Eclipse",
+                "version": "1.0.0"
+            },
+            "forge": null,
+            "fabric": {
+                "version": "0.18.1"
+            },
+            "minecraftVersion": "1.20.1"
+        }
+    ]
 }
