@@ -454,6 +454,16 @@
           }
         },
         {
+          "id": "com.replaymod.core:replaymod:1.20.1-2.6.23@jar",
+          "name": "Replay Mod",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 14739015,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/replaymod-1.20.1-2.6.23.jar",
+            "MD5": "a5306cc46ec23df781df1b86a2106373"
+          }
+        },
+        {
           "id": "com.misterpemodder:shulkerboxtooltip:4.0.4+1.20.1@jar",
           "name": "Shulker Box Tooltip",
           "type": "FabricMod",
@@ -1026,6 +1036,105 @@
           }
         },
         {
+          "id": "bedrock.account",
+          "name": "bedrock.account",
+          "type": "File",
+          "artifact": {
+            "size": 2,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/configureddefaults/config/ViaFabricPlus/bedrock.account",
+            "MD5": "99914b932bd37a50b983c5e7c90ae93b",
+            "path": "configureddefaults/config/ViaFabricPlus/bedrock.account"
+          }
+        },
+        {
+          "id": "classicube.account",
+          "name": "classicube.account",
+          "type": "File",
+          "artifact": {
+            "size": 2,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/configureddefaults/config/ViaFabricPlus/classicube.account",
+            "MD5": "99914b932bd37a50b983c5e7c90ae93b",
+            "path": "configureddefaults/config/ViaFabricPlus/classicube.account"
+          }
+        },
+        {
+          "id": "settings.json",
+          "name": "settings.json",
+          "type": "File",
+          "artifact": {
+            "size": 1851,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/configureddefaults/config/ViaFabricPlus/settings.json",
+            "MD5": "df8307316731a0656c88014d3a601502",
+            "path": "configureddefaults/config/ViaFabricPlus/settings.json"
+          }
+        },
+        {
+          "id": "config.yml",
+          "name": "config.yml",
+          "type": "File",
+          "artifact": {
+            "size": 1168,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/configureddefaults/config/ViaFabricPlus/ViaLoader/config.yml",
+            "MD5": "41d83d546cb65d8949b600f0037f469f",
+            "path": "configureddefaults/config/ViaFabricPlus/ViaLoader/config.yml"
+          }
+        },
+        {
+          "id": "viaaprilfools.yml",
+          "name": "viaaprilfools.yml",
+          "type": "File",
+          "artifact": {
+            "size": 45,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/configureddefaults/config/ViaFabricPlus/ViaLoader/viaaprilfools.yml",
+            "MD5": "235b58f7ee7f9734849ac5f86f723a6c",
+            "path": "configureddefaults/config/ViaFabricPlus/ViaLoader/viaaprilfools.yml"
+          }
+        },
+        {
+          "id": "viabackwards.yml",
+          "name": "viabackwards.yml",
+          "type": "File",
+          "artifact": {
+            "size": 1168,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/configureddefaults/config/ViaFabricPlus/ViaLoader/viabackwards.yml",
+            "MD5": "41d83d546cb65d8949b600f0037f469f",
+            "path": "configureddefaults/config/ViaFabricPlus/ViaLoader/viabackwards.yml"
+          }
+        },
+        {
+          "id": "viabedrock.yml",
+          "name": "viabedrock.yml",
+          "type": "File",
+          "artifact": {
+            "size": 423,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/configureddefaults/config/ViaFabricPlus/ViaLoader/viabedrock.yml",
+            "MD5": "2ac925699c70059699650e8caeb61362",
+            "path": "configureddefaults/config/ViaFabricPlus/ViaLoader/viabedrock.yml"
+          }
+        },
+        {
+          "id": "vialegacy.yml",
+          "name": "vialegacy.yml",
+          "type": "File",
+          "artifact": {
+            "size": 796,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/configureddefaults/config/ViaFabricPlus/ViaLoader/vialegacy.yml",
+            "MD5": "f77ae06c91bdbaecf7eeeea9b719f63a",
+            "path": "configureddefaults/config/ViaFabricPlus/ViaLoader/vialegacy.yml"
+          }
+        },
+        {
+          "id": "viaversion.yml",
+          "name": "viaversion.yml",
+          "type": "File",
+          "artifact": {
+            "size": 8225,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/configureddefaults/config/ViaFabricPlus/ViaLoader/viaversion.yml",
+            "MD5": "a8ee053de8421708ebc661530439624c",
+            "path": "configureddefaults/config/ViaFabricPlus/ViaLoader/viaversion.yml"
+          }
+        },
+        {
           "id": "yacl.json5",
           "name": "yacl.json5",
           "type": "File",
@@ -1067,6 +1176,105 @@
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/configureddefaults/README.md",
             "MD5": "be406d0b9cbb88c791dd01a527349cc5",
             "path": "configureddefaults/README.md"
+          }
+        },
+        {
+          "id": "bedrock.account",
+          "name": "bedrock.account",
+          "type": "File",
+          "artifact": {
+            "size": 2,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/ViaFabricPlus/bedrock.account",
+            "MD5": "99914b932bd37a50b983c5e7c90ae93b",
+            "path": "ViaFabricPlus/bedrock.account"
+          }
+        },
+        {
+          "id": "classicube.account",
+          "name": "classicube.account",
+          "type": "File",
+          "artifact": {
+            "size": 2,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/ViaFabricPlus/classicube.account",
+            "MD5": "99914b932bd37a50b983c5e7c90ae93b",
+            "path": "ViaFabricPlus/classicube.account"
+          }
+        },
+        {
+          "id": "settings.json",
+          "name": "settings.json",
+          "type": "File",
+          "artifact": {
+            "size": 1851,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/ViaFabricPlus/settings.json",
+            "MD5": "df8307316731a0656c88014d3a601502",
+            "path": "ViaFabricPlus/settings.json"
+          }
+        },
+        {
+          "id": "config.yml",
+          "name": "config.yml",
+          "type": "File",
+          "artifact": {
+            "size": 1168,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/ViaFabricPlus/ViaLoader/config.yml",
+            "MD5": "41d83d546cb65d8949b600f0037f469f",
+            "path": "ViaFabricPlus/ViaLoader/config.yml"
+          }
+        },
+        {
+          "id": "viaaprilfools.yml",
+          "name": "viaaprilfools.yml",
+          "type": "File",
+          "artifact": {
+            "size": 45,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/ViaFabricPlus/ViaLoader/viaaprilfools.yml",
+            "MD5": "235b58f7ee7f9734849ac5f86f723a6c",
+            "path": "ViaFabricPlus/ViaLoader/viaaprilfools.yml"
+          }
+        },
+        {
+          "id": "viabackwards.yml",
+          "name": "viabackwards.yml",
+          "type": "File",
+          "artifact": {
+            "size": 1168,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/ViaFabricPlus/ViaLoader/viabackwards.yml",
+            "MD5": "41d83d546cb65d8949b600f0037f469f",
+            "path": "ViaFabricPlus/ViaLoader/viabackwards.yml"
+          }
+        },
+        {
+          "id": "viabedrock.yml",
+          "name": "viabedrock.yml",
+          "type": "File",
+          "artifact": {
+            "size": 423,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/ViaFabricPlus/ViaLoader/viabedrock.yml",
+            "MD5": "2ac925699c70059699650e8caeb61362",
+            "path": "ViaFabricPlus/ViaLoader/viabedrock.yml"
+          }
+        },
+        {
+          "id": "vialegacy.yml",
+          "name": "vialegacy.yml",
+          "type": "File",
+          "artifact": {
+            "size": 796,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/ViaFabricPlus/ViaLoader/vialegacy.yml",
+            "MD5": "f77ae06c91bdbaecf7eeeea9b719f63a",
+            "path": "ViaFabricPlus/ViaLoader/vialegacy.yml"
+          }
+        },
+        {
+          "id": "viaversion.yml",
+          "name": "viaversion.yml",
+          "type": "File",
+          "artifact": {
+            "size": 8225,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/ViaFabricPlus/ViaLoader/viaversion.yml",
+            "MD5": "a8ee053de8421708ebc661530439624c",
+            "path": "ViaFabricPlus/ViaLoader/viaversion.yml"
           }
         }
       ]
