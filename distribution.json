@@ -454,16 +454,6 @@
           }
         },
         {
-          "id": "com.replaymod.core:replaymod:1.20.1-2.6.23@jar",
-          "name": "Replay Mod",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 14739015,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/replaymod-1.20.1-2.6.23.jar",
-            "MD5": "a5306cc46ec23df781df1b86a2106373"
-          }
-        },
-        {
           "id": "com.misterpemodder:shulkerboxtooltip:4.0.4+1.20.1@jar",
           "name": "Shulker Box Tooltip",
           "type": "FabricMod",
