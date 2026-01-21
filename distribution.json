@@ -266,9 +266,22 @@
             "size": 879652,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/optionalon/DeleteNarrator-1.2.jar",
             "MD5": "50c95c3a4fee324e02ecf1f2adc7564b"
+<<<<<<< HEAD
           },
           "required": {
             "value": false
+=======
+          }
+        },
+        {
+          "id": "com.seibel:distanthorizons:2.4.5-b@jar",
+          "name": "Distant Horizons",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 25378978,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/DistantHorizons-2.4.5-b-1.20.1-fabric-forge.jar",
+            "MD5": "9d238e4b055990d7e202d9d24f410a5e"
+>>>>>>> parent of 987ea0c (Modpack v1.0)
           }
         },
         {
