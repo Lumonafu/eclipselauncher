@@ -115,11 +115,8 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1064362,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/optionalon/appleskin-fabric-mc1.20.1-2.5.1.jar",
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/appleskin-fabric-mc1.20.1-2.5.1.jar",
             "MD5": "723370be246a876144ae424cbbfd60f4"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -138,11 +135,8 @@
           "type": "FabricMod",
           "artifact": {
             "size": 47660,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/optionalon/bettershields-1.0.0+mc1.19.4.jar",
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/bettershields-1.0.0+mc1.19.4.jar",
             "MD5": "e1e5ec1c5f9c45e303ca411417596a8f"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -206,16 +200,23 @@
           }
         },
         {
+          "id": "dev.isxander.culllessleaves:cull-less-leaves:1.4.2+1.21-fabric@jar",
+          "name": "Cull Less Leaves",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 27086,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/Cull%20Less%20Leaves-1.4.2+1.21-fabric.jar",
+            "MD5": "f19165dad0971e6bfcecca1bf9ac0af2"
+          }
+        },
+        {
           "id": "com.illusivesoulworks:customfov:6.2.1+1.20.1@jar",
           "name": "Custom FOV",
           "type": "FabricMod",
           "artifact": {
             "size": 48686,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/optionalon/customfov-fabric-6.2.1+1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/customfov-fabric-6.2.1+1.20.1.jar",
             "MD5": "deb9836bd2a6541d23d638bb1568c8da"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -234,11 +235,22 @@
           "type": "FabricMod",
           "artifact": {
             "size": 879652,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/optionalon/DeleteNarrator-1.2.jar",
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/DeleteNarrator-1.2.jar",
             "MD5": "50c95c3a4fee324e02ecf1f2adc7564b"
+          }
+        },
+        {
+          "id": "com.seibel:distanthorizons:2.4.5-b@jar",
+          "name": "Distant Horizons",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 25378978,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/optionaloff/DistantHorizons-2.4.5-b-1.20.1-fabric-forge.jar",
+            "MD5": "9d238e4b055990d7e202d9d24f410a5e"
           },
           "required": {
-            "value": false
+            "value": false,
+            "def": false
           }
         },
         {
@@ -247,11 +259,8 @@
           "type": "FabricMod",
           "artifact": {
             "size": 118292,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/optionalon/dynamic-fullbright-1.2.0.jar",
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/dynamic-fullbright-1.2.0.jar",
             "MD5": "eaa770e3a3e8fc4d150bd56cae8dbb0c"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -272,6 +281,20 @@
             "size": 1561882,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/entityculling-fabric-1.9.5-mc1.20.1.jar",
             "MD5": "27c6f4d0ae823a847a5f737b2c67f587"
+          }
+        },
+        {
+          "id": "dev.tr7zw:exordium:1.4.2@jar",
+          "name": "Exordium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 220776,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/optionaloff/exordium-fabric-1.4.2-mc1.20.1.jar",
+            "MD5": "1c8acf731c0aafa67bc824ff413504c4"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -370,11 +393,8 @@
           "type": "FabricMod",
           "artifact": {
             "size": 91032,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/optionalon/Marlow's%20Crystal%20Optimizer-1.19.X-1.0.3.jar",
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/Marlow's%20Crystal%20Optimizer-1.19.X-1.0.3.jar",
             "MD5": "0c319c044ab31f1d6180872a27743c82"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -463,11 +483,8 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1215693,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/optionalon/shulkerboxtooltip-fabric-4.0.4+1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/shulkerboxtooltip-fabric-4.0.4+1.20.1.jar",
             "MD5": "f3dbda55b10626725456665abd633e93"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -476,11 +493,8 @@
           "type": "FabricMod",
           "artifact": {
             "size": 14285,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/optionalon/smallpop-1.20.1-0.4.jar",
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/smallpop-1.20.1-0.4.jar",
             "MD5": "bce8e04ab5061e64568f7130eedfbfe0"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -524,6 +538,20 @@
           }
         },
         {
+          "id": "com.github.getchoo.smoothboot:threadtweak:1.20.2-0.1.1@jar",
+          "name": "ThreadTweak",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 144848,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/optionaloff/threadtweak-fabric-1.20.2-0.1.1.jar",
+            "MD5": "3db999f5fc9b78fdbbf66d12461d49f5"
+          },
+          "required": {
+            "value": false,
+            "def": false
+          }
+        },
+        {
           "id": "generated.fabricmod:ukulib:0.7.0+1.20@jar",
           "name": "Ukulib",
           "type": "FabricMod",
@@ -539,11 +567,8 @@
           "type": "FabricMod",
           "artifact": {
             "size": 31693,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/optionalon/ukus-armor-hud-0.3.10+mc1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/ukus-armor-hud-0.3.10+mc1.20.1.jar",
             "MD5": "6436065b939fe4215c67452fbee1e94c"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -562,11 +587,8 @@
           "type": "FabricMod",
           "artifact": {
             "size": 872547,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/optionalon/zoomify-2.15.1+1.20.1.jar",
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/zoomify-2.15.1+1.20.1.jar",
             "MD5": "42c3ffce80e7a19b6dd18befcc6d0049"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -669,17 +691,6 @@
           }
         },
         {
-          "id": "cullleaves.json",
-          "name": "cullleaves.json",
-          "type": "File",
-          "artifact": {
-            "size": 45,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/configureddefaults/config/cullleaves.json",
-            "MD5": "09e776f72ae313a3c3219bc5282f376f",
-            "path": "configureddefaults/config/cullleaves.json"
-          }
-        },
-        {
           "id": "debugify-descriptions.json",
           "name": "debugify-descriptions.json",
           "type": "File",
@@ -699,39 +710,6 @@
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/configureddefaults/config/debugify.json",
             "MD5": "4ed7cca2611dd919abf0318717753dc4",
             "path": "configureddefaults/config/debugify.json"
-          }
-        },
-        {
-          "id": "keybindings.txt",
-          "name": "keybindings.txt",
-          "type": "File",
-          "artifact": {
-            "size": 2778,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/configureddefaults/config/defaultoptions/keybindings.txt",
-            "MD5": "5a3807a0a698dcd14fbbf5724874e8cb",
-            "path": "configureddefaults/config/defaultoptions/keybindings.txt"
-          }
-        },
-        {
-          "id": "options.txt",
-          "name": "options.txt",
-          "type": "File",
-          "artifact": {
-            "size": 2504,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/configureddefaults/config/defaultoptions/options.txt",
-            "MD5": "c57da42fd054a0ea41b2b252af7b20ed",
-            "path": "configureddefaults/config/defaultoptions/options.txt"
-          }
-        },
-        {
-          "id": "defaultoptions-common.toml",
-          "name": "defaultoptions-common.toml",
-          "type": "File",
-          "artifact": {
-            "size": 340,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/configureddefaults/config/defaultoptions-common.toml",
-            "MD5": "627762b704cf7a65763f57e5f58652af",
-            "path": "configureddefaults/config/defaultoptions-common.toml"
           }
         },
         {
@@ -796,19 +774,8 @@
           "artifact": {
             "size": 290,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/configureddefaults/config/fabric/indigo-renderer.properties",
-            "MD5": "02ff8394678ae29967954a0f805e1b6c",
+            "MD5": "46f168eb3a5f136a20105ef5ffe580f9",
             "path": "configureddefaults/config/fabric/indigo-renderer.properties"
-          }
-        },
-        {
-          "id": "fastitems.json",
-          "name": "fastitems.json",
-          "type": "File",
-          "artifact": {
-            "size": 107,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/configureddefaults/config/fastitems.json",
-            "MD5": "c3e0ce439adfa0c7984ab1e40276ae5c",
-            "path": "configureddefaults/config/fastitems.json"
           }
         },
         {
@@ -831,17 +798,6 @@
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/configureddefaults/config/forgeconfigapiport.toml",
             "MD5": "d7a4bb7824a6e62553e5c6df78441291",
             "path": "configureddefaults/config/forgeconfigapiport.toml"
-          }
-        },
-        {
-          "id": "keybinds.toml",
-          "name": "keybinds.toml",
-          "type": "File",
-          "artifact": {
-            "size": 6638,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/configureddefaults/config/fzzy_config/keybinds.toml",
-            "MD5": "a887572e30476cf65d195118ec3a332b",
-            "path": "configureddefaults/config/fzzy_config/keybinds.toml"
           }
         },
         {
@@ -884,7 +840,7 @@
           "artifact": {
             "size": 115,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/configureddefaults/config/indium-renderer.properties",
-            "MD5": "05f79bbef6a9287e73a7075707c17fa9",
+            "MD5": "7dc3965ad86874f7a12b95e3674fd6d4",
             "path": "configureddefaults/config/indium-renderer.properties"
           }
         },
@@ -911,24 +867,13 @@
           }
         },
         {
-          "id": "midnightlib.json",
-          "name": "midnightlib.json",
-          "type": "File",
-          "artifact": {
-            "size": 39,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/configureddefaults/config/midnightlib.json",
-            "MD5": "42a701c7c13834f5053ca02dba76821e",
-            "path": "configureddefaults/config/midnightlib.json"
-          }
-        },
-        {
           "id": "modernfix-mixins.properties",
           "name": "modernfix-mixins.properties",
           "type": "File",
           "artifact": {
-            "size": 4559,
+            "size": 4578,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/configureddefaults/config/modernfix-mixins.properties",
-            "MD5": "bbec375d6dbee406fbd27fbfcbc2155d",
+            "MD5": "e6c3cce35bff6872af175b86bcc6f6cf",
             "path": "configureddefaults/config/modernfix-mixins.properties"
           }
         },
@@ -963,28 +908,6 @@
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/configureddefaults/config/notenoughanimations.json",
             "MD5": "f3eaed831b9558b180fd150dc78c8b82",
             "path": "configureddefaults/config/notenoughanimations.json"
-          }
-        },
-        {
-          "id": "particle_core_config.toml",
-          "name": "particle_core_config.toml",
-          "type": "File",
-          "artifact": {
-            "size": 207,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/configureddefaults/config/particle_core_config.toml",
-            "MD5": "8f2321bb33aab2d10ec6abbc74d1d079",
-            "path": "configureddefaults/config/particle_core_config.toml"
-          }
-        },
-        {
-          "id": "particle_core_disabled_optimizations.json",
-          "name": "particle_core_disabled_optimizations.json",
-          "type": "File",
-          "artifact": {
-            "size": 909,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/configureddefaults/config/particle_core_disabled_optimizations.json",
-            "MD5": "30d42f9f3da238f3aceb11ab387cfaad",
-            "path": "configureddefaults/config/particle_core_disabled_optimizations.json"
           }
         },
         {
@@ -1047,9 +970,9 @@
           "name": "sodium-extra-options.json",
           "type": "File",
           "artifact": {
-            "size": 4081,
+            "size": 4080,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/configureddefaults/config/sodium-extra-options.json",
-            "MD5": "92afc54e80d899cc899a811fd2249e55",
+            "MD5": "752ded65f61d399947f124012e938e21",
             "path": "configureddefaults/config/sodium-extra-options.json"
           }
         },
@@ -1091,9 +1014,9 @@
           "name": "sodium-options.json",
           "type": "File",
           "artifact": {
-            "size": 651,
+            "size": 652,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/configureddefaults/config/sodium-options.json",
-            "MD5": "bd300d884e1086606fed54fa2b65dd9e",
+            "MD5": "b59423d477fb5b3d58aaedf90af823be",
             "path": "configureddefaults/config/sodium-options.json"
           }
         },
@@ -1106,6 +1029,17 @@
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/configureddefaults/config/sodiumextras-client.toml",
             "MD5": "1bd12380cbf7402e0be79234fc78a8e9",
             "path": "configureddefaults/config/sodiumextras-client.toml"
+          }
+        },
+        {
+          "id": "threadtweak.json",
+          "name": "threadtweak.json",
+          "type": "File",
+          "artifact": {
+            "size": 189,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/configureddefaults/config/threadtweak.json",
+            "MD5": "1f0ec51e6c8f1c65cbdee2022b0af17a",
+            "path": "configureddefaults/config/threadtweak.json"
           }
         },
         {
@@ -1168,9 +1102,9 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 5139,
+            "size": 4982,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/configureddefaults/options.txt",
-            "MD5": "d8cbc4fb70ad4315f31c2d74a5881d6d",
+            "MD5": "e72f7dac3b3818b2b3fe7d8426424c07",
             "path": "configureddefaults/options.txt"
           }
         },
