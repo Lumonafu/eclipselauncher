@@ -284,20 +284,6 @@
           }
         },
         {
-          "id": "dev.tr7zw:exordium:1.4.2@jar",
-          "name": "Exordium",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 220776,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/optionaloff/exordium-fabric-1.4.2-mc1.20.1.jar",
-            "MD5": "1c8acf731c0aafa67bc824ff413504c4"
-          },
-          "required": {
-            "value": false,
-            "def": false
-          }
-        },
-        {
           "id": "generated.fabricmod:fabric-api:0.92.7+1.20.1@jar",
           "name": "Fabric API",
           "type": "FabricMod",
@@ -538,20 +524,6 @@
           }
         },
         {
-          "id": "com.github.getchoo.smoothboot:threadtweak:1.20.2-0.1.1@jar",
-          "name": "ThreadTweak",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 144848,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/optionaloff/threadtweak-fabric-1.20.2-0.1.1.jar",
-            "MD5": "3db999f5fc9b78fdbbf66d12461d49f5"
-          },
-          "required": {
-            "value": false,
-            "def": false
-          }
-        },
-        {
           "id": "generated.fabricmod:ukulib:0.7.0+1.20@jar",
           "name": "Ukulib",
           "type": "FabricMod",
@@ -569,6 +541,16 @@
             "size": 31693,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/ukus-armor-hud-0.3.10+mc1.20.1.jar",
             "MD5": "6436065b939fe4215c67452fbee1e94c"
+          }
+        },
+        {
+          "id": "generated.fabricmod:viafabricplus:2.8.7@jar",
+          "name": "ViaFabricPlus",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 14612829,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/viafabricplus-2.8.7.jar",
+            "MD5": "6d89a1428ae7e4536ace4c32de6a59c2"
           }
         },
         {
