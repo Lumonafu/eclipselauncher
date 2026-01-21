@@ -283,6 +283,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 82c068a (Modpack v1.1)
 =======
 >>>>>>> parent of 82c068a (Modpack v1.1)
 =======
@@ -292,6 +295,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 220776,
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/exordium-fabric-1.4.2-mc1.20.1.jar",
@@ -304,6 +308,8 @@
 =======
 =======
 >>>>>>> parent of 82c068a (Modpack v1.1)
+=======
+>>>>>>> parent of 82c068a (Modpack v1.1)
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/optionaloff/exordium-fabric-1.4.2-mc1.20.1.jar",
             "MD5": "1c8acf731c0aafa67bc824ff413504c4"
           },
@@ -314,6 +320,9 @@
         },
         {
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 82c068a (Modpack v1.1)
+=======
 >>>>>>> parent of 82c068a (Modpack v1.1)
 =======
 >>>>>>> parent of 82c068a (Modpack v1.1)
@@ -564,6 +573,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             "size": 144848,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/threadtweak-fabric-1.20.2-0.1.1.jar",
             "MD5": "3db999f5fc9b78fdbbf66d12461d49f5"
@@ -571,6 +581,11 @@
             "size": 26413,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/optionaloff/stutterfix-mc1.20.1-0.2.0.jar",
             "MD5": "b32ba2db1286720545733023c724f0cf"
+=======
+            "size": 144848,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/optionaloff/threadtweak-fabric-1.20.2-0.1.1.jar",
+            "MD5": "3db999f5fc9b78fdbbf66d12461d49f5"
+>>>>>>> parent of 82c068a (Modpack v1.1)
 =======
             "size": 144848,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/optionaloff/threadtweak-fabric-1.20.2-0.1.1.jar",
