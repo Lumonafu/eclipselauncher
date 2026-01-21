@@ -574,24 +574,13 @@
           }
         },
         {
-          "id": "advanced-ui-scale.json",
-          "name": "advanced-ui-scale.json",
-          "type": "File",
-          "artifact": {
-            "size": 26,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/configureddefaults/config/advanced-ui-scale.json",
-            "MD5": "ee5efcc035a902edcbcfabc24c1992dd",
-            "path": "configureddefaults/config/advanced-ui-scale.json"
-          }
-        },
-        {
           "id": "appleskin.json5",
           "name": "appleskin.json5",
           "type": "File",
           "artifact": {
-            "size": 1351,
+            "size": 1330,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/configureddefaults/config/appleskin.json5",
-            "MD5": "eb7658dfebccbbe91c75c93db70cb05e",
+            "MD5": "e4871e0fa0370d618027669334cca6ab",
             "path": "configureddefaults/config/appleskin.json5"
           }
         },
@@ -611,21 +600,10 @@
           "name": "bettershields.toml",
           "type": "File",
           "artifact": {
-            "size": 87,
+            "size": 83,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/configureddefaults/config/bettershields.toml",
-            "MD5": "a5f2674c8aaeeeb26447f6e569604c19",
+            "MD5": "6caf3cd6b02714ca2c9ace57a72b0935",
             "path": "configureddefaults/config/bettershields.toml"
-          }
-        },
-        {
-          "id": "bobby.conf",
-          "name": "bobby.conf",
-          "type": "File",
-          "artifact": {
-            "size": 1387,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/configureddefaults/config/bobby.conf",
-            "MD5": "d164808c74f5029b1ef46523f59f8ca7",
-            "path": "configureddefaults/config/bobby.conf"
           }
         },
         {
@@ -644,9 +622,9 @@
           "name": "chat_heads.json5",
           "type": "File",
           "artifact": {
-            "size": 216,
+            "size": 208,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/configureddefaults/config/chat_heads.json5",
-            "MD5": "d35a24d2f98f31c26a97f32985be088f",
+            "MD5": "e0b1a0d324030dd9c527a3dfdf13c36c",
             "path": "configureddefaults/config/chat_heads.json5"
           }
         },
@@ -655,9 +633,9 @@
           "name": "collective.json5",
           "type": "File",
           "artifact": {
-            "size": 838,
+            "size": 827,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/configureddefaults/config/collective.json5",
-            "MD5": "9727d2bdc2b5eaa7d6dbdf30681e4088",
+            "MD5": "c1a6c344217a2164ca0db41f9d286d00",
             "path": "configureddefaults/config/collective.json5"
           }
         },
@@ -666,10 +644,21 @@
           "name": "cull-less-leaves.json",
           "type": "File",
           "artifact": {
-            "size": 99,
+            "size": 94,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/configureddefaults/config/cull-less-leaves.json",
-            "MD5": "3364a4cb0819ae8d137b8d6308171f64",
+            "MD5": "4b32adc7642a5567c192be9163ff193c",
             "path": "configureddefaults/config/cull-less-leaves.json"
+          }
+        },
+        {
+          "id": "cullleaves.json",
+          "name": "cullleaves.json",
+          "type": "File",
+          "artifact": {
+            "size": 42,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/configureddefaults/config/cullleaves.json",
+            "MD5": "727604a10633c683eb5b0b24985f2db2",
+            "path": "configureddefaults/config/cullleaves.json"
           }
         },
         {
@@ -688,9 +677,9 @@
           "name": "debugify.json",
           "type": "File",
           "artifact": {
-            "size": 1551,
+            "size": 1480,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/configureddefaults/config/debugify.json",
-            "MD5": "4ed7cca2611dd919abf0318717753dc4",
+            "MD5": "80dc49aed4a85a085c2424afab3daef6",
             "path": "configureddefaults/config/debugify.json"
           }
         },
@@ -710,9 +699,9 @@
           "name": "dynamic-fullbright.json",
           "type": "File",
           "artifact": {
-            "size": 215,
+            "size": 204,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/configureddefaults/config/dynamic-fullbright.json",
-            "MD5": "250e791090636616059a17de72657b0f",
+            "MD5": "f51edbe12924ad0874aea9a62c4ff169",
             "path": "configureddefaults/config/dynamic-fullbright.json"
           }
         },
@@ -732,21 +721,10 @@
           "name": "entityculling.json",
           "type": "File",
           "artifact": {
-            "size": 1965,
+            "size": 1897,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/configureddefaults/config/entityculling.json",
-            "MD5": "670d4079b826975a21d0daa3744f6520",
+            "MD5": "422b1718498a957ece2de2453634102a",
             "path": "configureddefaults/config/entityculling.json"
-          }
-        },
-        {
-          "id": "exordium.json",
-          "name": "exordium.json",
-          "type": "File",
-          "artifact": {
-            "size": 1545,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/configureddefaults/config/exordium.json",
-            "MD5": "4ed18d700c0940255e7fecdafa951c23",
-            "path": "configureddefaults/config/exordium.json"
           }
         },
         {
@@ -756,7 +734,7 @@
           "artifact": {
             "size": 290,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/configureddefaults/config/fabric/indigo-renderer.properties",
-            "MD5": "46f168eb3a5f136a20105ef5ffe580f9",
+            "MD5": "8bc569b4f2510b755ef901ec2f88a3f0",
             "path": "configureddefaults/config/fabric/indigo-renderer.properties"
           }
         },
@@ -783,13 +761,24 @@
           }
         },
         {
+          "id": "keybinds.toml",
+          "name": "keybinds.toml",
+          "type": "File",
+          "artifact": {
+            "size": 6403,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/configureddefaults/config/fzzy_config/keybinds.toml",
+            "MD5": "db29914636f6e1455464345f8e91d353",
+            "path": "configureddefaults/config/fzzy_config/keybinds.toml"
+          }
+        },
+        {
           "id": "guieffecttimer.json5",
           "name": "guieffecttimer.json5",
           "type": "File",
           "artifact": {
-            "size": 282,
+            "size": 272,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/configureddefaults/config/guieffecttimer.json5",
-            "MD5": "781736f990830b10f49be7537867e0d4",
+            "MD5": "df6e093a781ff77cc317215ac42cad80",
             "path": "configureddefaults/config/guieffecttimer.json5"
           }
         },
@@ -798,9 +787,9 @@
           "name": "guiscalesplitter.json",
           "type": "File",
           "artifact": {
-            "size": 64,
+            "size": 61,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/configureddefaults/config/guiscalesplitter.json",
-            "MD5": "8f709b6f2902045784ef11ad6a72d26a",
+            "MD5": "4bccffb619f36909bc88c670a84e73bf",
             "path": "configureddefaults/config/guiscalesplitter.json"
           }
         },
@@ -809,9 +798,9 @@
           "name": "immediatelyfast.json",
           "type": "File",
           "artifact": {
-            "size": 1080,
+            "size": 1060,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/configureddefaults/config/immediatelyfast.json",
-            "MD5": "41b4d970a8b5e13087305815c636d60f",
+            "MD5": "7b2d05a9b2f2745055edf3c8d1d0b155",
             "path": "configureddefaults/config/immediatelyfast.json"
           }
         },
@@ -822,19 +811,8 @@
           "artifact": {
             "size": 115,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/configureddefaults/config/indium-renderer.properties",
-            "MD5": "7dc3965ad86874f7a12b95e3674fd6d4",
+            "MD5": "a33dca38b324c0f812d15f369cb82d20",
             "path": "configureddefaults/config/indium-renderer.properties"
-          }
-        },
-        {
-          "id": "inventoryscale.json",
-          "name": "inventoryscale.json",
-          "type": "File",
-          "artifact": {
-            "size": 27,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/configureddefaults/config/inventoryscale.json",
-            "MD5": "c87eae424994535f92e3f10084dbe993",
-            "path": "configureddefaults/config/inventoryscale.json"
           }
         },
         {
@@ -842,10 +820,21 @@
           "name": "lithium.properties",
           "type": "File",
           "artifact": {
-            "size": 438,
+            "size": 430,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/configureddefaults/config/lithium.properties",
-            "MD5": "8055bd751a297a2988653af9bd551ada",
+            "MD5": "422e0797eef9c35fe7d8ecea0ac3f567",
             "path": "configureddefaults/config/lithium.properties"
+          }
+        },
+        {
+          "id": "midnightlib.json",
+          "name": "midnightlib.json",
+          "type": "File",
+          "artifact": {
+            "size": 37,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/configureddefaults/config/midnightlib.json",
+            "MD5": "5d33d36208b50f3a0951695c2e806d98",
+            "path": "configureddefaults/config/midnightlib.json"
           }
         },
         {
@@ -853,9 +842,9 @@
           "name": "modernfix-mixins.properties",
           "type": "File",
           "artifact": {
-            "size": 4578,
+            "size": 4475,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/configureddefaults/config/modernfix-mixins.properties",
-            "MD5": "e6c3cce35bff6872af175b86bcc6f6cf",
+            "MD5": "a292d5308cd5f2c89bd19f6eb04750e8",
             "path": "configureddefaults/config/modernfix-mixins.properties"
           }
         },
@@ -864,9 +853,9 @@
           "name": "modmenu.json",
           "type": "File",
           "artifact": {
-            "size": 843,
+            "size": 814,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/configureddefaults/config/modmenu.json",
-            "MD5": "4aa5d6a4c5052f696b13e415e4a4e9dc",
+            "MD5": "e8f3869015601ad3afae3fa4412c307c",
             "path": "configureddefaults/config/modmenu.json"
           }
         },
@@ -875,9 +864,9 @@
           "name": "moreculling.toml",
           "type": "File",
           "artifact": {
-            "size": 548,
+            "size": 526,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/configureddefaults/config/moreculling.toml",
-            "MD5": "04feb67eb81dc89a879ad95c8445f4ff",
+            "MD5": "a84328530f78f9424d2d5b8009d24d7e",
             "path": "configureddefaults/config/moreculling.toml"
           }
         },
@@ -886,9 +875,9 @@
           "name": "notenoughanimations.json",
           "type": "File",
           "artifact": {
-            "size": 2626,
+            "size": 2543,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/configureddefaults/config/notenoughanimations.json",
-            "MD5": "f3eaed831b9558b180fd150dc78c8b82",
+            "MD5": "1d52327f6d9f02efdfdf06a0f3f278c6",
             "path": "configureddefaults/config/notenoughanimations.json"
           }
         },
@@ -897,9 +886,9 @@
           "name": "replaymod.json",
           "type": "File",
           "artifact": {
-            "size": 1878,
+            "size": 1813,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/configureddefaults/config/replaymod.json",
-            "MD5": "31839edfe45559ef770f40508ffeb6be",
+            "MD5": "a6ebda11826ed801342c82ecd391ad60",
             "path": "configureddefaults/config/replaymod.json"
           }
         },
@@ -908,9 +897,9 @@
           "name": "resolutioncontrol.json",
           "type": "File",
           "artifact": {
-            "size": 436,
+            "size": 420,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/configureddefaults/config/resolutioncontrol.json",
-            "MD5": "4e7ebd5e59b5d5f21379711fce1e7317",
+            "MD5": "fc1b71047781f8285707d1d04e313a06",
             "path": "configureddefaults/config/resolutioncontrol.json"
           }
         },
@@ -930,9 +919,9 @@
           "name": "shulkerboxtooltip.json5",
           "type": "File",
           "artifact": {
-            "size": 5572,
+            "size": 5412,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/configureddefaults/config/shulkerboxtooltip.json5",
-            "MD5": "c336e3ecf5eada05ea66481dd0dfcf66",
+            "MD5": "9fb880475b9a115bec418a081e718ad3",
             "path": "configureddefaults/config/shulkerboxtooltip.json5"
           }
         },
@@ -941,9 +930,9 @@
           "name": "smallpop.json",
           "type": "File",
           "artifact": {
-            "size": 448,
+            "size": 432,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/configureddefaults/config/smallpop.json",
-            "MD5": "1eaaa0c108c8d70de49292a41b6408b4",
+            "MD5": "40889f8e836ca95554ac9afa4e1ddb6a",
             "path": "configureddefaults/config/smallpop.json"
           }
         },
@@ -952,9 +941,9 @@
           "name": "sodium-extra-options.json",
           "type": "File",
           "artifact": {
-            "size": 4080,
+            "size": 3954,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/configureddefaults/config/sodium-extra-options.json",
-            "MD5": "752ded65f61d399947f124012e938e21",
+            "MD5": "926aaac2b84bd7d3bc3b01b884bc9516",
             "path": "configureddefaults/config/sodium-extra-options.json"
           }
         },
@@ -963,9 +952,9 @@
           "name": "sodium-extra.properties",
           "type": "File",
           "artifact": {
-            "size": 367,
+            "size": 360,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/configureddefaults/config/sodium-extra.properties",
-            "MD5": "2521ab4a5c01dea4175ae2e83130db53",
+            "MD5": "72b9d6dd6ada7b00ef334ee176054dbf",
             "path": "configureddefaults/config/sodium-extra.properties"
           }
         },
@@ -985,9 +974,9 @@
           "name": "sodium-mixins.properties",
           "type": "File",
           "artifact": {
-            "size": 271,
+            "size": 265,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/configureddefaults/config/sodium-mixins.properties",
-            "MD5": "45bad751be7359abf07d4c6254139e2b",
+            "MD5": "456d99888369486f42d6ea7f70294170",
             "path": "configureddefaults/config/sodium-mixins.properties"
           }
         },
@@ -996,9 +985,9 @@
           "name": "sodium-options.json",
           "type": "File",
           "artifact": {
-            "size": 652,
+            "size": 627,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/configureddefaults/config/sodium-options.json",
-            "MD5": "b59423d477fb5b3d58aaedf90af823be",
+            "MD5": "078e02cc19e5db601527596f9c485fce",
             "path": "configureddefaults/config/sodium-options.json"
           }
         },
@@ -1014,24 +1003,13 @@
           }
         },
         {
-          "id": "threadtweak.json",
-          "name": "threadtweak.json",
-          "type": "File",
-          "artifact": {
-            "size": 189,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/configureddefaults/config/threadtweak.json",
-            "MD5": "1f0ec51e6c8f1c65cbdee2022b0af17a",
-            "path": "configureddefaults/config/threadtweak.json"
-          }
-        },
-        {
           "id": "transition.json",
           "name": "transition.json",
           "type": "File",
           "artifact": {
-            "size": 65,
+            "size": 62,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/configureddefaults/config/transition.json",
-            "MD5": "8d37b2f109f08ceb09fb6cde3a139203",
+            "MD5": "939cbb1d75f242d47e2aa1a9d536a3e7",
             "path": "configureddefaults/config/transition.json"
           }
         },
@@ -1040,9 +1018,9 @@
           "name": "trender.json",
           "type": "File",
           "artifact": {
-            "size": 47,
+            "size": 44,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/configureddefaults/config/trender.json",
-            "MD5": "d1a51f395693eaa89a5eb99664a97a05",
+            "MD5": "57d19d218711f08f8d7ce8c69f21d59f",
             "path": "configureddefaults/config/trender.json"
           }
         },
@@ -1051,9 +1029,9 @@
           "name": "ukus-armor-hud.toml",
           "type": "File",
           "artifact": {
-            "size": 364,
+            "size": 347,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/configureddefaults/config/ukus-armor-hud.toml",
-            "MD5": "92125fc2773811fc2c4cb8699f864fb3",
+            "MD5": "bcdc20d107e000acaea78e20a5f7f21a",
             "path": "configureddefaults/config/ukus-armor-hud.toml"
           }
         },
@@ -1062,9 +1040,9 @@
           "name": "yacl.json5",
           "type": "File",
           "artifact": {
-            "size": 37,
+            "size": 35,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/configureddefaults/config/yacl.json5",
-            "MD5": "0036b155a88e09ab9156d20c87a3b741",
+            "MD5": "81d542abb72c4750c7218e0d975e3368",
             "path": "configureddefaults/config/yacl.json5"
           }
         },
@@ -1073,9 +1051,9 @@
           "name": "zoomify.json",
           "type": "File",
           "artifact": {
-            "size": 748,
+            "size": 723,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/configureddefaults/config/zoomify.json",
-            "MD5": "c36fa335724f4f5b6848ba340ae58511",
+            "MD5": "ebaeaa78f7b2e4ac850b702af01a07ed",
             "path": "configureddefaults/config/zoomify.json"
           }
         },
@@ -1084,9 +1062,9 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 4982,
+            "size": 5139,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/configureddefaults/options.txt",
-            "MD5": "e72f7dac3b3818b2b3fe7d8426424c07",
+            "MD5": "d8cbc4fb70ad4315f31c2d74a5881d6d",
             "path": "configureddefaults/options.txt"
           }
         },
@@ -1095,9 +1073,9 @@
           "name": "README.md",
           "type": "File",
           "artifact": {
-            "size": 969,
+            "size": 957,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/configureddefaults/README.md",
-            "MD5": "c092ceba96477778382b4bcb0e4b8f13",
+            "MD5": "be406d0b9cbb88c791dd01a527349cc5",
             "path": "configureddefaults/README.md"
           }
         }

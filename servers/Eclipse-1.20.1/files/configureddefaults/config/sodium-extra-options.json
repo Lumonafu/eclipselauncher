@@ -80,7 +80,7 @@
     }
   },
   "detail_settings": {
-    "sky": true,
+    "sky": false,
     "sun_moon": true,
     "stars": false,
     "rain_snow": true,
