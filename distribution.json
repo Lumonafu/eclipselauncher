@@ -274,6 +274,16 @@
           }
         },
         {
+          "id": "org.lumobest:eclipseresources:1.0-SNAPSHOT@jar",
+          "name": "EclipseResources",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 53090,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/EclipseResources-7.0-SNAPSHOT.jar",
+            "MD5": "3b54373c0c9d69bd0d0c2796cc91adae"
+          }
+        },
+        {
           "id": "foundationgames.enhancedblockentities:enhancedblockentities:0.9+1.20@jar",
           "name": "Enhanced Block Entities",
           "type": "FabricMod",
