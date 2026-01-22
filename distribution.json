@@ -268,9 +268,9 @@
           "name": "EclipseResources",
           "type": "FabricMod",
           "artifact": {
-            "size": 53053,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/EclipseResources-3.0-SNAPSHOT.jar",
-            "MD5": "44889a6b361c6e17d3993698635bf4ed"
+            "size": 53052,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/EclipseResources-4.0-SNAPSHOT.jar",
+            "MD5": "72b105cb555d91a6d01141d92e3eff13"
           }
         },
         {
