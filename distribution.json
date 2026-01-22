@@ -264,6 +264,16 @@
           }
         },
         {
+          "id": "org.lumobest:eclipseresources:1.0-SNAPSHOT@jar",
+          "name": "EclipseResources",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 53054,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/EclipseResources-1.0-SNAPSHOT.jar",
+            "MD5": "5e0656b4348bd10e82e4afe3698d869b"
+          }
+        },
+        {
           "id": "foundationgames.enhancedblockentities:enhancedblockentities:0.9+1.20@jar",
           "name": "Enhanced Block Entities",
           "type": "FabricMod",
@@ -459,8 +469,12 @@
           "type": "FabricMod",
           "artifact": {
             "size": 14739015,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/replaymod-1.20.1-2.6.23.jar",
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/optionaloff/replaymod-1.20.1-2.6.23.jar",
             "MD5": "a5306cc46ec23df781df1b86a2106373"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
