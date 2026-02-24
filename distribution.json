@@ -655,9 +655,9 @@
           "name": "title_screen_layout.txt",
           "type": "File",
           "artifact": {
-            "size": 31925,
+            "size": 35365,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/config/fancymenu/customization/title_screen_layout.txt",
-            "MD5": "d8238e704f9a039264a2eda7553b90c1",
+            "MD5": "fdd4fd2c309092be869631d16390f39e",
             "path": "config/fancymenu/customization/title_screen_layout.txt"
           }
         },
@@ -699,9 +699,9 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 2130,
+            "size": 2129,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/files/config/fancymenu/options.txt",
-            "MD5": "dcbb00f292b5350e5ee0d2afe928577d",
+            "MD5": "54d17136026daae223a4b25a32155063",
             "path": "config/fancymenu/options.txt"
           }
         },
