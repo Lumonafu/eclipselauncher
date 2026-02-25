@@ -334,16 +334,6 @@
           }
         },
         {
-          "id": "org.lumobest:forced:1.0-SNAPSHOT@jar",
-          "name": "Forced",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 5921,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/Forced-1.2.jar",
-            "MD5": "df15af6d2a2b1fd2f54507584e13a2a8"
-          }
-        },
-        {
           "id": "com.natamus:guieffecttimer:1.0@jar",
           "name": "GUI Effect Timer",
           "type": "FabricMod",
