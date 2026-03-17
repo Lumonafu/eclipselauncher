@@ -344,6 +344,16 @@
           }
         },
         {
+          "id": "com.lumobest:ghostbind:1.0-SNAPSHOT@jar",
+          "name": "Ghostbind",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 6698,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/Ghostbind-2.5.jar",
+            "MD5": "a4c6b21ab6ce7a994abeeca4a405d29a"
+          }
+        },
+        {
           "id": "com.natamus:guieffecttimer:1.0@jar",
           "name": "GUI Effect Timer",
           "type": "FabricMod",
@@ -499,12 +509,8 @@
           "type": "FabricMod",
           "artifact": {
             "size": 14739015,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/optionaloff/replaymod-1.20.1-2.6.23.jar",
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/replaymod-1.20.1-2.6.23.jar",
             "MD5": "a5306cc46ec23df781df1b86a2106373"
-          },
-          "required": {
-            "value": false,
-            "def": false
           }
         },
         {
@@ -585,16 +591,6 @@
             "size": 31693,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/ukus-armor-hud-0.3.10+mc1.20.1.jar",
             "MD5": "6436065b939fe4215c67452fbee1e94c"
-          }
-        },
-        {
-          "id": "generated.fabricmod:viafabricplus:2.8.7@jar",
-          "name": "ViaFabricPlus",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 14612829,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/viafabricplus-2.8.7.jar",
-            "MD5": "6d89a1428ae7e4536ace4c32de6a59c2"
           }
         },
         {
