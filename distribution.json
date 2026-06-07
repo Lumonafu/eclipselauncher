@@ -144,9 +144,9 @@
           "name": "Blindspec",
           "type": "FabricMod",
           "artifact": {
-            "size": 14151,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/blindspec-1.0.3.jar",
-            "MD5": "ed7841670fd448b024583904b51a905c"
+            "size": 14148,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/blindspec-1.0.4.jar",
+            "MD5": "3ee3f4e43913764bd4d76196ac3fd48f"
           }
         },
         {
@@ -514,9 +514,9 @@
           "name": "ReplaySaver",
           "type": "FabricMod",
           "artifact": {
-            "size": 23306,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/replaysaver-1.0.3.jar",
-            "MD5": "01398cd27053835b159691ce3d466e56"
+            "size": 23304,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/replaysaver-1.0.4.jar",
+            "MD5": "a2eae98efdb68c0385c936941045383e"
           }
         },
         {
