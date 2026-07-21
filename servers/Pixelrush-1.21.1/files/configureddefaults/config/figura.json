@@ -1,7 +1,0 @@
-{
-  "CONFIG_VERSION": 1,
-  "self_nameplate": true,
-  "sound_badge": false,
-  "action_wheel_button": "key.keyboard.unknown",
-  "popup_button": "key.keyboard.unknown"
-}
