@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///C:/Users/Lumonafu/Documents/GitHub/eclipselauncher/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "Pixelrush (Minecraft 1.21.1)",
+    "description": "Pixelrush Running Minecraft 1.21.1 (NeoForge v21.1.235)",
+    "icon": null,
+    "address": "localhost:25565",
+    "discord": {
+      "shortId": "Pixelrush",
+      "largeImageText": "Jugando en Pixelrush",
+      "largeImageKey": "seal"
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "neoforge": {
+    "version": "21.1.235"
+  },
+  "untrackedFiles": []
+}

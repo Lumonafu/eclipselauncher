@@ -1533,6 +1533,3663 @@
           }
         }
       ]
+    },
+    {
+      "id": "Pixelrush-1.21.1",
+      "name": "Pixelrush (Minecraft 1.21.1)",
+      "description": "Pixelrush Running Minecraft 1.21.1 (NeoForge v21.1.235)",
+      "icon": null,
+      "version": "1.0.0",
+      "address": "localhost:25565",
+      "minecraftVersion": "1.21.1",
+      "discord": {
+        "shortId": "Pixelrush",
+        "largeImageText": "Jugando en Pixelrush",
+        "largeImageKey": "seal"
+      },
+      "mainServer": false,
+      "autoconnect": false,
+      "modules": [
+        {
+          "id": "net.neoforged:neoforge:21.1.235:universal",
+          "name": "Minecraft NeoForge (universal jar)",
+          "type": "ForgeHosted",
+          "classpath": false,
+          "artifact": {
+            "size": 3542501,
+            "MD5": "d68b2564470b15a75a01fa0b99db7a6b",
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/repo/lib/net/neoforged/neoforge/21.1.235/neoforge-21.1.235-universal.jar"
+          },
+          "subModules": [
+            {
+              "id": "21.1.235",
+              "name": "Minecraft NeoForge (version.json)",
+              "type": "VersionManifest",
+              "artifact": {
+                "size": 21148,
+                "MD5": "4a895784d5c1eb64fce674f6854a6f00",
+                "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/repo/versions/neoforge-21.1.235/neoforge-21.1.235.json"
+              }
+            },
+            {
+              "id": "net.neoforged:neoforge:21.1.235:client",
+              "name": "Minecraft NeoForge (client jar)",
+              "type": "Library",
+              "classpath": false,
+              "artifact": {
+                "size": 5673824,
+                "MD5": "c86eee3e6088fefef2bcc00c4d0a7d42",
+                "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/repo/lib/net/neoforged/neoforge/21.1.235/neoforge-21.1.235-client.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraft:client:1.21.1-20240808.144430:extra",
+              "name": "Minecraft NeoForge (client extra)",
+              "type": "Library",
+              "classpath": false,
+              "artifact": {
+                "size": 12372293,
+                "MD5": "973b9700852b66bb7b74df75b0113db2",
+                "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/repo/lib/net/minecraft/client/1.21.1-20240808.144430/client-1.21.1-20240808.144430-extra.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraft:client:1.21.1-20240808.144430:slim",
+              "name": "Minecraft NeoForge (client slim)",
+              "type": "Library",
+              "classpath": false,
+              "artifact": {
+                "size": 14464635,
+                "MD5": "21a31126d805df21389e0b2ff8cb7411",
+                "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/repo/lib/net/minecraft/client/1.21.1-20240808.144430/client-1.21.1-20240808.144430-slim.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraft:client:1.21.1-20240808.144430:srg",
+              "name": "Minecraft NeoForge (client srg)",
+              "type": "Library",
+              "classpath": false,
+              "artifact": {
+                "size": 18725656,
+                "MD5": "24d790d385dff0146020f1875b969e52",
+                "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/repo/lib/net/minecraft/client/1.21.1-20240808.144430/client-1.21.1-20240808.144430-srg.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.neoforged.fancymodloader:earlydisplay:4.0.42",
+              "name": "Minecraft NeoForge (earlydisplay)",
+              "type": "Library",
+              "artifact": {
+                "size": 261718,
+                "MD5": "6df1105e4016ee9992ca93cd0103e218",
+                "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/repo/lib/net/neoforged/fancymodloader/earlydisplay/4.0.42/earlydisplay-4.0.42.jar"
+              }
+            },
+            {
+              "id": "net.neoforged.fancymodloader:loader:4.0.42",
+              "name": "Minecraft NeoForge (loader)",
+              "type": "Library",
+              "artifact": {
+                "size": 504899,
+                "MD5": "1722666ba373811ef9b7022c0c4a5a73",
+                "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/repo/lib/net/neoforged/fancymodloader/loader/4.0.42/loader-4.0.42.jar"
+              }
+            },
+            {
+              "id": "net.neoforged.accesstransformers:at-modlauncher:10.0.1",
+              "name": "Minecraft NeoForge (at-modlauncher)",
+              "type": "Library",
+              "artifact": {
+                "size": 2347,
+                "MD5": "f65434f122b97b1ac8fe56ff54873b5f",
+                "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/repo/lib/net/neoforged/accesstransformers/at-modlauncher/10.0.1/at-modlauncher-10.0.1.jar"
+              }
+            },
+            {
+              "id": "net.neoforged:accesstransformers:10.0.1",
+              "name": "Minecraft NeoForge (accesstransformers)",
+              "type": "Library",
+              "artifact": {
+                "size": 67234,
+                "MD5": "3a01a09a2b0900381dce48e118882849",
+                "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/repo/lib/net/neoforged/accesstransformers/10.0.1/accesstransformers-10.0.1.jar"
+              }
+            },
+            {
+              "id": "net.neoforged:bus:8.0.5",
+              "name": "Minecraft NeoForge (bus)",
+              "type": "Library",
+              "artifact": {
+                "size": 30340,
+                "MD5": "95eee080d9de7cb764adcb8fa2ecf3fb",
+                "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/repo/lib/net/neoforged/bus/8.0.5/bus-8.0.5.jar"
+              }
+            },
+            {
+              "id": "net.neoforged:coremods:7.0.3",
+              "name": "Minecraft NeoForge (coremods)",
+              "type": "Library",
+              "artifact": {
+                "size": 22659,
+                "MD5": "4527abf6b7116dae1c2178f7beab0ba2",
+                "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/repo/lib/net/neoforged/coremods/7.0.3/coremods-7.0.3.jar"
+              }
+            },
+            {
+              "id": "cpw.mods:modlauncher:11.0.5",
+              "name": "Minecraft NeoForge (modlauncher)",
+              "type": "Library",
+              "artifact": {
+                "size": 116486,
+                "MD5": "70fa994f64b2620d20dc325bab758d1b",
+                "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/repo/lib/cpw/mods/modlauncher/11.0.5/modlauncher-11.0.5.jar"
+              }
+            },
+            {
+              "id": "net.neoforged:mergetool:2.0.0:api",
+              "name": "Minecraft NeoForge (mergetool)",
+              "type": "Library",
+              "artifact": {
+                "size": 2550,
+                "MD5": "818b398f65b8dc5af802b721fd1d0b56",
+                "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/repo/lib/net/neoforged/mergetool/2.0.0/mergetool-2.0.0-api.jar"
+              }
+            },
+            {
+              "id": "com.electronwill.night-config:toml:3.8.3",
+              "name": "Minecraft NeoForge (toml)",
+              "type": "Library",
+              "artifact": {
+                "size": 39516,
+                "MD5": "71c9f7b86422f206c0d78c1a0600fd3a",
+                "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/repo/lib/com/electronwill/night-config/toml/3.8.3/toml-3.8.3.jar"
+              }
+            },
+            {
+              "id": "com.electronwill.night-config:core:3.8.3",
+              "name": "Minecraft NeoForge (core)",
+              "type": "Library",
+              "artifact": {
+                "size": 382911,
+                "MD5": "a69db71d5c9c274ff08f175d7c12cb1a",
+                "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/repo/lib/com/electronwill/night-config/core/3.8.3/core-3.8.3.jar"
+              }
+            },
+            {
+              "id": "net.neoforged:JarJarSelector:0.4.1",
+              "name": "Minecraft NeoForge (JarJarSelector)",
+              "type": "Library",
+              "artifact": {
+                "size": 17168,
+                "MD5": "20d1fe8972655189f69845554ee1a4d1",
+                "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/repo/lib/net/neoforged/JarJarSelector/0.4.1/JarJarSelector-0.4.1.jar"
+              }
+            },
+            {
+              "id": "net.neoforged:JarJarMetadata:0.4.1",
+              "name": "Minecraft NeoForge (JarJarMetadata)",
+              "type": "Library",
+              "artifact": {
+                "size": 15648,
+                "MD5": "c2f30969dd8b1dc8e3f78c731bd2c5c8",
+                "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/repo/lib/net/neoforged/JarJarMetadata/0.4.1/JarJarMetadata-0.4.1.jar"
+              }
+            },
+            {
+              "id": "org.apache.maven:maven-artifact:3.8.5",
+              "name": "Minecraft NeoForge (maven-artifact)",
+              "type": "Library",
+              "artifact": {
+                "size": 58077,
+                "MD5": "ce473b0d9fbfd10fe147f03fe8707d67",
+                "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/repo/lib/org/apache/maven/maven-artifact/3.8.5/maven-artifact-3.8.5.jar"
+              }
+            },
+            {
+              "id": "net.jodah:typetools:0.6.3",
+              "name": "Minecraft NeoForge (typetools)",
+              "type": "Library",
+              "artifact": {
+                "size": 18281,
+                "MD5": "d4a375bf382f726cf1a650ccb38a736c",
+                "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/repo/lib/net/jodah/typetools/0.6.3/typetools-0.6.3.jar"
+              }
+            },
+            {
+              "id": "net.minecrell:terminalconsoleappender:1.3.0",
+              "name": "Minecraft NeoForge (terminalconsoleappender)",
+              "type": "Library",
+              "artifact": {
+                "size": 16949,
+                "MD5": "179d3abaf9736dbd8fbd4fa98e1c6ea1",
+                "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/repo/lib/net/minecrell/terminalconsoleappender/1.3.0/terminalconsoleappender-1.3.0.jar"
+              }
+            },
+            {
+              "id": "net.fabricmc:sponge-mixin:0.15.2+mixin.0.8.7",
+              "name": "Minecraft NeoForge (sponge-mixin)",
+              "type": "Library",
+              "artifact": {
+                "size": 1494751,
+                "MD5": "4808c070bf19415a5cb4a0cb5e569b12",
+                "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/repo/lib/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar"
+              }
+            },
+            {
+              "id": "org.openjdk.nashorn:nashorn-core:15.4",
+              "name": "Minecraft NeoForge (nashorn-core)",
+              "type": "Library",
+              "artifact": {
+                "size": 2167292,
+                "MD5": "a9b3360e6a486cf62c1952c7816b7d97",
+                "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/repo/lib/org/openjdk/nashorn/nashorn-core/15.4/nashorn-core-15.4.jar"
+              }
+            },
+            {
+              "id": "org.apache.commons:commons-lang3:3.14.0",
+              "name": "Minecraft NeoForge (commons-lang3)",
+              "type": "Library",
+              "artifact": {
+                "size": 657952,
+                "MD5": "4e5c3f5e6b0b965ef241d7d72ac8971f",
+                "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/repo/lib/org/apache/commons/commons-lang3/3.14.0/commons-lang3-3.14.0.jar"
+              }
+            },
+            {
+              "id": "cpw.mods:bootstraplauncher:2.0.2",
+              "name": "Minecraft NeoForge (bootstraplauncher)",
+              "type": "Library",
+              "artifact": {
+                "size": 11116,
+                "MD5": "169bd8c006e69d83267466e311d4049d",
+                "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/repo/lib/cpw/mods/bootstraplauncher/2.0.2/bootstraplauncher-2.0.2.jar"
+              }
+            },
+            {
+              "id": "cpw.mods:securejarhandler:3.0.8",
+              "name": "Minecraft NeoForge (securejarhandler)",
+              "type": "Library",
+              "artifact": {
+                "size": 103765,
+                "MD5": "eb0d5290a2681c2dbeb8088b82e0fbf9",
+                "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/repo/lib/cpw/mods/securejarhandler/3.0.8/securejarhandler-3.0.8.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-commons:9.8",
+              "name": "Minecraft NeoForge (asm-commons)",
+              "type": "Library",
+              "artifact": {
+                "size": 73498,
+                "MD5": "c8c3d9ccf240144e74d94ff658b024c9",
+                "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/repo/lib/org/ow2/asm/asm-commons/9.8/asm-commons-9.8.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-util:9.8",
+              "name": "Minecraft NeoForge (asm-util)",
+              "type": "Library",
+              "artifact": {
+                "size": 94559,
+                "MD5": "62498ef324bdab15f407d703f7d78d19",
+                "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/repo/lib/org/ow2/asm/asm-util/9.8/asm-util-9.8.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-analysis:9.8",
+              "name": "Minecraft NeoForge (asm-analysis)",
+              "type": "Library",
+              "artifact": {
+                "size": 35151,
+                "MD5": "3d63508405f5610fc2ea673ff5471553",
+                "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/repo/lib/org/ow2/asm/asm-analysis/9.8/asm-analysis-9.8.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-tree:9.8",
+              "name": "Minecraft NeoForge (asm-tree)",
+              "type": "Library",
+              "artifact": {
+                "size": 51934,
+                "MD5": "4ab1aaec43c77a2d9b56e6d6d496f705",
+                "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/repo/lib/org/ow2/asm/asm-tree/9.8/asm-tree-9.8.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm:9.8",
+              "name": "Minecraft NeoForge (asm)",
+              "type": "Library",
+              "artifact": {
+                "size": 126113,
+                "MD5": "f5adf3bfc54fb3d2cd8e3a1f275084bc",
+                "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/repo/lib/org/ow2/asm/asm/9.8/asm-9.8.jar"
+              }
+            },
+            {
+              "id": "net.neoforged:JarJarFileSystems:0.4.1",
+              "name": "Minecraft NeoForge (JarJarFileSystems)",
+              "type": "Library",
+              "artifact": {
+                "size": 31807,
+                "MD5": "8d75021e5aeb04652b4b9ae3df500b9e",
+                "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/repo/lib/net/neoforged/JarJarFileSystems/0.4.1/JarJarFileSystems-0.4.1.jar"
+              }
+            },
+            {
+              "id": "net.sf.jopt-simple:jopt-simple:5.0.4",
+              "name": "Minecraft NeoForge (jopt-simple)",
+              "type": "Library",
+              "artifact": {
+                "size": 78146,
+                "MD5": "eb0d9dffe9b0eddead68fe678be76c49",
+                "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/repo/lib/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar"
+              }
+            },
+            {
+              "id": "org.slf4j:slf4j-api:2.0.9",
+              "name": "Minecraft NeoForge (slf4j-api)",
+              "type": "Library",
+              "artifact": {
+                "size": 64579,
+                "MD5": "45630e54b0f0ac2b3c80462515ad8fda",
+                "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/repo/lib/org/slf4j/slf4j-api/2.0.9/slf4j-api-2.0.9.jar"
+              }
+            },
+            {
+              "id": "org.antlr:antlr4-runtime:4.13.1",
+              "name": "Minecraft NeoForge (antlr4-runtime)",
+              "type": "Library",
+              "artifact": {
+                "size": 326305,
+                "MD5": "dd465ddb2a8dbf69eb6c94e69a0d5f0f",
+                "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/repo/lib/org/antlr/antlr4-runtime/4.13.1/antlr4-runtime-4.13.1.jar"
+              }
+            },
+            {
+              "id": "com.mojang:logging:1.2.7",
+              "name": "Minecraft NeoForge (logging)",
+              "type": "Library",
+              "artifact": {
+                "size": 15343,
+                "MD5": "d01ea99740509a58222a426cc36f5456",
+                "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/repo/lib/com/mojang/logging/1.2.7/logging-1.2.7.jar"
+              }
+            },
+            {
+              "id": "org.apache.logging.log4j:log4j-slf4j2-impl:2.22.1",
+              "name": "Minecraft NeoForge (log4j-slf4j2-impl)",
+              "type": "Library",
+              "artifact": {
+                "size": 27364,
+                "MD5": "82cc94f378ffb853efe084ee9bf4c463",
+                "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/repo/lib/org/apache/logging/log4j/log4j-slf4j2-impl/2.22.1/log4j-slf4j2-impl-2.22.1.jar"
+              }
+            },
+            {
+              "id": "org.apache.logging.log4j:log4j-core:2.22.1",
+              "name": "Minecraft NeoForge (log4j-core)",
+              "type": "Library",
+              "artifact": {
+                "size": 1900022,
+                "MD5": "b5987ee449d4be4244e2e214683c45af",
+                "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/repo/lib/org/apache/logging/log4j/log4j-core/2.22.1/log4j-core-2.22.1.jar"
+              }
+            },
+            {
+              "id": "org.apache.logging.log4j:log4j-api:2.22.1",
+              "name": "Minecraft NeoForge (log4j-api)",
+              "type": "Library",
+              "artifact": {
+                "size": 335001,
+                "MD5": "27db0eb89ae965179480df00d8d1cf03",
+                "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/repo/lib/org/apache/logging/log4j/log4j-api/2.22.1/log4j-api-2.22.1.jar"
+              }
+            },
+            {
+              "id": "org.jline:jline-reader:3.20.0",
+              "name": "Minecraft NeoForge (jline-reader)",
+              "type": "Library",
+              "artifact": {
+                "size": 171052,
+                "MD5": "9ece57ca56a1688d1d09fe2c48e7a292",
+                "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/repo/lib/org/jline/jline-reader/3.20.0/jline-reader-3.20.0.jar"
+              }
+            },
+            {
+              "id": "org.jline:jline-terminal:3.20.0",
+              "name": "Minecraft NeoForge (jline-terminal)",
+              "type": "Library",
+              "artifact": {
+                "size": 228481,
+                "MD5": "e45dace437743e6b5e75c81eb455fd3e",
+                "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/repo/lib/org/jline/jline-terminal/3.20.0/jline-terminal-3.20.0.jar"
+              }
+            },
+            {
+              "id": "commons-io:commons-io:2.15.1",
+              "name": "Minecraft NeoForge (commons-io)",
+              "type": "Library",
+              "artifact": {
+                "size": 501218,
+                "MD5": "84351f7991a0e6722f00e96a4ccc376f",
+                "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/repo/lib/commons-io/commons-io/2.15.1/commons-io-2.15.1.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:srgutils:0.4.15",
+              "name": "Minecraft NeoForge (srgutils)",
+              "type": "Library",
+              "artifact": {
+                "size": 69393,
+                "MD5": "79812fd073afe1c046bc1ea46ad28095",
+                "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/repo/lib/net/minecraftforge/srgutils/0.4.15/srgutils-0.4.15.jar"
+              }
+            },
+            {
+              "id": "com.google.guava:guava:32.1.2-jre",
+              "name": "Minecraft NeoForge (guava)",
+              "type": "Library",
+              "artifact": {
+                "size": 3041591,
+                "MD5": "5fe031b3b35ed56182478811a931d617",
+                "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/repo/lib/com/google/guava/guava/32.1.2-jre/guava-32.1.2-jre.jar"
+              }
+            },
+            {
+              "id": "com.google.guava:failureaccess:1.0.1",
+              "name": "Minecraft NeoForge (failureaccess)",
+              "type": "Library",
+              "artifact": {
+                "size": 4617,
+                "MD5": "091883993ef5bfa91da01dcc8fc52236",
+                "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/repo/lib/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar"
+              }
+            },
+            {
+              "id": "com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava",
+              "name": "Minecraft NeoForge (listenablefuture)",
+              "type": "Library",
+              "artifact": {
+                "size": 2199,
+                "MD5": "d094c22570d65e132c19cea5d352e381",
+                "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/repo/lib/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"
+              }
+            },
+            {
+              "id": "com.google.code.findbugs:jsr305:3.0.2",
+              "name": "Minecraft NeoForge (jsr305)",
+              "type": "Library",
+              "artifact": {
+                "size": 19936,
+                "MD5": "dd83accb899363c32b07d7a1b2e4ce40",
+                "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/repo/lib/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar"
+              }
+            },
+            {
+              "id": "org.checkerframework:checker-qual:3.33.0",
+              "name": "Minecraft NeoForge (checker-qual)",
+              "type": "Library",
+              "artifact": {
+                "size": 223979,
+                "MD5": "fc9418b779d9d57dcd52197006cbdb9b",
+                "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/repo/lib/org/checkerframework/checker-qual/3.33.0/checker-qual-3.33.0.jar"
+              }
+            },
+            {
+              "id": "com.google.errorprone:error_prone_annotations:2.18.0",
+              "name": "Minecraft NeoForge (error_prone_annotations)",
+              "type": "Library",
+              "artifact": {
+                "size": 16017,
+                "MD5": "64145d0e7fee5a69ed7b84cf402de998",
+                "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/repo/lib/com/google/errorprone/error_prone_annotations/2.18.0/error_prone_annotations-2.18.0.jar"
+              }
+            },
+            {
+              "id": "com.google.j2objc:j2objc-annotations:2.8",
+              "name": "Minecraft NeoForge (j2objc-annotations)",
+              "type": "Library",
+              "artifact": {
+                "size": 9301,
+                "MD5": "c50af69b704dc91050efb98e0dff66d1",
+                "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/repo/lib/com/google/j2objc/j2objc-annotations/2.8/j2objc-annotations-2.8.jar"
+              }
+            },
+            {
+              "id": "com.google.code.gson:gson:2.10.1",
+              "name": "Minecraft NeoForge (gson)",
+              "type": "Library",
+              "artifact": {
+                "size": 283367,
+                "MD5": "df6097815738cb31fc56391553210843",
+                "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/repo/lib/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar"
+              }
+            },
+            {
+              "id": "org.codehaus.plexus:plexus-utils:3.3.0",
+              "name": "Minecraft NeoForge (plexus-utils)",
+              "type": "Library",
+              "artifact": {
+                "size": 263253,
+                "MD5": "3ae76ff0195ada460d495efe1fb50d17",
+                "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/repo/lib/org/codehaus/plexus/plexus-utils/3.3.0/plexus-utils-3.3.0.jar"
+              }
+            },
+            {
+              "id": "com.machinezoo.noexception:noexception:1.7.1",
+              "name": "Minecraft NeoForge (noexception)",
+              "type": "Library",
+              "artifact": {
+                "size": 250861,
+                "MD5": "fcc3e4df4990088c964f687b62f7c448",
+                "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/repo/lib/com/machinezoo/noexception/noexception/1.7.1/noexception-1.7.1.jar"
+              }
+            }
+          ]
+        },
+        {
+          "id": "generated.forgemod:accessories:1.1.0-beta.53+1.21.1@jar",
+          "name": "Accessories",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1078697,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/accessories-neoforge-1.1.0-beta.53+1.21.1.jar",
+            "MD5": "f826cbb52d4d05e069eecda4cff65e30"
+          }
+        },
+        {
+          "id": "generated.forgemod:alltheleaks:1.1.10+1.21.1-neoforge@jar",
+          "name": "All The Leaks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 538832,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/alltheleaks-1.1.10+1.21.1-neoforge.jar",
+            "MD5": "093d03e1036e984dd9f977ea63728e93"
+          }
+        },
+        {
+          "id": "generated.forgemod:appleskin:3.0.9+mc1.21@jar",
+          "name": "AppleSkin",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 75804,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/appleskin-neoforge-mc1.21-3.0.9.jar",
+            "MD5": "db5fe7619d502cf5b9bc972a955cd3bc"
+          }
+        },
+        {
+          "id": "generated.forgemod:architectury:13.0.8@jar",
+          "name": "Architectury",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 584004,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/architectury-13.0.8-neoforge.jar",
+            "MD5": "7a45a948b525c031ca85d221dfdbed85"
+          }
+        },
+        {
+          "id": "generated.forgemod:armor_crafting:1.0.0@jar",
+          "name": "Armor Crafting",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 15124,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/armor_crafting-1.0.1.jar",
+            "MD5": "0dd8594c157d67e51af1eafb9d34890d"
+          }
+        },
+        {
+          "id": "generated.forgemod:armor_hud:1.1.1+mc1.21.1@jar",
+          "name": "Guy's Armor HUD",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 33862,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/armor_hud-neoforge-1.1.1+mc1.21.1.jar",
+            "MD5": "11ceb04b89794ff3f77c0456f03a70a4"
+          }
+        },
+        {
+          "id": "generated.forgemod:artifacts:13.2.1@jar",
+          "name": "Artifacts",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1030252,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/artifacts-neoforge-13.2.1.jar",
+            "MD5": "fc38eab4a40582c383e6dbd118d49ef4"
+          }
+        },
+        {
+          "id": "generated.forgemod:beautify:2.0.2@jar",
+          "name": "Beautify",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 932199,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/beautify-neoforge-1.21.1-2.0.2.jar",
+            "MD5": "e18f49c2d8723f77da79f73ec83a316f"
+          }
+        },
+        {
+          "id": "generated.forgemod:enhancedblockentities:0.1.1+1.21.1@jar",
+          "name": "Enhanced Block Entities NEOFORGE [Unofficial]",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 193539,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/blockentities-[NEOFORGED]-1.21.1+1.1.0.jar",
+            "MD5": "df56b3963fd962cc3d9113167efe581a"
+          }
+        },
+        {
+          "id": "generated.forgemod:c2me:0.4.0-alpha.0.114+1.21.1@jar",
+          "name": "Concurrent Chunk Management Engine",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3656592,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/c2me-neoforge-mc1.21.1-0.4.0-alpha.0.114.jar",
+            "MD5": "f6fe7719409ffe7ff6e783b6623dfff9"
+          }
+        },
+        {
+          "id": "generated.forgemod:carryon:2.2.5@jar",
+          "name": "Carry On",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 357508,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/carryon-neoforge-1.21.1-2.2.5.8.jar",
+            "MD5": "371b2e541498fa73c4e4e21d6287e841"
+          }
+        },
+        {
+          "id": "generated.forgemod:chat_heads:0.15.2@jar",
+          "name": "Chat Heads",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 89325,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/chat_heads-0.15.2-neoforge-1.21.jar",
+            "MD5": "89af3740560775899e9a5f6a7e9cc050"
+          }
+        },
+        {
+          "id": "generated.forgemod:cloth_config:15.0.140@jar",
+          "name": "Cloth Config v15 API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1163890,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/cloth-config-15.0.140-neoforge.jar",
+            "MD5": "4c3757160403fcccb8ad468c2ea22862"
+          }
+        },
+        {
+          "id": "com.natamus:collective:8.39@jar",
+          "name": "Collective",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1061931,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/collective-1.21.1-8.39.jar",
+            "MD5": "7ae605279aacf6ae233bb1aafe2775c4"
+          }
+        },
+        {
+          "id": "generated.forgemod:configureddefaults:21.1.3@jar",
+          "name": "Configured Defaults",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 43521,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/ConfiguredDefaults-v21.1.3-1.21.1-NeoForge.jar",
+            "MD5": "512d6e79b39e980c320d197668a142cf"
+          }
+        },
+        {
+          "id": "generated.forgemod:coroutil:1.21.0-1.3.8@jar",
+          "name": "CoroUtil",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 63981,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/coroutil-neoforge-1.21.0-1.3.8.jar",
+            "MD5": "9d410a84fe0216ce18568993afb4f8e5"
+          }
+        },
+        {
+          "id": "generated.forgemod:create_connected:1.3.2-mc1.21.1@jar",
+          "name": "Create: Connected",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6779410,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/create_connected-1.3.2-mc1.21.1.jar",
+            "MD5": "5ec87500b99fc02cc83f74d995d00044"
+          }
+        },
+        {
+          "id": "generated.forgemod:create_trimmed:1.0.1@jar",
+          "name": "Create: Trimmed",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 505421,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/create_trimmed.jar",
+            "MD5": "1c7efc8f048f14e6fb0bb0ca0e01ac7c"
+          }
+        },
+        {
+          "id": "generated.forgemod:create:6.0.10@jar",
+          "name": "Create",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 19123767,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/create-1.21.1-6.0.10.jar",
+            "MD5": "179189c52b45a469e683570be4e77188"
+          }
+        },
+        {
+          "id": "generated.forgemod:aeronautics_bundled:1.3.0@jar",
+          "name": "Create Aeronautics",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 33120013,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/create-aeronautics-bundled-1.21.1-1.3.0.jar",
+            "MD5": "27e0597b184778e49f1b4d5351bedc60"
+          }
+        },
+        {
+          "id": "generated.forgemod:cullleaves:4.1.1@jar",
+          "name": "CullLeaves",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 94735,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/cullleaves-neoforge-4.1.1+1.21.1.jar",
+            "MD5": "2b0b25cd86a1bb1179862aa4088677aa"
+          }
+        },
+        {
+          "id": "generated.forgemod:curios:9.5.1+1.21.1@jar",
+          "name": "Curios API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 410690,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/curios-neoforge-9.5.1+1.21.1.jar",
+            "MD5": "e8f0a3574264bb202c153b90293dc84c"
+          }
+        },
+        {
+          "id": "generated.forgemod:cpm:0.6.27a@jar",
+          "name": "Customizable Player Models",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2793136,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/CustomPlayerModels-1.21-0.6.27a.jar",
+            "MD5": "d74eddfd5685aec041d6c5b097b689f3"
+          }
+        },
+        {
+          "id": "generated.forgemod:decocraft:3.0.11@jar",
+          "name": "Decocraft",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 93170262,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/decocraft-3.0.11-1.21.1-neoforge.jar",
+            "MD5": "dd7e3bb25bfa6d7863244db2f2a8fe9f"
+          }
+        },
+        {
+          "id": "generated.forgemod:diamondvalue:1.0.0@jar",
+          "name": "Diamond Value",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 29167,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/diamondvalue-1.0.0-neoforge-1.21.1.jar",
+            "MD5": "3e29781e0af4d92098b5a8f85ebab374"
+          }
+        },
+        {
+          "id": "generated.forgemod:dungeons_arise:2.1.68@jar",
+          "name": "When Dungeons Arise",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 11842679,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/DungeonsArise-1.21.1-2.1.68-release.jar",
+            "MD5": "8c803078cb52411a40201d6e69a23529"
+          }
+        },
+        {
+          "id": "generated.forgemod:emotecraft:2.4.12@jar",
+          "name": "Emotecraft",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 861829,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/emotecraft-for-MC1.21.1-2.4.12-neoforge.jar",
+            "MD5": "c4840725c74865e2ba95807396c66a4f"
+          }
+        },
+        {
+          "id": "generated.forgemod:entity_model_features:3.2.4@jar",
+          "name": "Entity Model Features",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 567827,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/entity_model_features-3.2.4-1.21-neoforge.jar",
+            "MD5": "b7f1c8a4f16281fa69b9e09e8154544b"
+          }
+        },
+        {
+          "id": "generated.forgemod:entity_texture_features:7.1@jar",
+          "name": "Entity Texture Features",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 752334,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/entity_texture_features_1.21-neoforge-7.1.jar",
+            "MD5": "07c98cc3e76f514eee3adee43d05dae9"
+          }
+        },
+        {
+          "id": "generated.forgemod:entityculling:1.10.5@jar",
+          "name": "EntityCulling",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1585287,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/entityculling-neoforge-1.10.5-mc1.21.1.jar",
+            "MD5": "efb6e5638cd09578c0aaaa396c9bfa84"
+          }
+        },
+        {
+          "id": "generated.forgemod:extra_dungeons:1.0.7@jar",
+          "name": "Extra dungeons",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 59323,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/extra_dungeons-1.0.7-neoforge-1.21.1.jar",
+            "MD5": "b7fb573dadf1dbc65e76177c84b22e21"
+          }
+        },
+        {
+          "id": "generated.forgemod:farmersdelight:1.3.2@jar",
+          "name": "Farmer's Delight",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3163042,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/FarmersDelight-1.21.1-1.3.2.jar",
+            "MD5": "60186e1b39385ecae70ff2f194ef7c32"
+          }
+        },
+        {
+          "id": "generated.forgemod:farmersknives:1.21.1-4.2.0@jar",
+          "name": "Farmer's Knives",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 91362,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/farmersknives-neoforge-1.21.1-4.2.0.jar",
+            "MD5": "343cc10d7660f4b044f1a7754976416c"
+          }
+        },
+        {
+          "id": "generated.forgemod:faz_roleplay_plus:0.0.1@jar",
+          "name": "Faz Roleplay Plus",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 522086,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/FazRoleplayClothes-Neo1.21.1-1.6.1.jar",
+            "MD5": "be994c8acfa4e7f57d163e026330c26a"
+          }
+        },
+        {
+          "id": "generated.forgemod:ferritecore:7.0.3@jar",
+          "name": "Ferrite Core",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 121559,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/ferritecore-7.0.3-neoforge.jar",
+            "MD5": "e0374dac41d6c641903f9e241911e1d3"
+          }
+        },
+        {
+          "id": "generated.forgemod:fzzy_config:0.7.6+1.21+neoforge@jar",
+          "name": "Fzzy Config",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2369895,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/fzzy_config-0.7.6+1.21+neoforge.jar",
+            "MD5": "cd0823556e6d24046bd0f4ba74cd4981"
+          }
+        },
+        {
+          "id": "generated.forgemod:geckolib:4.9.2@jar",
+          "name": "GeckoLib 4",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 630584,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/geckolib-neoforge-1.21.1-4.9.2.jar",
+            "MD5": "5cf29155ad6071b5dcba2ea24cd27350"
+          }
+        },
+        {
+          "id": "com.natamus:guieffecttimer:1.0@jar",
+          "name": "GUI Effect Timer",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 31965,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/guieffecttimer-1.21.1-1.0.jar",
+            "MD5": "70cc032b40e40553b6d88561fff3d402"
+          }
+        },
+        {
+          "id": "generated.forgemod:handcrafted:4.0.3@jar",
+          "name": "Handcrafted",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7132842,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/handcrafted-neoforge-1.21.1-4.0.3.jar",
+            "MD5": "0f875f5741a6fad6f1c4f6fdbe5f538b"
+          }
+        },
+        {
+          "id": "generated.forgemod:hellish_trials:1.0.5@jar",
+          "name": "Hellish Trials",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 581988,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/HellishTrials-neoforge-1.0.5.jar",
+            "MD5": "5932b90300f103bb2d891da002126a69"
+          }
+        },
+        {
+          "id": "generated.forgemod:immediatelyfast:1.6.11+1.21.1@jar",
+          "name": "ImmediatelyFast",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 361795,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/ImmediatelyFast-NeoForge-1.6.11+1.21.1.jar",
+            "MD5": "f432a12463accb05290ea7de52fccc43"
+          }
+        },
+        {
+          "id": "generated.forgemod:immersive_paintings:0.7.8@jar",
+          "name": "Immersive Paintings",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5500916,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/immersive_paintings-neoforge-1.21.1-0.7.8.jar",
+            "MD5": "a857d42037e6afbc0ad03a0b744ba7f5"
+          }
+        },
+        {
+          "id": "generated.forgemod:invmove:0.9.3@jar",
+          "name": "InvMove",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 87005,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/InvMove-0.9.3+1.21.1-NeoForge.jar",
+            "MD5": "23c74a4184b17664a65a044181a00296"
+          }
+        },
+        {
+          "id": "generated.forgemod:jade:15.10.5+neoforge@jar",
+          "name": "Jade",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 725742,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/Jade-1.21.1-NeoForge-15.10.5.jar",
+            "MD5": "80f9186d25b02ebbfa5773416f5da410"
+          }
+        },
+        {
+          "id": "generated.forgemod:jei:19.38.0.366@jar",
+          "name": "Just Enough Items",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1628259,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/jei-1.21.1-neoforge-19.38.0.366.jar",
+            "MD5": "6c8c106d0d1b613bfd23a5c79500c030"
+          }
+        },
+        {
+          "id": "generated.forgemod:journeymap:1.21.1-6.0.1@jar",
+          "name": "Journeymap",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4151399,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/journeymap-neoforge-1.21.1-6.0.1.jar",
+            "MD5": "d178b1361172e5f4fd3c6e53999ef2ec"
+          }
+        },
+        {
+          "id": "generated.forgemod:justzoom:2.1.0@jar",
+          "name": "Just Zoom",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 43798,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/justzoom_neoforge_2.1.0_MC_1.21.1.jar",
+            "MD5": "3c28fc81aa5a9be514905e6c88e02d6d"
+          }
+        },
+        {
+          "id": "generated.forgemod:konkrete:1.9.9@jar",
+          "name": "Konkrete",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 618842,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/konkrete_neoforge_1.9.9_MC_1.21.jar",
+            "MD5": "6e77d08299ea1ec7756a299263bc469b"
+          }
+        },
+        {
+          "id": "generated.forgemod:kotlinforforge:5.12.0-all@jar",
+          "name": "Kotlinforforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7279264,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/kotlinforforge-5.12.0-all.jar",
+            "MD5": "93ec434c7112952f0501211a992538b9"
+          }
+        },
+        {
+          "id": "generated.forgemod:krypton:0.1.0+mc1.21@jar",
+          "name": "KryptonFoxified",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 189002,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/KryptonFoxified-0.1.0+mc1.21.jar",
+            "MD5": "8847cc09f246ed6d99f3b90e4cf26592"
+          }
+        },
+        {
+          "id": "generated.forgemod:literally_just_backpacks:1.0.1@jar",
+          "name": "Literally Just Backpacks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 216151,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/literally_just_backpacks-1.21.1-v1.0.1.jar",
+            "MD5": "48c352878a8920081fef702c2a53dd65"
+          }
+        },
+        {
+          "id": "generated.forgemod:lithium:0.15.4+mc1.21.1@jar",
+          "name": "Lithium",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 774220,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/lithium-neoforge-0.15.4+mc1.21.1.jar",
+            "MD5": "969860e6a6ebe4dc2e2154b56f05483e"
+          }
+        },
+        {
+          "id": "generated.forgemod:longerchathistory:1.7@jar",
+          "name": "Longer Chat History",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6094,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/LongerChatHistory-neoforge-1.7.jar",
+            "MD5": "05875eeefef70ffe0e42e474a22943f8"
+          }
+        },
+        {
+          "id": "generated.forgemod:midnightlib:1.9.3@jar",
+          "name": "MidnightLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 61217,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/midnightlib-neoforge-1.9.3+1.21.1.jar",
+            "MD5": "e2ecfd48d9b6670ee33b18b21fdfea46"
+          }
+        },
+        {
+          "id": "generated.forgemod:mr_moar_advancements:3.0@jar",
+          "name": "Moar Advancements",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 208874,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/moar-advancements-3.0.jar",
+            "MD5": "6fec87308b444c13832c0706c486c398"
+          }
+        },
+        {
+          "id": "generated.forgemod:mod_menu:1.0.2@jar",
+          "name": "Mod Menu (NeoForge Edition)",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 933248,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/Mod%20Menu%20(NeoForge%20Edition)%201.21.1-1.0.2.jar",
+            "MD5": "bc44f629a0013e8dea8e41021b3c1a24"
+          }
+        },
+        {
+          "id": "generated.forgemod:modernfix:5.27.15+mc1.21.1@jar",
+          "name": "ModernFix",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 597318,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/modernfix-neoforge-5.27.15+mc1.21.1.jar",
+            "MD5": "b5ba355fc60c7e5cc8762f2fada8324b"
+          }
+        },
+        {
+          "id": "generated.forgemod:moonlight:1.21.1-3.1.1@jar",
+          "name": "Moonlight Lib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2028566,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/moonlight-neoforge-1.21.1-3.1.1.jar",
+            "MD5": "46eeabeae630e53923fc572125fb939a"
+          }
+        },
+        {
+          "id": "generated.forgemod:moreculling:1.0.8@jar",
+          "name": "More Culling",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 332875,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/moreculling-neoforge-1.21.1-1.0.8.jar",
+            "MD5": "d97e21d2b8af8da26b3e4e25ac8feb8e"
+          }
+        },
+        {
+          "id": "generated.forgemod:mousetweaks:2.26.1@jar",
+          "name": "Mouse Tweaks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 73938,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+            "MD5": "4ab6e808a59fdebecfbc92438b85b470"
+          }
+        },
+        {
+          "id": "generated.forgemod:naturalwaters:21.1.0@jar",
+          "name": "Natural Waters",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 76657,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/NaturalWaters-v21.1.0-mc1.21.1-NeoForge.jar",
+            "MD5": "4c6837638e49e188f0d15b8bc9ad7f56"
+          }
+        },
+        {
+          "id": "generated.forgemod:nofog:1@jar",
+          "name": "NoFog",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3161,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/nofog-neoforge-1.21-1.21.1.jar",
+            "MD5": "1b9b8a5fc2a35f86ec63fea7bbd791d1"
+          }
+        },
+        {
+          "id": "generated.forgemod:owo:0.12.15.5-beta.1+1.21@jar",
+          "name": "Oωo",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1221583,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar",
+            "MD5": "4c8323c3d0493f7e82a2287e5ca9df7f"
+          }
+        },
+        {
+          "id": "generated.forgemod:pehkui:3.8.3+1.21-neoforge@jar",
+          "name": "Pehkui",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 507568,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/Pehkui-3.8.3+1.21-neoforge.jar",
+            "MD5": "e7aa528c6ba9fe1df3b7e54cdc867a7e"
+          }
+        },
+        {
+          "id": "generated.forgemod:plasmovoice:2.1.13@jar",
+          "name": "Plasmo Voice",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 12304232,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/plasmovoice-neoforge-1.21.1-2.1.13.jar",
+            "MD5": "b7005e28f999c7116658ef492c67fa06"
+          }
+        },
+        {
+          "id": "generated.forgemod:platform:1.3.3@jar",
+          "name": "Platform",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 489341,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/Platform-neoforge-1.21.1-1.3.3.jar",
+            "MD5": "e20292cd105330fffaa36c65adfc4dcd"
+          }
+        },
+        {
+          "id": "generated.forgemod:polymorph:1.1.0+1.21.1@jar",
+          "name": "Polymorph",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 174972,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/polymorph-neoforge-1.1.0+1.21.1.jar",
+            "MD5": "2368e0c92ae882677bbf4b87418656b9"
+          }
+        },
+        {
+          "id": "generated.forgemod:primity:0.1.4@jar",
+          "name": "Primity",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 105569,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/primity-neoforge-0.1.4-1.21.1.jar",
+            "MD5": "326ca32d77e69111a3d94c4274225e0b"
+          }
+        },
+        {
+          "id": "generated.forgemod:puzzleslib:21.1.52@jar",
+          "name": "Puzzles Lib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1425176,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/PuzzlesLib-v21.1.52-1.21.1-NeoForge.jar",
+            "MD5": "4ee80ed6cebef297e3c5a82cf7db559f"
+          }
+        },
+        {
+          "id": "generated.forgemod:pv_voice_changer:1.5@jar",
+          "name": "Plasmo Voice Changer",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 107287,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/pv-voice-changer-neoforge-1.5-neoforge-1.21.jar",
+            "MD5": "b32a89c26b48daa4b955920363fee911"
+          }
+        },
+        {
+          "id": "generated.forgemod:rebind_narrator:2025.12.23@jar",
+          "name": "Rebind Narrator",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 213661,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/rebind_narrator-1.21.1-neoforge-2025.12.23.jar",
+            "MD5": "295f75c630abc3b7c1fccd3405c88424"
+          }
+        },
+        {
+          "id": "generated.forgemod:reeses_sodium_options:2.2.3+mc1.21.1@jar",
+          "name": "Reese's Sodium Options",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 260876,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/reeses-sodium-options-neoforge-2.2.3+mc1.21.1.jar",
+            "MD5": "ffd2290753f3e5e494d04daca1b4eb13"
+          }
+        },
+        {
+          "id": "generated.forgemod:resourcefullib:3.0.12@jar",
+          "name": "Resourceful Lib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 484332,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/resourcefullib-neoforge-1.21-3.0.12.jar",
+            "MD5": "32da88903167d24bb20febeeb2c79225"
+          }
+        },
+        {
+          "id": "generated.forgemod:resourcepackoverrides:21.1.0@jar",
+          "name": "Resource Pack Overrides",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 83035,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/ResourcePackOverrides-v21.1.0-1.21.1-NeoForge.jar",
+            "MD5": "9757d99dce58ebb447cc75a1940d4d5a"
+          }
+        },
+        {
+          "id": "generated.forgemod:ribbits:1.21.1-NeoForge-4.1.6@jar",
+          "name": "Ribbits",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2215572,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/Ribbits-1.21.1-NeoForge-4.1.6.jar",
+            "MD5": "80d8f737687ac5ec71439ebed1bef72f"
+          }
+        },
+        {
+          "id": "generated.forgemod:sable:2.0.3@jar",
+          "name": "Sable",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 12889000,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/sable-neoforge-1.21.1-2.0.3.jar",
+            "MD5": "66ce01f745ab0ce5941e4070ae5eb949"
+          }
+        },
+        {
+          "id": "generated.forgemod:sharedatlasjm:0.9.0@jar",
+          "name": "SharedAtlasJM",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 32515,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/sharedatlasjm-0.12.0.jar",
+            "MD5": "33f6f324631c26258d0bb889dc6c5241"
+          }
+        },
+        {
+          "id": "generated.forgemod:shulkerboxtooltip:5.1.9+1.21.1@jar",
+          "name": "ShulkerBoxTooltip",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 381204,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/shulkerboxtooltip-neoforge-5.1.9+1.21.1.jar",
+            "MD5": "cbdde866ca8ec8a04b90e17a8668df61"
+          }
+        },
+        {
+          "id": "generated.forgemod:sit:1.4@jar",
+          "name": "Sit",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 14031,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/sit-1.21.1-1.4.jar",
+            "MD5": "01be947d5c6584fb41d7bc7c459fafca"
+          }
+        },
+        {
+          "id": "generated.forgemod:sliceanddice:4.3.2@jar",
+          "name": "Create Slice & Dice",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1353585,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/sliceanddice-neoforge-4.3.2.jar",
+            "MD5": "394aa452ac6dea1a264192d59c340185"
+          }
+        },
+        {
+          "id": "generated.forgemod:sodium_extra:0.9.3+mc1.21.1@jar",
+          "name": "Sodium Extra",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 465013,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/sodium-extra-neoforge-0.9.3+mc1.21.1.jar",
+            "MD5": "48540138881ebc454ef3a07c1bd4c250"
+          }
+        },
+        {
+          "id": "generated.forgemod:sodium:0.8.12+mc1.21.1@jar",
+          "name": "Sodium",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1291418,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/sodium-neoforge-0.8.12+mc1.21.1.jar",
+            "MD5": "c0d728fccffb8365ba45e6ae4b15e5cc"
+          }
+        },
+        {
+          "id": "generated.forgemod:spears:1.8.0@jar",
+          "name": "Backported Spears",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 421287,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/spear-backport-neoforge-1.8.0-1.21.1.jar",
+            "MD5": "36af150f9fd5986ac4972939cc19062b"
+          }
+        },
+        {
+          "id": "generated.forgemod:supplementaries:neoforge-1.21.1-3.8.2@jar",
+          "name": "Supplementaries",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 13452273,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/supplementaries-neoforge-1.21.1-3.8.2.jar",
+            "MD5": "1db703c7f8bc2aaa866d353a259eb4f1"
+          }
+        },
+        {
+          "id": "generated.forgemod:suppsquared:1.21-1.2.18@jar",
+          "name": "Supplementaries Squared",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 752062,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/suppsquared-neoforge-1.21-1.2.18.jar",
+            "MD5": "bb97d98e6bb90f9be2368b83807550a6"
+          }
+        },
+        {
+          "id": "generated.forgemod:toms_storage:2.3.2@jar",
+          "name": "Tom's Simple Storage Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 848335,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/toms_storage-1.21-2.3.2.jar",
+            "MD5": "0678851bbe9afd7ac53cb192e93a66e4"
+          }
+        },
+        {
+          "id": "generated.forgemod:trade_cycling:1.21.1-1.0.18@jar",
+          "name": "Trade Cycling",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 85732,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/trade-cycling-neoforge-1.21.1-1.0.18.jar",
+            "MD5": "cfe95476fdd5c3b2b2b3e2912c17d5e8"
+          }
+        },
+        {
+          "id": "generated.forgemod:treechop:0.19.3@jar",
+          "name": "HT's TreeChop",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 517750,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/TreeChop-1.21.1-neoforge-0.19.3.jar",
+            "MD5": "c87da07af73f649d1fe4ec6ca6d5a3ea"
+          }
+        },
+        {
+          "id": "generated.forgemod:vanillabackport:1.1.7.10@jar",
+          "name": "VanillaBackport",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 54902084,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/VanillaBackport-neoforge-1.21.1-1.1.7.10.jar",
+            "MD5": "84ce84dbdec267fc87aa11b40a1aa3e2"
+          }
+        },
+        {
+          "id": "generated.forgemod:wanderer_ribbit:3.0.0@jar",
+          "name": "Wanderer_Ribbit",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 413386,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/wandering_ribbit-3.0.0-neoforge-1.21.1.jar",
+            "MD5": "7760eff70d95d138a84851664fb5c1cb"
+          }
+        },
+        {
+          "id": "generated.forgemod:yungsapi:1.21.1-NeoForge-5.1.6@jar",
+          "name": "YUNG's API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 388678,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/YungsApi-1.21.1-NeoForge-5.1.6.jar",
+            "MD5": "4a27558e0a2fd72512b051525c9abeaf"
+          }
+        },
+        {
+          "id": "generated.forgemod:yuushya:2.3.0@jar",
+          "name": "Yuushya",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 28197448,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/yuushya-1.21.0-neoforge-2.3.0.jar",
+            "MD5": "e9a8e2005bb8556b9b1dfb45d5f930ed"
+          }
+        },
+        {
+          "id": "resourcepackoverrides.json",
+          "name": "resourcepackoverrides.json",
+          "type": "File",
+          "artifact": {
+            "size": 162,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/config/resourcepackoverrides.json",
+            "MD5": "8b6302793207b7a479346187d7ca9900",
+            "path": "config/resourcepackoverrides.json"
+          }
+        },
+        {
+          "id": "accessories.json5",
+          "name": "accessories.json5",
+          "type": "File",
+          "artifact": {
+            "size": 919,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/accessories.json5",
+            "MD5": "4324a1d110d6d84a44df08c3d80efed6",
+            "path": "configureddefaults/config/accessories.json5"
+          }
+        },
+        {
+          "id": "aeronautics-server.toml",
+          "name": "aeronautics-server.toml",
+          "type": "File",
+          "artifact": {
+            "size": 3066,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/aeronautics-server.toml",
+            "MD5": "f0a3af7930944b1388e7f06b705f66a3",
+            "path": "configureddefaults/config/aeronautics-server.toml"
+          }
+        },
+        {
+          "id": "alltheleaks.json",
+          "name": "alltheleaks.json",
+          "type": "File",
+          "artifact": {
+            "size": 398,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/alltheleaks.json",
+            "MD5": "7b0347a81c24e4ddc5fb690749123529",
+            "path": "configureddefaults/config/alltheleaks.json"
+          }
+        },
+        {
+          "id": "appleskin-client.toml",
+          "name": "appleskin-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1380,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/appleskin-client.toml",
+            "MD5": "5fef9d17fd4fe88343083f00137474c6",
+            "path": "configureddefaults/config/appleskin-client.toml"
+          }
+        },
+        {
+          "id": "armor_hud.json",
+          "name": "armor_hud.json",
+          "type": "File",
+          "artifact": {
+            "size": 468,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/armor_hud.json",
+            "MD5": "19c372c20c3e48fa678ae5e8a250db5c",
+            "path": "configureddefaults/config/armor_hud.json"
+          }
+        },
+        {
+          "id": "client.toml",
+          "name": "client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 819,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/artifacts/client.toml",
+            "MD5": "d6847c7a20c4a404127a37ebc9d91b40",
+            "path": "configureddefaults/config/artifacts/client.toml"
+          }
+        },
+        {
+          "id": "general.toml",
+          "name": "general.toml",
+          "type": "File",
+          "artifact": {
+            "size": 2326,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/artifacts/general.toml",
+            "MD5": "22a5352c38f799a318daa611dc67eb92",
+            "path": "configureddefaults/config/artifacts/general.toml"
+          }
+        },
+        {
+          "id": "items.toml",
+          "name": "items.toml",
+          "type": "File",
+          "artifact": {
+            "size": 20051,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/artifacts/items.toml",
+            "MD5": "3a50a856f740190409827c03cf2904d5",
+            "path": "configureddefaults/config/artifacts/items.toml"
+          }
+        },
+        {
+          "id": "beautify-server.toml",
+          "name": "beautify-server.toml",
+          "type": "File",
+          "artifact": {
+            "size": 463,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/beautify-server.toml",
+            "MD5": "b01d6da96a070cce748204a9591d0f28",
+            "path": "configureddefaults/config/beautify-server.toml"
+          }
+        },
+        {
+          "id": "boostedbrightness.json",
+          "name": "boostedbrightness.json",
+          "type": "File",
+          "artifact": {
+            "size": 72,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/boostedbrightness.json",
+            "MD5": "54a526f44c6c20b17f23e285f5048299",
+            "path": "configureddefaults/config/boostedbrightness.json"
+          }
+        },
+        {
+          "id": "c2me.toml",
+          "name": "c2me.toml",
+          "type": "File",
+          "artifact": {
+            "size": 9528,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/c2me.toml",
+            "MD5": "444bc51ac8dc9917d189a0fa82527b78",
+            "path": "configureddefaults/config/c2me.toml"
+          }
+        },
+        {
+          "id": "carryon-client.toml",
+          "name": "carryon-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 588,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/carryon-client.toml",
+            "MD5": "03e802a1bb626084c28bdf9bb0ba609d",
+            "path": "configureddefaults/config/carryon-client.toml"
+          }
+        },
+        {
+          "id": "carryon-common.toml",
+          "name": "carryon-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 8558,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/carryon-common.toml",
+            "MD5": "f1b8eef91a1e40bcab2eca921e94b93b",
+            "path": "configureddefaults/config/carryon-common.toml"
+          }
+        },
+        {
+          "id": "chat_heads.json5",
+          "name": "chat_heads.json5",
+          "type": "File",
+          "artifact": {
+            "size": 230,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/chat_heads.json5",
+            "MD5": "607b53c23fec269bb473f0832e9e623d",
+            "path": "configureddefaults/config/chat_heads.json5"
+          }
+        },
+        {
+          "id": "collective.json5",
+          "name": "collective.json5",
+          "type": "File",
+          "artifact": {
+            "size": 2471,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/collective.json5",
+            "MD5": "7283fbc343c15ada551964030d57ea71",
+            "path": "configureddefaults/config/collective.json5"
+          }
+        },
+        {
+          "id": "colorfulhearts.toml",
+          "name": "colorfulhearts.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1648,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/colorfulhearts.toml",
+            "MD5": "54dea79e53378b2bae77d6dec370cf3b",
+            "path": "configureddefaults/config/colorfulhearts.toml"
+          }
+        },
+        {
+          "id": "client_config.json",
+          "name": "client_config.json",
+          "type": "File",
+          "artifact": {
+            "size": 20,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/com.yuushya/client_config.json",
+            "MD5": "5d9a5a048c724898c64bf0f6ae58b077",
+            "path": "configureddefaults/config/com.yuushya/client_config.json"
+          }
+        },
+        {
+          "id": "General.toml",
+          "name": "General.toml",
+          "type": "File",
+          "artifact": {
+            "size": 129,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/CoroUtil/General.toml",
+            "MD5": "e89054829f589efab442167898ecfd29",
+            "path": "configureddefaults/config/CoroUtil/General.toml"
+          }
+        },
+        {
+          "id": "create-client.toml",
+          "name": "create-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 4795,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/create-client.toml",
+            "MD5": "1381fb47656ef79054dddcaffce4ab9e",
+            "path": "configureddefaults/config/create-client.toml"
+          }
+        },
+        {
+          "id": "create-common.toml",
+          "name": "create-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 153,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/create-common.toml",
+            "MD5": "9dabf53d32493d67b0d8985fb72ad083",
+            "path": "configureddefaults/config/create-common.toml"
+          }
+        },
+        {
+          "id": "create-server.toml",
+          "name": "create-server.toml",
+          "type": "File",
+          "artifact": {
+            "size": 16890,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/create-server.toml",
+            "MD5": "e84152b02fdded18eedb9bb7eb4a3f41",
+            "path": "configureddefaults/config/create-server.toml"
+          }
+        },
+        {
+          "id": "create_connected-common.toml",
+          "name": "create_connected-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1753,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/create_connected-common.toml",
+            "MD5": "322c9289013249528e27393fe725f343",
+            "path": "configureddefaults/config/create_connected-common.toml"
+          }
+        },
+        {
+          "id": "create_connected-server.toml",
+          "name": "create_connected-server.toml",
+          "type": "File",
+          "artifact": {
+            "size": 2081,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/create_connected-server.toml",
+            "MD5": "12d0e38fc948fad3a696898c627f1f16",
+            "path": "configureddefaults/config/create_connected-server.toml"
+          }
+        },
+        {
+          "id": "cullleaves.json",
+          "name": "cullleaves.json",
+          "type": "File",
+          "artifact": {
+            "size": 42,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/cullleaves.json",
+            "MD5": "727604a10633c683eb5b0b24985f2db2",
+            "path": "configureddefaults/config/cullleaves.json"
+          }
+        },
+        {
+          "id": "curios-client.toml",
+          "name": "curios-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 766,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/curios-client.toml",
+            "MD5": "ee14fd895a3051e9e1f676bcab855d93",
+            "path": "configureddefaults/config/curios-client.toml"
+          }
+        },
+        {
+          "id": "curios-common.toml",
+          "name": "curios-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 159,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/curios-common.toml",
+            "MD5": "0addc1c3c75406e6ed98709885d58d7c",
+            "path": "configureddefaults/config/curios-common.toml"
+          }
+        },
+        {
+          "id": "curios-server.toml",
+          "name": "curios-server.toml",
+          "type": "File",
+          "artifact": {
+            "size": 483,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/curios-server.toml",
+            "MD5": "3d9e748bba95ccb5983ee30504323e5d",
+            "path": "configureddefaults/config/curios-server.toml"
+          }
+        },
+        {
+          "id": "decocraft-common.toml",
+          "name": "decocraft-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 330,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/decocraft-common.toml",
+            "MD5": "f00907c3f3c80427d908902542b4dee4",
+            "path": "configureddefaults/config/decocraft-common.toml"
+          }
+        },
+        {
+          "id": "deeperdarker-common.toml",
+          "name": "deeperdarker-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 854,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/deeperdarker-common.toml",
+            "MD5": "045ac2ab78f7c66505f4b60e22073998",
+            "path": "configureddefaults/config/deeperdarker-common.toml"
+          }
+        },
+        {
+          "id": "emotecraft.json",
+          "name": "emotecraft.json",
+          "type": "File",
+          "artifact": {
+            "size": 942,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/emotecraft.json",
+            "MD5": "cd54d3a9869894eda4686c1568682712",
+            "path": "configureddefaults/config/emotecraft.json"
+          }
+        },
+        {
+          "id": "emotecraft_emote_map.json",
+          "name": "emotecraft_emote_map.json",
+          "type": "File",
+          "artifact": {
+            "size": 117,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/emotecraft_emote_map.json",
+            "MD5": "fdcffe9e7eaa4949ee1d33d613a7c2eb",
+            "path": "configureddefaults/config/emotecraft_emote_map.json"
+          }
+        },
+        {
+          "id": "enhanced_bes.properties",
+          "name": "enhanced_bes.properties",
+          "type": "File",
+          "artifact": {
+            "size": 512,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/enhanced_bes.properties",
+            "MD5": "fb357622dad79377e4828c1186fa559f",
+            "path": "configureddefaults/config/enhanced_bes.properties"
+          }
+        },
+        {
+          "id": "entityculling.json",
+          "name": "entityculling.json",
+          "type": "File",
+          "artifact": {
+            "size": 2228,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/entityculling.json",
+            "MD5": "da0e5b077b77efa3249c47e9b2e5a4ae",
+            "path": "configureddefaults/config/entityculling.json"
+          }
+        },
+        {
+          "id": "entity_model_features.json",
+          "name": "entity_model_features.json",
+          "type": "File",
+          "artifact": {
+            "size": 1207,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/entity_model_features.json",
+            "MD5": "ab2385e25be6c3cfde23d6535b2809a6",
+            "path": "configureddefaults/config/entity_model_features.json"
+          }
+        },
+        {
+          "id": "entity_texture_features.json",
+          "name": "entity_texture_features.json",
+          "type": "File",
+          "artifact": {
+            "size": 1421,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/entity_texture_features.json",
+            "MD5": "0c487b43d5f6178f8888d0337c72ecf8",
+            "path": "configureddefaults/config/entity_texture_features.json"
+          }
+        },
+        {
+          "id": "config.json",
+          "name": "config.json",
+          "type": "File",
+          "artifact": {
+            "size": 28,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/essential-mod-partner/config.json",
+            "MD5": "845936bf3faee04970d11535a80bf3aa",
+            "path": "configureddefaults/config/essential-mod-partner/config.json"
+          }
+        },
+        {
+          "id": "data.cache.json",
+          "name": "data.cache.json",
+          "type": "File",
+          "artifact": {
+            "size": 17775,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/essential-mod-partner/data.cache.json",
+            "MD5": "3ef0486adc7e460e0df23303ae7bca86",
+            "path": "configureddefaults/config/essential-mod-partner/data.cache.json"
+          }
+        },
+        {
+          "id": "etf_warnings.json",
+          "name": "etf_warnings.json",
+          "type": "File",
+          "artifact": {
+            "size": 28,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/etf_warnings.json",
+            "MD5": "b49b5603d2df29fa132f89ec91974572",
+            "path": "configureddefaults/config/etf_warnings.json"
+          }
+        },
+        {
+          "id": "indigo-renderer.properties",
+          "name": "indigo-renderer.properties",
+          "type": "File",
+          "artifact": {
+            "size": 290,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/fabric/indigo-renderer.properties",
+            "MD5": "2e5a3126d66f5af50a80cbb5325fa765",
+            "path": "configureddefaults/config/fabric/indigo-renderer.properties"
+          }
+        },
+        {
+          "id": "farmersdelight-client.toml",
+          "name": "farmersdelight-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 476,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/farmersdelight-client.toml",
+            "MD5": "dca43cd29af1275bfba42f5c1e6c26d9",
+            "path": "configureddefaults/config/farmersdelight-client.toml"
+          }
+        },
+        {
+          "id": "farmersdelight-common.toml",
+          "name": "farmersdelight-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 3817,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/farmersdelight-common.toml",
+            "MD5": "8bef4b71a48bec07963cf9d6dcd97cb6",
+            "path": "configureddefaults/config/farmersdelight-common.toml"
+          }
+        },
+        {
+          "id": "ferritecore-mixin.toml",
+          "name": "ferritecore-mixin.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1603,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/ferritecore-mixin.toml",
+            "MD5": "1273149165ad75919e7f3234a993d101",
+            "path": "configureddefaults/config/ferritecore-mixin.toml"
+          }
+        },
+        {
+          "id": "figura.json",
+          "name": "figura.json",
+          "type": "File",
+          "artifact": {
+            "size": 166,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/figura.json",
+            "MD5": "e8312897df581f3e270c1092c85b7206",
+            "path": "configureddefaults/config/figura.json"
+          }
+        },
+        {
+          "id": "flywheel-client.toml",
+          "name": "flywheel-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 637,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/flywheel-client.toml",
+            "MD5": "386a39e6bfab0adbc4945680e5b202fb",
+            "path": "configureddefaults/config/flywheel-client.toml"
+          }
+        },
+        {
+          "id": "fml.toml",
+          "name": "fml.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1550,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/fml.toml",
+            "MD5": "61a62e6a2b5b00f324065233e76b9a64",
+            "path": "configureddefaults/config/fml.toml"
+          }
+        },
+        {
+          "id": "laststate.txt",
+          "name": "laststate.txt",
+          "type": "File",
+          "artifact": {
+            "size": 12,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/fullbrightnesstoggle/laststate.txt",
+            "MD5": "93fc3faf9beaebf554565b50e744e025",
+            "path": "configureddefaults/config/fullbrightnesstoggle/laststate.txt"
+          }
+        },
+        {
+          "id": "keybinds.toml",
+          "name": "keybinds.toml",
+          "type": "File",
+          "artifact": {
+            "size": 6403,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/fzzy_config/keybinds.toml",
+            "MD5": "db29914636f6e1455464345f8e91d353",
+            "path": "configureddefaults/config/fzzy_config/keybinds.toml"
+          }
+        },
+        {
+          "id": "search.toml",
+          "name": "search.toml",
+          "type": "File",
+          "artifact": {
+            "size": 510,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/fzzy_config/search.toml",
+            "MD5": "df7a521629251dd1e77205589fed6fbc",
+            "path": "configureddefaults/config/fzzy_config/search.toml"
+          }
+        },
+        {
+          "id": "guieffecttimer.json5",
+          "name": "guieffecttimer.json5",
+          "type": "File",
+          "artifact": {
+            "size": 272,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/guieffecttimer.json5",
+            "MD5": "df6e093a781ff77cc317215ac42cad80",
+            "path": "configureddefaults/config/guieffecttimer.json5"
+          }
+        },
+        {
+          "id": "immediatelyfast.json",
+          "name": "immediatelyfast.json",
+          "type": "File",
+          "artifact": {
+            "size": 1114,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/immediatelyfast.json",
+            "MD5": "8c5364d78b0f6f9c1461f88ca38e8d84",
+            "path": "configureddefaults/config/immediatelyfast.json"
+          }
+        },
+        {
+          "id": "immersivelanterns-client.toml",
+          "name": "immersivelanterns-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 501,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/immersivelanterns-client.toml",
+            "MD5": "d86e41824cad917ce44b9ebe20b98a00",
+            "path": "configureddefaults/config/immersivelanterns-client.toml"
+          }
+        },
+        {
+          "id": "client_config.toml",
+          "name": "client_config.toml",
+          "type": "File",
+          "artifact": {
+            "size": 324,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/immersive_paintings/client_config.toml",
+            "MD5": "22a39cda0a03f4b0ae467b7b99950be0",
+            "path": "configureddefaults/config/immersive_paintings/client_config.toml"
+          }
+        },
+        {
+          "id": "common_config.toml",
+          "name": "common_config.toml",
+          "type": "File",
+          "artifact": {
+            "size": 442,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/immersive_paintings/common_config.toml",
+            "MD5": "21daeabd954deb4c46d4a6807f7d26a4",
+            "path": "configureddefaults/config/immersive_paintings/common_config.toml"
+          }
+        },
+        {
+          "id": "unrecognized.json",
+          "name": "unrecognized.json",
+          "type": "File",
+          "artifact": {
+            "size": 2052,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/invmove/unrecognized.json",
+            "MD5": "430ad112be50e25cb6e3d8b3189605eb",
+            "path": "configureddefaults/config/invmove/unrecognized.json"
+          }
+        },
+        {
+          "id": "vanilla.json",
+          "name": "vanilla.json",
+          "type": "File",
+          "artifact": {
+            "size": 1092,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/invmove/vanilla.json",
+            "MD5": "95587492c4a51a3beaa4b7d8869499fe",
+            "path": "configureddefaults/config/invmove/vanilla.json"
+          }
+        },
+        {
+          "id": "invmove.json",
+          "name": "invmove.json",
+          "type": "File",
+          "artifact": {
+            "size": 449,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/invmove.json",
+            "MD5": "fe69d57296c02c07d25f1bc0686488ed",
+            "path": "configureddefaults/config/invmove.json"
+          }
+        },
+        {
+          "id": "hide-blocks.json",
+          "name": "hide-blocks.json",
+          "type": "File",
+          "artifact": {
+            "size": 149,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/jade/hide-blocks.json",
+            "MD5": "83c9f405ab4ae1427f76ab4a30a16644",
+            "path": "configureddefaults/config/jade/hide-blocks.json"
+          }
+        },
+        {
+          "id": "hide-entities.json",
+          "name": "hide-entities.json",
+          "type": "File",
+          "artifact": {
+            "size": 243,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/jade/hide-entities.json",
+            "MD5": "a52182a33844468228bdbc58dbe5a73a",
+            "path": "configureddefaults/config/jade/hide-entities.json"
+          }
+        },
+        {
+          "id": "jade.json",
+          "name": "jade.json",
+          "type": "File",
+          "artifact": {
+            "size": 1089,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/jade/jade.json",
+            "MD5": "ad37277172d44ee4f0b17d486850c163",
+            "path": "configureddefaults/config/jade/jade.json"
+          }
+        },
+        {
+          "id": "plugins.json",
+          "name": "plugins.json",
+          "type": "File",
+          "artifact": {
+            "size": 2251,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/jade/plugins.json",
+            "MD5": "37088ce46054f9f0096c27776c9c796c",
+            "path": "configureddefaults/config/jade/plugins.json"
+          }
+        },
+        {
+          "id": "sort-order.json",
+          "name": "sort-order.json",
+          "type": "File",
+          "artifact": {
+            "size": 2274,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/jade/sort-order.json",
+            "MD5": "3ed8a12ab33e9d1a0b0eb928357f8736",
+            "path": "configureddefaults/config/jade/sort-order.json"
+          }
+        },
+        {
+          "id": "blacklist.json",
+          "name": "blacklist.json",
+          "type": "File",
+          "artifact": {
+            "size": 19,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/jei/blacklist.json",
+            "MD5": "78f1a39821342258f73e542d9ea40e0f",
+            "path": "configureddefaults/config/jei/blacklist.json"
+          }
+        },
+        {
+          "id": "ingredient-list-mod-sort-order.ini",
+          "name": "ingredient-list-mod-sort-order.ini",
+          "type": "File",
+          "artifact": {
+            "size": 385,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/jei/ingredient-list-mod-sort-order.ini",
+            "MD5": "24b7f27a54f63c01289eac6256982821",
+            "path": "configureddefaults/config/jei/ingredient-list-mod-sort-order.ini"
+          }
+        },
+        {
+          "id": "ingredient-list-type-sort-order.ini",
+          "name": "ingredient-list-type-sort-order.ini",
+          "type": "File",
+          "artifact": {
+            "size": 78,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/jei/ingredient-list-type-sort-order.ini",
+            "MD5": "0328cc64f29f41e751136fade109eaff",
+            "path": "configureddefaults/config/jei/ingredient-list-type-sort-order.ini"
+          }
+        },
+        {
+          "id": "jei-client.ini",
+          "name": "jei-client.ini",
+          "type": "File",
+          "artifact": {
+            "size": 12465,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/jei/jei-client.ini",
+            "MD5": "56666e8c970038816bc8152a876accbf",
+            "path": "configureddefaults/config/jei/jei-client.ini"
+          }
+        },
+        {
+          "id": "jei-colors.ini",
+          "name": "jei-colors.ini",
+          "type": "File",
+          "artifact": {
+            "size": 1378,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/jei/jei-colors.ini",
+            "MD5": "1a9b99580705e67765f811c93ff561f2",
+            "path": "configureddefaults/config/jei/jei-colors.ini"
+          }
+        },
+        {
+          "id": "jei-debug.ini",
+          "name": "jei-debug.ini",
+          "type": "File",
+          "artifact": {
+            "size": 1628,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/jei/jei-debug.ini",
+            "MD5": "6e7ad72da4f2d97746403ef524ab3e7e",
+            "path": "configureddefaults/config/jei/jei-debug.ini"
+          }
+        },
+        {
+          "id": "jei-mod-id-format.ini",
+          "name": "jei-mod-id-format.ini",
+          "type": "File",
+          "artifact": {
+            "size": 531,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/jei/jei-mod-id-format.ini",
+            "MD5": "f0cf7556848d7161994a1e58f9fc668c",
+            "path": "configureddefaults/config/jei/jei-mod-id-format.ini"
+          }
+        },
+        {
+          "id": "recipe-category-sort-order.ini",
+          "name": "recipe-category-sort-order.ini",
+          "type": "File",
+          "artifact": {
+            "size": 861,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/jei/recipe-category-sort-order.ini",
+            "MD5": "e1dd885488f28e9296ab101444eff142",
+            "path": "configureddefaults/config/jei/recipe-category-sort-order.ini"
+          }
+        },
+        {
+          "id": "bookmarks.json",
+          "name": "bookmarks.json",
+          "type": "File",
+          "artifact": {
+            "size": 19,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/jei/world/local/New%20World/bookmarks.json",
+            "MD5": "78f1a39821342258f73e542d9ea40e0f",
+            "path": "configureddefaults/config/jei/world/local/New World/bookmarks.json"
+          }
+        },
+        {
+          "id": "lookupHistory.json",
+          "name": "lookupHistory.json",
+          "type": "File",
+          "artifact": {
+            "size": 7785,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/jei/world/local/New%20World/lookupHistory.json",
+            "MD5": "75f6f9b83ed79379ec51122d0a1ee6ac",
+            "path": "configureddefaults/config/jei/world/local/New World/lookupHistory.json"
+          }
+        },
+        {
+          "id": "jei-server.toml",
+          "name": "jei-server.toml",
+          "type": "File",
+          "artifact": {
+            "size": 324,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/jei-server.toml",
+            "MD5": "6912479d1f35b27783befe8326720922",
+            "path": "configureddefaults/config/jei-server.toml"
+          }
+        },
+        {
+          "id": "journeymap-server.toml",
+          "name": "journeymap-server.toml",
+          "type": "File",
+          "artifact": {
+            "size": 550,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/journeymap-server.toml",
+            "MD5": "84dcc81ca8a4926e479104038e7184ba",
+            "path": "configureddefaults/config/journeymap-server.toml"
+          }
+        },
+        {
+          "id": "config.txt",
+          "name": "config.txt",
+          "type": "File",
+          "artifact": {
+            "size": 474,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/justzoom/config.txt",
+            "MD5": "9870d9afbe93cb329c8daa34e50d078d",
+            "path": "configureddefaults/config/justzoom/config.txt"
+          }
+        },
+        {
+          "id": "de_de.local",
+          "name": "de_de.local",
+          "type": "File",
+          "artifact": {
+            "size": 369,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/konkrete/locals/de_de.local",
+            "MD5": "3aac3df2519057d2305f894c37771e30",
+            "path": "configureddefaults/config/konkrete/locals/de_de.local"
+          }
+        },
+        {
+          "id": "en_us.local",
+          "name": "en_us.local",
+          "type": "File",
+          "artifact": {
+            "size": 426,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/konkrete/locals/en_us.local",
+            "MD5": "56c7ccaa193ba73c0d5c50aff28bb807",
+            "path": "configureddefaults/config/konkrete/locals/en_us.local"
+          }
+        },
+        {
+          "id": "pl_pl.local",
+          "name": "pl_pl.local",
+          "type": "File",
+          "artifact": {
+            "size": 313,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/konkrete/locals/pl_pl.local",
+            "MD5": "c1f5aa5c2d2ac414f75f0ec3cab3b9c8",
+            "path": "configureddefaults/config/konkrete/locals/pl_pl.local"
+          }
+        },
+        {
+          "id": "pt_br.local",
+          "name": "pt_br.local",
+          "type": "File",
+          "artifact": {
+            "size": 322,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/konkrete/locals/pt_br.local",
+            "MD5": "2d055da094c115b94f0e4373a2e06ebe",
+            "path": "configureddefaults/config/konkrete/locals/pt_br.local"
+          }
+        },
+        {
+          "id": "lambdynlights.toml",
+          "name": "lambdynlights.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1448,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/lambdynlights.toml",
+            "MD5": "ea1917df0f1c3fd26e782f0d9f5a63cc",
+            "path": "configureddefaults/config/lambdynlights.toml"
+          }
+        },
+        {
+          "id": "lithium.properties",
+          "name": "lithium.properties",
+          "type": "File",
+          "artifact": {
+            "size": 430,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/lithium.properties",
+            "MD5": "422e0797eef9c35fe7d8ecea0ac3f567",
+            "path": "configureddefaults/config/lithium.properties"
+          }
+        },
+        {
+          "id": "midnightlib.json",
+          "name": "midnightlib.json",
+          "type": "File",
+          "artifact": {
+            "size": 37,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/midnightlib.json",
+            "MD5": "5d33d36208b50f3a0951695c2e806d98",
+            "path": "configureddefaults/config/midnightlib.json"
+          }
+        },
+        {
+          "id": "modernfix-common.toml",
+          "name": "modernfix-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 105,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/modernfix-common.toml",
+            "MD5": "40e1cfe891a1355f22e5c07591f8943e",
+            "path": "configureddefaults/config/modernfix-common.toml"
+          }
+        },
+        {
+          "id": "modernfix-mixins.properties",
+          "name": "modernfix-mixins.properties",
+          "type": "File",
+          "artifact": {
+            "size": 5519,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/modernfix-mixins.properties",
+            "MD5": "963061310baf452816467597c730cd69",
+            "path": "configureddefaults/config/modernfix-mixins.properties"
+          }
+        },
+        {
+          "id": "mod_menu-client.toml",
+          "name": "mod_menu-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 2607,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/mod_menu-client.toml",
+            "MD5": "a69c1e9982e48c5e2ba593f689d8ce85",
+            "path": "configureddefaults/config/mod_menu-client.toml"
+          }
+        },
+        {
+          "id": "moonlight-client.toml",
+          "name": "moonlight-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1546,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/moonlight-client.toml",
+            "MD5": "19a91949636da28dc249bcabe6978bdc",
+            "path": "configureddefaults/config/moonlight-client.toml"
+          }
+        },
+        {
+          "id": "moonlight-common.toml",
+          "name": "moonlight-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 960,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/moonlight-common.toml",
+            "MD5": "7e6fe30a7ff507f7ec4d353623e6bbbf",
+            "path": "configureddefaults/config/moonlight-common.toml"
+          }
+        },
+        {
+          "id": "moreculling.toml",
+          "name": "moreculling.toml",
+          "type": "File",
+          "artifact": {
+            "size": 536,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/moreculling.toml",
+            "MD5": "7e6eba2168d3bbc5a90318489743cf93",
+            "path": "configureddefaults/config/moreculling.toml"
+          }
+        },
+        {
+          "id": "MouseTweaks.cfg",
+          "name": "MouseTweaks.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 135,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/MouseTweaks.cfg",
+            "MD5": "ff577ca09e989c07c056c7cdff465be3",
+            "path": "configureddefaults/config/MouseTweaks.cfg"
+          }
+        },
+        {
+          "id": "naturalwaters-client.toml",
+          "name": "naturalwaters-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 487,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/naturalwaters-client.toml",
+            "MD5": "c319915fc83ec7f6d9ca12f1c02a99f4",
+            "path": "configureddefaults/config/naturalwaters-client.toml"
+          }
+        },
+        {
+          "id": "neoforge-client.toml",
+          "name": "neoforge-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 578,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/neoforge-client.toml",
+            "MD5": "7f81c16ea3d467da83df18250f772149",
+            "path": "configureddefaults/config/neoforge-client.toml"
+          }
+        },
+        {
+          "id": "neoforge-common.toml",
+          "name": "neoforge-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 772,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/neoforge-common.toml",
+            "MD5": "914110a675baa858ef6725e3f56e513c",
+            "path": "configureddefaults/config/neoforge-common.toml"
+          }
+        },
+        {
+          "id": "neoforge-server.toml",
+          "name": "neoforge-server.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1177,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/neoforge-server.toml",
+            "MD5": "5fad417d8fbff12e98bf3bbaa3782864",
+            "path": "configureddefaults/config/neoforge-server.toml"
+          }
+        },
+        {
+          "id": "netmusic-common.toml",
+          "name": "netmusic-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1511,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/netmusic-common.toml",
+            "MD5": "7a9fe205828a2c0b1b6f2da02b40751a",
+            "path": "configureddefaults/config/netmusic-common.toml"
+          }
+        },
+        {
+          "id": "offroad-server.toml",
+          "name": "offroad-server.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1167,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/offroad-server.toml",
+            "MD5": "a42816040e98308db950decc0da8bf12",
+            "path": "configureddefaults/config/offroad-server.toml"
+          }
+        },
+        {
+          "id": "ore-creeper-common.json",
+          "name": "ore-creeper-common.json",
+          "type": "File",
+          "artifact": {
+            "size": 1003,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/ore-creeper-common.json",
+            "MD5": "413c101752cf930695ea7bcfac8c1364",
+            "path": "configureddefaults/config/ore-creeper-common.json"
+          }
+        },
+        {
+          "id": "pehkui-client.toml",
+          "name": "pehkui-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 169,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/pehkui-client.toml",
+            "MD5": "fc62a66dbc959dd53228e25c8f924101",
+            "path": "configureddefaults/config/pehkui-client.toml"
+          }
+        },
+        {
+          "id": "pehkui-common.toml",
+          "name": "pehkui-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 403,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/pehkui-common.toml",
+            "MD5": "e74e7f0c5d9feb4a85514150b46aae5b",
+            "path": "configureddefaults/config/pehkui-common.toml"
+          }
+        },
+        {
+          "id": "pehkui-server.toml",
+          "name": "pehkui-server.toml",
+          "type": "File",
+          "artifact": {
+            "size": 9400,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/pehkui-server.toml",
+            "MD5": "359d83d657933ae700254678750f6ca0",
+            "path": "configureddefaults/config/pehkui-server.toml"
+          }
+        },
+        {
+          "id": "de_de.json",
+          "name": "de_de.json",
+          "type": "File",
+          "artifact": {
+            "size": 8510,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/.crowdin/de_de.json",
+            "MD5": "cb8838ceada0cc1ac72d33c3359eb883",
+            "path": "configureddefaults/config/plasmovoice/.crowdin/de_de.json"
+          }
+        },
+        {
+          "id": "es_es.json",
+          "name": "es_es.json",
+          "type": "File",
+          "artifact": {
+            "size": 9115,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/.crowdin/es_es.json",
+            "MD5": "ebe33e9b2d8f8f2d4519edb2e4394e40",
+            "path": "configureddefaults/config/plasmovoice/.crowdin/es_es.json"
+          }
+        },
+        {
+          "id": "fr_fr.json",
+          "name": "fr_fr.json",
+          "type": "File",
+          "artifact": {
+            "size": 9154,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/.crowdin/fr_fr.json",
+            "MD5": "f3a517b45d6920f327020408fd9751fd",
+            "path": "configureddefaults/config/plasmovoice/.crowdin/fr_fr.json"
+          }
+        },
+        {
+          "id": "he_il.json",
+          "name": "he_il.json",
+          "type": "File",
+          "artifact": {
+            "size": 9290,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/.crowdin/he_il.json",
+            "MD5": "2f2e21189a6f11d39a33b7b66a111b5c",
+            "path": "configureddefaults/config/plasmovoice/.crowdin/he_il.json"
+          }
+        },
+        {
+          "id": "ja_jp.json",
+          "name": "ja_jp.json",
+          "type": "File",
+          "artifact": {
+            "size": 9467,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/.crowdin/ja_jp.json",
+            "MD5": "5ccf0895426e7fca281ca28d13dccc31",
+            "path": "configureddefaults/config/plasmovoice/.crowdin/ja_jp.json"
+          }
+        },
+        {
+          "id": "ko_kr.json",
+          "name": "ko_kr.json",
+          "type": "File",
+          "artifact": {
+            "size": 9208,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/.crowdin/ko_kr.json",
+            "MD5": "ab87eb710206cd3eef9e1ba03f88bd57",
+            "path": "configureddefaults/config/plasmovoice/.crowdin/ko_kr.json"
+          }
+        },
+        {
+          "id": "pl_pl.json",
+          "name": "pl_pl.json",
+          "type": "File",
+          "artifact": {
+            "size": 8890,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/.crowdin/pl_pl.json",
+            "MD5": "6a09569fa006d3f01bc00333838df100",
+            "path": "configureddefaults/config/plasmovoice/.crowdin/pl_pl.json"
+          }
+        },
+        {
+          "id": "pt_br.json",
+          "name": "pt_br.json",
+          "type": "File",
+          "artifact": {
+            "size": 9046,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/.crowdin/pt_br.json",
+            "MD5": "97bd0d3f6c281f960cf448c4346563fc",
+            "path": "configureddefaults/config/plasmovoice/.crowdin/pt_br.json"
+          }
+        },
+        {
+          "id": "ru_ru.json",
+          "name": "ru_ru.json",
+          "type": "File",
+          "artifact": {
+            "size": 11446,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/.crowdin/ru_ru.json",
+            "MD5": "9c3a8c7dc0eb3a6640847988b139fb00",
+            "path": "configureddefaults/config/plasmovoice/.crowdin/ru_ru.json"
+          }
+        },
+        {
+          "id": "timestamp",
+          "name": "timestamp",
+          "type": "File",
+          "artifact": {
+            "size": 13,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/.crowdin/timestamp",
+            "MD5": "41689de88ad44ab22de9d2b60fd5b395",
+            "path": "configureddefaults/config/plasmovoice/.crowdin/timestamp"
+          }
+        },
+        {
+          "id": "tr_tr.json",
+          "name": "tr_tr.json",
+          "type": "File",
+          "artifact": {
+            "size": 1545,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/.crowdin/tr_tr.json",
+            "MD5": "9eb2a3be47503ed7b7065e4c3f2413bc",
+            "path": "configureddefaults/config/plasmovoice/.crowdin/tr_tr.json"
+          }
+        },
+        {
+          "id": "tt_ru.json",
+          "name": "tt_ru.json",
+          "type": "File",
+          "artifact": {
+            "size": 11312,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/.crowdin/tt_ru.json",
+            "MD5": "6f8f48b6ce5ec3b6f8ea9cf34a3d5dc4",
+            "path": "configureddefaults/config/plasmovoice/.crowdin/tt_ru.json"
+          }
+        },
+        {
+          "id": "uk_ua.json",
+          "name": "uk_ua.json",
+          "type": "File",
+          "artifact": {
+            "size": 10828,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/.crowdin/uk_ua.json",
+            "MD5": "a68060377351fcfdbf5c0af87330e6c7",
+            "path": "configureddefaults/config/plasmovoice/.crowdin/uk_ua.json"
+          }
+        },
+        {
+          "id": "vi_vn.json",
+          "name": "vi_vn.json",
+          "type": "File",
+          "artifact": {
+            "size": 10102,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/.crowdin/vi_vn.json",
+            "MD5": "0458e0a83010b7648fec3488e7dd2341",
+            "path": "configureddefaults/config/plasmovoice/.crowdin/vi_vn.json"
+          }
+        },
+        {
+          "id": "zh_cn.json",
+          "name": "zh_cn.json",
+          "type": "File",
+          "artifact": {
+            "size": 8123,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/.crowdin/zh_cn.json",
+            "MD5": "6a385d12b888457adee2b62acc8e9aa6",
+            "path": "configureddefaults/config/plasmovoice/.crowdin/zh_cn.json"
+          }
+        },
+        {
+          "id": "zh_tw.json",
+          "name": "zh_tw.json",
+          "type": "File",
+          "artifact": {
+            "size": 8119,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/.crowdin/zh_tw.json",
+            "MD5": "5afb2f116f79813891221626cbdeb096",
+            "path": "configureddefaults/config/plasmovoice/.crowdin/zh_tw.json"
+          }
+        },
+        {
+          "id": "client.toml",
+          "name": "client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1319,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/client.toml",
+            "MD5": "4dc903c3aa925a3410a2adf3240af1c1",
+            "path": "configureddefaults/config/plasmovoice/client.toml"
+          }
+        },
+        {
+          "id": "meta_cache.json",
+          "name": "meta_cache.json",
+          "type": "File",
+          "artifact": {
+            "size": 655,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/meta_cache.json",
+            "MD5": "9d69657102c3f5d6980e649f12a70aa5",
+            "path": "configureddefaults/config/plasmovoice/meta_cache.json"
+          }
+        },
+        {
+          "id": "autosave.properties",
+          "name": "autosave.properties",
+          "type": "File",
+          "artifact": {
+            "size": 447,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/pv-voice-changer-presets/autosave.properties",
+            "MD5": "830d6329242ce73ca86b8d8e88cf3153",
+            "path": "configureddefaults/config/plasmovoice/pv-voice-changer-presets/autosave.properties"
+          }
+        },
+        {
+          "id": "config.toml",
+          "name": "config.toml",
+          "type": "File",
+          "artifact": {
+            "size": 3605,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/server/config.toml",
+            "MD5": "a6f29fb16c151b2dd21f9d7287190a99",
+            "path": "configureddefaults/config/plasmovoice/server/config.toml"
+          }
+        },
+        {
+          "id": "de_de.toml",
+          "name": "de_de.toml",
+          "type": "File",
+          "artifact": {
+            "size": 2187,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/server/languages/.crowdin/de_de.toml",
+            "MD5": "2089abe483e394b6bca56e9d5e678356",
+            "path": "configureddefaults/config/plasmovoice/server/languages/.crowdin/de_de.toml"
+          }
+        },
+        {
+          "id": "es_es.toml",
+          "name": "es_es.toml",
+          "type": "File",
+          "artifact": {
+            "size": 2123,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/server/languages/.crowdin/es_es.toml",
+            "MD5": "a460aa40e6caf8f608d5d9eef37a352d",
+            "path": "configureddefaults/config/plasmovoice/server/languages/.crowdin/es_es.toml"
+          }
+        },
+        {
+          "id": "fr_fr.toml",
+          "name": "fr_fr.toml",
+          "type": "File",
+          "artifact": {
+            "size": 2099,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/server/languages/.crowdin/fr_fr.toml",
+            "MD5": "740fdb640a023b211ed687635401a9d1",
+            "path": "configureddefaults/config/plasmovoice/server/languages/.crowdin/fr_fr.toml"
+          }
+        },
+        {
+          "id": "he_il.toml",
+          "name": "he_il.toml",
+          "type": "File",
+          "artifact": {
+            "size": 2228,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/server/languages/.crowdin/he_il.toml",
+            "MD5": "f9dea392bcf8b6e753a27df4f992423b",
+            "path": "configureddefaults/config/plasmovoice/server/languages/.crowdin/he_il.toml"
+          }
+        },
+        {
+          "id": "ja_jp.toml",
+          "name": "ja_jp.toml",
+          "type": "File",
+          "artifact": {
+            "size": 2508,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/server/languages/.crowdin/ja_jp.toml",
+            "MD5": "f0eee7a99ea6c2d643c8140c19454a8a",
+            "path": "configureddefaults/config/plasmovoice/server/languages/.crowdin/ja_jp.toml"
+          }
+        },
+        {
+          "id": "ko_kr.toml",
+          "name": "ko_kr.toml",
+          "type": "File",
+          "artifact": {
+            "size": 2356,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/server/languages/.crowdin/ko_kr.toml",
+            "MD5": "0ebaa356e476ef191aea62286e6f6201",
+            "path": "configureddefaults/config/plasmovoice/server/languages/.crowdin/ko_kr.toml"
+          }
+        },
+        {
+          "id": "pl_pl.toml",
+          "name": "pl_pl.toml",
+          "type": "File",
+          "artifact": {
+            "size": 2040,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/server/languages/.crowdin/pl_pl.toml",
+            "MD5": "878c8082d74bf35b7a90e09bdeb2e77c",
+            "path": "configureddefaults/config/plasmovoice/server/languages/.crowdin/pl_pl.toml"
+          }
+        },
+        {
+          "id": "pt_br.toml",
+          "name": "pt_br.toml",
+          "type": "File",
+          "artifact": {
+            "size": 2035,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/server/languages/.crowdin/pt_br.toml",
+            "MD5": "5bce271883e6122226e028673426ef48",
+            "path": "configureddefaults/config/plasmovoice/server/languages/.crowdin/pt_br.toml"
+          }
+        },
+        {
+          "id": "ru_ru.toml",
+          "name": "ru_ru.toml",
+          "type": "File",
+          "artifact": {
+            "size": 2531,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/server/languages/.crowdin/ru_ru.toml",
+            "MD5": "c7f9382eefb0b7eaa0019e53ca59a1d8",
+            "path": "configureddefaults/config/plasmovoice/server/languages/.crowdin/ru_ru.toml"
+          }
+        },
+        {
+          "id": "timestamp",
+          "name": "timestamp",
+          "type": "File",
+          "artifact": {
+            "size": 13,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/server/languages/.crowdin/timestamp",
+            "MD5": "ae9959ace9696cd3e7ff97105cd40d8b",
+            "path": "configureddefaults/config/plasmovoice/server/languages/.crowdin/timestamp"
+          }
+        },
+        {
+          "id": "tr_tr.toml",
+          "name": "tr_tr.toml",
+          "type": "File",
+          "artifact": {
+            "size": 2125,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/server/languages/.crowdin/tr_tr.toml",
+            "MD5": "16bda59435bd4feebc8d3a49468aa5cf",
+            "path": "configureddefaults/config/plasmovoice/server/languages/.crowdin/tr_tr.toml"
+          }
+        },
+        {
+          "id": "tt_ru.toml",
+          "name": "tt_ru.toml",
+          "type": "File",
+          "artifact": {
+            "size": 2913,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/server/languages/.crowdin/tt_ru.toml",
+            "MD5": "f5d14860658cf0751277709266047a8c",
+            "path": "configureddefaults/config/plasmovoice/server/languages/.crowdin/tt_ru.toml"
+          }
+        },
+        {
+          "id": "uk_ua.toml",
+          "name": "uk_ua.toml",
+          "type": "File",
+          "artifact": {
+            "size": 2730,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/server/languages/.crowdin/uk_ua.toml",
+            "MD5": "679c42fb12563dead83f7a0111ba6eb4",
+            "path": "configureddefaults/config/plasmovoice/server/languages/.crowdin/uk_ua.toml"
+          }
+        },
+        {
+          "id": "vi_vn.toml",
+          "name": "vi_vn.toml",
+          "type": "File",
+          "artifact": {
+            "size": 2258,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/server/languages/.crowdin/vi_vn.toml",
+            "MD5": "f660c598baaf3db5590a61f576bdc78c",
+            "path": "configureddefaults/config/plasmovoice/server/languages/.crowdin/vi_vn.toml"
+          }
+        },
+        {
+          "id": "zh_cn.toml",
+          "name": "zh_cn.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1882,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/server/languages/.crowdin/zh_cn.toml",
+            "MD5": "74b40c78208fe6f358a346dd2adb76e8",
+            "path": "configureddefaults/config/plasmovoice/server/languages/.crowdin/zh_cn.toml"
+          }
+        },
+        {
+          "id": "zh_tw.toml",
+          "name": "zh_tw.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1879,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/server/languages/.crowdin/zh_tw.toml",
+            "MD5": "6c4a2685db02eb56892a8440c075ce40",
+            "path": "configureddefaults/config/plasmovoice/server/languages/.crowdin/zh_tw.toml"
+          }
+        },
+        {
+          "id": "de_de.toml",
+          "name": "de_de.toml",
+          "type": "File",
+          "artifact": {
+            "size": 2175,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/server/languages/de_de.toml",
+            "MD5": "93a9d14a724a6502ac6e7fdca8d7b121",
+            "path": "configureddefaults/config/plasmovoice/server/languages/de_de.toml"
+          }
+        },
+        {
+          "id": "en_us.toml",
+          "name": "en_us.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1892,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/server/languages/en_us.toml",
+            "MD5": "49ebe9ff33a62a4f28ec5b8b965ba2c9",
+            "path": "configureddefaults/config/plasmovoice/server/languages/en_us.toml"
+          }
+        },
+        {
+          "id": "es_es.toml",
+          "name": "es_es.toml",
+          "type": "File",
+          "artifact": {
+            "size": 2111,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/server/languages/es_es.toml",
+            "MD5": "285832ac1b88e96ce360eddf2b5fe8b3",
+            "path": "configureddefaults/config/plasmovoice/server/languages/es_es.toml"
+          }
+        },
+        {
+          "id": "fr_fr.toml",
+          "name": "fr_fr.toml",
+          "type": "File",
+          "artifact": {
+            "size": 2087,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/server/languages/fr_fr.toml",
+            "MD5": "ac96d5a885a08166603b8c4a872b8cfa",
+            "path": "configureddefaults/config/plasmovoice/server/languages/fr_fr.toml"
+          }
+        },
+        {
+          "id": "he_il.toml",
+          "name": "he_il.toml",
+          "type": "File",
+          "artifact": {
+            "size": 2216,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/server/languages/he_il.toml",
+            "MD5": "e0dd440bbd2b90aa0218ce09316ba0fa",
+            "path": "configureddefaults/config/plasmovoice/server/languages/he_il.toml"
+          }
+        },
+        {
+          "id": "ja_jp.toml",
+          "name": "ja_jp.toml",
+          "type": "File",
+          "artifact": {
+            "size": 2496,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/server/languages/ja_jp.toml",
+            "MD5": "0501901e5fd117eb8720be4f385a66a0",
+            "path": "configureddefaults/config/plasmovoice/server/languages/ja_jp.toml"
+          }
+        },
+        {
+          "id": "ko_kr.toml",
+          "name": "ko_kr.toml",
+          "type": "File",
+          "artifact": {
+            "size": 2344,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/server/languages/ko_kr.toml",
+            "MD5": "22ca682e2bacbdd62a664d52977218e6",
+            "path": "configureddefaults/config/plasmovoice/server/languages/ko_kr.toml"
+          }
+        },
+        {
+          "id": "pl_pl.toml",
+          "name": "pl_pl.toml",
+          "type": "File",
+          "artifact": {
+            "size": 2028,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/server/languages/pl_pl.toml",
+            "MD5": "65591e68a7501980c5c4270c096203ea",
+            "path": "configureddefaults/config/plasmovoice/server/languages/pl_pl.toml"
+          }
+        },
+        {
+          "id": "pt_br.toml",
+          "name": "pt_br.toml",
+          "type": "File",
+          "artifact": {
+            "size": 2023,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/server/languages/pt_br.toml",
+            "MD5": "f0f8d12c31b72c36c2b806fd47786f80",
+            "path": "configureddefaults/config/plasmovoice/server/languages/pt_br.toml"
+          }
+        },
+        {
+          "id": "ru_ru.toml",
+          "name": "ru_ru.toml",
+          "type": "File",
+          "artifact": {
+            "size": 2519,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/server/languages/ru_ru.toml",
+            "MD5": "1b3d72cf2e187d8bcd62fb8d49bd03a7",
+            "path": "configureddefaults/config/plasmovoice/server/languages/ru_ru.toml"
+          }
+        },
+        {
+          "id": "tr_tr.toml",
+          "name": "tr_tr.toml",
+          "type": "File",
+          "artifact": {
+            "size": 2113,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/server/languages/tr_tr.toml",
+            "MD5": "6ceddbbea665b817e3a02d64f4de7260",
+            "path": "configureddefaults/config/plasmovoice/server/languages/tr_tr.toml"
+          }
+        },
+        {
+          "id": "tt_ru.toml",
+          "name": "tt_ru.toml",
+          "type": "File",
+          "artifact": {
+            "size": 2901,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/server/languages/tt_ru.toml",
+            "MD5": "0b9b86cc64bb0b57427f61dfe53d436f",
+            "path": "configureddefaults/config/plasmovoice/server/languages/tt_ru.toml"
+          }
+        },
+        {
+          "id": "uk_ua.toml",
+          "name": "uk_ua.toml",
+          "type": "File",
+          "artifact": {
+            "size": 2718,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/server/languages/uk_ua.toml",
+            "MD5": "3460a9c5c46205ee2892e18b2f62a2bd",
+            "path": "configureddefaults/config/plasmovoice/server/languages/uk_ua.toml"
+          }
+        },
+        {
+          "id": "vi_vn.toml",
+          "name": "vi_vn.toml",
+          "type": "File",
+          "artifact": {
+            "size": 2246,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/server/languages/vi_vn.toml",
+            "MD5": "03f4051b5d781b0b17757019365392a8",
+            "path": "configureddefaults/config/plasmovoice/server/languages/vi_vn.toml"
+          }
+        },
+        {
+          "id": "zh_cn.toml",
+          "name": "zh_cn.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1870,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/server/languages/zh_cn.toml",
+            "MD5": "3fdc475103740fa0974b9c006a78bd5d",
+            "path": "configureddefaults/config/plasmovoice/server/languages/zh_cn.toml"
+          }
+        },
+        {
+          "id": "zh_tw.toml",
+          "name": "zh_tw.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1867,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/server/languages/zh_tw.toml",
+            "MD5": "d5f312dfe6d8ef936b807e736807d2f4",
+            "path": "configureddefaults/config/plasmovoice/server/languages/zh_tw.toml"
+          }
+        },
+        {
+          "id": "voice_mutes.json",
+          "name": "voice_mutes.json",
+          "type": "File",
+          "artifact": {
+            "size": 2,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/server/voice_mutes.json",
+            "MD5": "99914b932bd37a50b983c5e7c90ae93b",
+            "path": "configureddefaults/config/plasmovoice/server/voice_mutes.json"
+          }
+        },
+        {
+          "id": "ponder-client.toml",
+          "name": "ponder-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 635,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/ponder-client.toml",
+            "MD5": "a71defd616367abffa6e71a2d3b64b48",
+            "path": "configureddefaults/config/ponder-client.toml"
+          }
+        },
+        {
+          "id": "primity.json5",
+          "name": "primity.json5",
+          "type": "File",
+          "artifact": {
+            "size": 78,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/primity.json5",
+            "MD5": "81d7cbf52d6d50728287e58208620f99",
+            "path": "configureddefaults/config/primity.json5"
+          }
+        },
+        {
+          "id": "resourcepackoverrides.json",
+          "name": "resourcepackoverrides.json",
+          "type": "File",
+          "artifact": {
+            "size": 27,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/resourcepackoverrides.json",
+            "MD5": "7e6d76a8e555e1529d8213aed129b704",
+            "path": "configureddefaults/config/resourcepackoverrides.json"
+          }
+        },
+        {
+          "id": "ribbits-neoforge-1_21_1.toml",
+          "name": "ribbits-neoforge-1_21_1.toml",
+          "type": "File",
+          "artifact": {
+            "size": 403,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/ribbits-neoforge-1_21_1.toml",
+            "MD5": "b6f68c56b0eb9bafc0fdd4a1a07c927b",
+            "path": "configureddefaults/config/ribbits-neoforge-1_21_1.toml"
+          }
+        },
+        {
+          "id": "ribbits-options.json",
+          "name": "ribbits-options.json",
+          "type": "File",
+          "artifact": {
+            "size": 33,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/ribbits-options.json",
+            "MD5": "ae7a8e3293c7c466d1210c5de3459a52",
+            "path": "configureddefaults/config/ribbits-options.json"
+          }
+        },
+        {
+          "id": "sable-client-1.toml.bak",
+          "name": "sable-client-1.toml.bak",
+          "type": "File",
+          "artifact": {
+            "size": 924,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/sable-client-1.toml.bak",
+            "MD5": "814b8251d524b7a57bfc61d5c22f129d",
+            "path": "configureddefaults/config/sable-client-1.toml.bak"
+          }
+        },
+        {
+          "id": "sable-client-2.toml.bak",
+          "name": "sable-client-2.toml.bak",
+          "type": "File",
+          "artifact": {
+            "size": 946,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/sable-client-2.toml.bak",
+            "MD5": "bfaf1ec6904eb1d1f9f22ff4b64b54ed",
+            "path": "configureddefaults/config/sable-client-2.toml.bak"
+          }
+        },
+        {
+          "id": "sable-client.toml",
+          "name": "sable-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 946,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/sable-client.toml",
+            "MD5": "bfaf1ec6904eb1d1f9f22ff4b64b54ed",
+            "path": "configureddefaults/config/sable-client.toml"
+          }
+        },
+        {
+          "id": "sable-common.toml",
+          "name": "sable-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 2243,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/sable-common.toml",
+            "MD5": "108d0268231d332546f8585c2001f2e1",
+            "path": "configureddefaults/config/sable-common.toml"
+          }
+        },
+        {
+          "id": "scout.css",
+          "name": "scout.css",
+          "type": "File",
+          "artifact": {
+            "size": 238,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/scout.css",
+            "MD5": "3bddf1e28bd08555237ece4d388b4486",
+            "path": "configureddefaults/config/scout.css"
+          }
+        },
+        {
+          "id": "sharedatlasjm-client.properties",
+          "name": "sharedatlasjm-client.properties",
+          "type": "File",
+          "artifact": {
+            "size": 110,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/sharedatlasjm-client.properties",
+            "MD5": "70cfa0c63ea04cb8bced31b9fc48bac4",
+            "path": "configureddefaults/config/sharedatlasjm-client.properties"
+          }
+        },
+        {
+          "id": "shulkerboxtooltip.json5",
+          "name": "shulkerboxtooltip.json5",
+          "type": "File",
+          "artifact": {
+            "size": 5724,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/shulkerboxtooltip.json5",
+            "MD5": "c6bced4e92a5128165dd4f1095809812",
+            "path": "configureddefaults/config/shulkerboxtooltip.json5"
+          }
+        },
+        {
+          "id": "simplyspeakers-common.toml",
+          "name": "simplyspeakers-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 341,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/simplyspeakers-common.toml",
+            "MD5": "bb25f031c56d0df2b27aa520e6ad21c3",
+            "path": "configureddefaults/config/simplyspeakers-common.toml"
+          }
+        },
+        {
+          "id": "simulated-client.toml",
+          "name": "simulated-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1045,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/simulated-client.toml",
+            "MD5": "cfe997c64fb8c8f3e61606d64c31d518",
+            "path": "configureddefaults/config/simulated-client.toml"
+          }
+        },
+        {
+          "id": "simulated-server.toml",
+          "name": "simulated-server.toml",
+          "type": "File",
+          "artifact": {
+            "size": 7249,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/simulated-server.toml",
+            "MD5": "605aa9d58f972a760955593b51216e57",
+            "path": "configureddefaults/config/simulated-server.toml"
+          }
+        },
+        {
+          "id": "sit-server.toml",
+          "name": "sit-server.toml",
+          "type": "File",
+          "artifact": {
+            "size": 349,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/sit-server.toml",
+            "MD5": "2178f84592c874b71f801ce66bc2832d",
+            "path": "configureddefaults/config/sit-server.toml"
+          }
+        },
+        {
+          "id": "sliceanddice-client.toml",
+          "name": "sliceanddice-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 29,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/sliceanddice-client.toml",
+            "MD5": "89264f9c6a9189473431c373d03d3997",
+            "path": "configureddefaults/config/sliceanddice-client.toml"
+          }
+        },
+        {
+          "id": "sliceanddice-common.toml",
+          "name": "sliceanddice-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 475,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/sliceanddice-common.toml",
+            "MD5": "854ada69e94ba41354dea8bd3b7f3bd9",
+            "path": "configureddefaults/config/sliceanddice-common.toml"
+          }
+        },
+        {
+          "id": "sodium-extra-options.json",
+          "name": "sodium-extra-options.json",
+          "type": "File",
+          "artifact": {
+            "size": 4766,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/sodium-extra-options.json",
+            "MD5": "4ceb88a4eb8cc2b3880ac75b86d0004f",
+            "path": "configureddefaults/config/sodium-extra-options.json"
+          }
+        },
+        {
+          "id": "sodium-extra.properties",
+          "name": "sodium-extra.properties",
+          "type": "File",
+          "artifact": {
+            "size": 360,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/sodium-extra.properties",
+            "MD5": "72b9d6dd6ada7b00ef334ee176054dbf",
+            "path": "configureddefaults/config/sodium-extra.properties"
+          }
+        },
+        {
+          "id": "sodium-fingerprint.json",
+          "name": "sodium-fingerprint.json",
+          "type": "File",
+          "artifact": {
+            "size": 427,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/sodium-fingerprint.json",
+            "MD5": "bcba9c43e433cc3c708b76d6e40415a0",
+            "path": "configureddefaults/config/sodium-fingerprint.json"
+          }
+        },
+        {
+          "id": "sodium-mixins.properties",
+          "name": "sodium-mixins.properties",
+          "type": "File",
+          "artifact": {
+            "size": 265,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/sodium-mixins.properties",
+            "MD5": "456d99888369486f42d6ea7f70294170",
+            "path": "configureddefaults/config/sodium-mixins.properties"
+          }
+        },
+        {
+          "id": "sodium-options.json",
+          "name": "sodium-options.json",
+          "type": "File",
+          "artifact": {
+            "size": 756,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/sodium-options.json",
+            "MD5": "92800b81162bfb9b2f9187ba4287896d",
+            "path": "configureddefaults/config/sodium-options.json"
+          }
+        },
+        {
+          "id": "sodiumdynamiclights-client.toml",
+          "name": "sodiumdynamiclights-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 655,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/sodiumdynamiclights-client.toml",
+            "MD5": "1aa7ab78fb5b1f74d98a096821d7ac08",
+            "path": "configureddefaults/config/sodiumdynamiclights-client.toml"
+          }
+        },
+        {
+          "id": "spears-common.toml",
+          "name": "spears-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 580,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/spears-common.toml",
+            "MD5": "aaf964e1dc31c66ef2373c1230cc1e12",
+            "path": "configureddefaults/config/spears-common.toml"
+          }
+        },
+        {
+          "id": "supplementaries-client.toml",
+          "name": "supplementaries-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 9308,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/supplementaries-client.toml",
+            "MD5": "640ca94d82445af93d821ac196bca2c9",
+            "path": "configureddefaults/config/supplementaries-client.toml"
+          }
+        },
+        {
+          "id": "supplementaries-common.toml",
+          "name": "supplementaries-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 30308,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/supplementaries-common.toml",
+            "MD5": "40cb43cfb4b21fe3bf3d54f23abc2321",
+            "path": "configureddefaults/config/supplementaries-common.toml"
+          }
+        },
+        {
+          "id": "suppsquared-common.toml",
+          "name": "suppsquared-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 84,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/suppsquared-common.toml",
+            "MD5": "7d88a4d5ddb5c2f0fc6bd2cce48bbe89",
+            "path": "configureddefaults/config/suppsquared-common.toml"
+          }
+        },
+        {
+          "id": "toms_storage-common.toml",
+          "name": "toms_storage-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 844,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/toms_storage-common.toml",
+            "MD5": "19013efccdae27331b02b284dbbaedfd",
+            "path": "configureddefaults/config/toms_storage-common.toml"
+          }
+        },
+        {
+          "id": "toms_storage-server.toml",
+          "name": "toms_storage-server.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1933,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/toms_storage-server.toml",
+            "MD5": "719b13a16362b42d895c3eb45227f221",
+            "path": "configureddefaults/config/toms_storage-server.toml"
+          }
+        },
+        {
+          "id": "trade_cycling-client.toml",
+          "name": "trade_cycling-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 129,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/trade_cycling-client.toml",
+            "MD5": "591b3cb908b60ceb551b82a318a555fa",
+            "path": "configureddefaults/config/trade_cycling-client.toml"
+          }
+        },
+        {
+          "id": "transition.json",
+          "name": "transition.json",
+          "type": "File",
+          "artifact": {
+            "size": 97,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/transition.json",
+            "MD5": "31ba5caa4bcc56c2527e5d001e4f0f07",
+            "path": "configureddefaults/config/transition.json"
+          }
+        },
+        {
+          "id": "treechop-client.toml",
+          "name": "treechop-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1399,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/treechop-client.toml",
+            "MD5": "663675fe1a31c5f371b3003fdf0931f6",
+            "path": "configureddefaults/config/treechop-client.toml"
+          }
+        },
+        {
+          "id": "treechop-common.toml",
+          "name": "treechop-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 9496,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/treechop-common.toml",
+            "MD5": "57994685cadc52c32a179d6a264801fc",
+            "path": "configureddefaults/config/treechop-common.toml"
+          }
+        },
+        {
+          "id": "trender.json",
+          "name": "trender.json",
+          "type": "File",
+          "artifact": {
+            "size": 47,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/trender.json",
+            "MD5": "c449ad0a8d190858ec253ed1bc75e05d",
+            "path": "configureddefaults/config/trender.json"
+          }
+        },
+        {
+          "id": "vanillabackport-client.toml",
+          "name": "vanillabackport-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 344,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/vanillabackport-client.toml",
+            "MD5": "793d795cc0a19404bb019d32d6fab266",
+            "path": "configureddefaults/config/vanillabackport-client.toml"
+          }
+        },
+        {
+          "id": "vanillabackport-common.toml",
+          "name": "vanillabackport-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 3260,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/vanillabackport-common.toml",
+            "MD5": "5ba7f2cb24d78a4f87320d316a5082f1",
+            "path": "configureddefaults/config/vanillabackport-common.toml"
+          }
+        },
+        {
+          "id": "wanderer_ribbit-common.toml",
+          "name": "wanderer_ribbit-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 358,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/wanderer_ribbit-common.toml",
+            "MD5": "32107b760ff4999dc5e1baddf497aeb8",
+            "path": "configureddefaults/config/wanderer_ribbit-common.toml"
+          }
+        },
+        {
+          "id": "wandering-ribbit-spawn-config.toml",
+          "name": "wandering-ribbit-spawn-config.toml",
+          "type": "File",
+          "artifact": {
+            "size": 358,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/wandering-ribbit-spawn-config.toml",
+            "MD5": "32107b760ff4999dc5e1baddf497aeb8",
+            "path": "configureddefaults/config/wandering-ribbit-spawn-config.toml"
+          }
+        },
+        {
+          "id": "watut-client.toml",
+          "name": "watut-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 3444,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/watut-client.toml",
+            "MD5": "e6a73d35914167498f8c997ab9b7fd21",
+            "path": "configureddefaults/config/watut-client.toml"
+          }
+        },
+        {
+          "id": "watut-common.toml",
+          "name": "watut-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 169,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/watut-common.toml",
+            "MD5": "e1ad6e33dc749f2f9be5c16174ee1c0d",
+            "path": "configureddefaults/config/watut-common.toml"
+          }
+        },
+        {
+          "id": "watut-item-arm-adjustments.json",
+          "name": "watut-item-arm-adjustments.json",
+          "type": "File",
+          "artifact": {
+            "size": 3367,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/watut-item-arm-adjustments.json",
+            "MD5": "25925ecf5d13afcb55b2d4fcff81361c",
+            "path": "configureddefaults/config/watut-item-arm-adjustments.json"
+          }
+        },
+        {
+          "id": "watut-server.toml",
+          "name": "watut-server.toml",
+          "type": "File",
+          "artifact": {
+            "size": 2945,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/watut-server.toml",
+            "MD5": "22c0bedd7b79ffa96d6f60650c1c3115",
+            "path": "configureddefaults/config/watut-server.toml"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 8876,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/options.txt",
+            "MD5": "8fa35d0a4b5a38df353fb70e88c1573d",
+            "path": "configureddefaults/options.txt"
+          }
+        },
+        {
+          "id": "README.md",
+          "name": "README.md",
+          "type": "File",
+          "artifact": {
+            "size": 957,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/README.md",
+            "MD5": "be406d0b9cbb88c791dd01a527349cc5",
+            "path": "configureddefaults/README.md"
+          }
+        },
+        {
+          "id": "Immersive.zip",
+          "name": "Immersive.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1235182,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/resourcepacks/Immersive.zip",
+            "MD5": "ed9900e843dbc8aa4d63cfa6a95c8b23",
+            "path": "resourcepacks/Immersive.zip"
+          }
+        }
+      ]
     }
   ]
 }

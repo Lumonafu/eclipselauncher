@@ -1,0 +1,11 @@
+{
+  "schema_version": "2",
+  "packs": {
+    "Immersive": {
+      "required": true,
+      "locked": true,
+      "hidden": true,
+      "position": "top"
+    }
+  }
+}

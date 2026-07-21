@@ -1,0 +1,35 @@
+{
+  "allowMovement": {
+    "net.createmod.ponder.foundation.ui.PonderUI": true,
+    "mezz.jei.gui.recipes.RecipesGui": true,
+    "com.simibubi.create.content.equipment.zapper.terrainzapper.WorldshaperScreen": true,
+    "endy.literallyjustbackpacks.net.client.gui.BackpackGUIScreen": true,
+    "net.conczin.immersive_paintings.client.gui.ImmersivePaintingScreen": true,
+    "net.mehvahdjukaar.supplementaries.client.screens.CannonScreen": true,
+    "top.theillusivec4.curios.client.gui.CuriosScreen": true,
+    "io.wispforest.accessories.client.gui.AccessoriesScreen": true,
+    "net.mcreator.wandererribbit.client.gui.TradeScreen": true,
+    "com.razz.decocraft.client.screens.DecoStorageScreen": true,
+    "io.github.kosmx.emotes.arch.screen.ingame.FastMenuScreen": true,
+    "io.github.kosmx.emotes.arch.screen.ingame.FullMenuScreen": true,
+    "journeymap.client.ui.fullscreen.Fullscreen": true,
+    "journeymap.client.ui.component.screens.ScrollPaneScreen": true,
+    "com.github.tartaricacid.netmusic.client.gui.BigMegaphoneScreen": true,
+    "com.nstut.simplyspeakers.client.screens.SpeakerScreen": true,
+    "com.nstut.simplyspeakers.client.screens.ProxySpeakerScreen": true
+  },
+  "hideBackground": {
+    "mezz.jei.gui.recipes.RecipesGui": true,
+    "com.simibubi.create.content.equipment.zapper.terrainzapper.WorldshaperScreen": true,
+    "endy.literallyjustbackpacks.net.client.gui.BackpackGUIScreen": true,
+    "net.conczin.immersive_paintings.client.gui.ImmersivePaintingScreen": true,
+    "net.mehvahdjukaar.supplementaries.client.screens.CannonScreen": true,
+    "top.theillusivec4.curios.client.gui.CuriosScreen": true,
+    "io.wispforest.accessories.client.gui.AccessoriesScreen": true,
+    "net.mcreator.wandererribbit.client.gui.TradeScreen": true,
+    "com.razz.decocraft.client.screens.DecoStorageScreen": true,
+    "io.github.kosmx.emotes.arch.screen.ingame.FastMenuScreen": true,
+    "io.github.kosmx.emotes.arch.screen.ingame.FullMenuScreen": true,
+    "com.github.tartaricacid.netmusic.client.gui.BigMegaphoneScreen": true
+  }
+}
