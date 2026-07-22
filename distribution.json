@@ -2892,6 +2892,19 @@
           }
         },
         {
+          "id": "generated.forgemod:sodium:0.8.12+mc1.21.1@jar",
+          "name": "Sodium",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1291418,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/optionalon/sodium-neoforge-0.8.12+mc1.21.1.jar",
+            "MD5": "c0d728fccffb8365ba45e6ae4b15e5cc"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "generated.forgemod:spears:1.8.0@jar",
           "name": "Backported Spears",
           "type": "ForgeMod",
@@ -3187,6 +3200,17 @@
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/CoroUtil/General.toml",
             "MD5": "e89054829f589efab442167898ecfd29",
             "path": "configureddefaults/config/CoroUtil/General.toml"
+          }
+        },
+        {
+          "id": "cpm.json",
+          "name": "cpm.json",
+          "type": "File",
+          "artifact": {
+            "size": 389,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/cpm.json",
+            "MD5": "95fb3a5e33725a80c7af0869d1fc9198",
+            "path": "configureddefaults/config/cpm.json"
           }
         },
         {
