@@ -2802,16 +2802,6 @@
           }
         },
         {
-          "id": "generated.forgemod:reeses_sodium_options:2.2.3+mc1.21.1@jar",
-          "name": "Reese's Sodium Options",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 260876,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/reeses-sodium-options-neoforge-2.2.3+mc1.21.1.jar",
-            "MD5": "ffd2290753f3e5e494d04daca1b4eb13"
-          }
-        },
-        {
           "id": "generated.forgemod:resourcefullib:3.0.12@jar",
           "name": "Resourceful Lib",
           "type": "ForgeMod",
@@ -2889,16 +2879,6 @@
             "size": 1353585,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/sliceanddice-neoforge-4.3.2.jar",
             "MD5": "394aa452ac6dea1a264192d59c340185"
-          }
-        },
-        {
-          "id": "generated.forgemod:sodium_extra:0.9.3+mc1.21.1@jar",
-          "name": "Sodium Extra",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 465013,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/sodium-extra-neoforge-0.9.3+mc1.21.1.jar",
-            "MD5": "48540138881ebc454ef3a07c1bd4c250"
           }
         },
         {
