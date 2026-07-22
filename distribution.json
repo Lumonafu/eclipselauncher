@@ -2882,16 +2882,6 @@
           }
         },
         {
-          "id": "generated.forgemod:sodium:0.8.12+mc1.21.1@jar",
-          "name": "Sodium",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1291418,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/sodium-neoforge-0.8.12+mc1.21.1.jar",
-            "MD5": "c0d728fccffb8365ba45e6ae4b15e5cc"
-          }
-        },
-        {
           "id": "generated.forgemod:spears:1.8.0@jar",
           "name": "Backported Spears",
           "type": "ForgeMod",
