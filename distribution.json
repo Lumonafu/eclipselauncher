@@ -2177,8 +2177,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3656592,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/c2me-neoforge-mc1.21.1-0.4.0-alpha.0.114.jar",
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/optionaloff/c2me-neoforge-mc1.21.1-0.4.0-alpha.0.114.jar",
             "MD5": "f6fe7719409ffe7ff6e783b6623dfff9"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -2337,8 +2341,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 11842679,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/DungeonsArise-1.21.1-2.1.68-release.jar",
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/optionaloff/DungeonsArise-1.21.1-2.1.68-release.jar",
             "MD5": "8c803078cb52411a40201d6e69a23529"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -2357,8 +2365,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 567827,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/entity_model_features-3.2.4-1.21-neoforge.jar",
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/optionalon/entity_model_features-3.2.4-1.21-neoforge.jar",
             "MD5": "b7f1c8a4f16281fa69b9e09e8154544b"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -2367,8 +2378,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 752334,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/entity_texture_features_1.21-neoforge-7.1.jar",
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/optionalon/entity_texture_features_1.21-neoforge-7.1.jar",
             "MD5": "07c98cc3e76f514eee3adee43d05dae9"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -2387,8 +2401,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 59323,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/extra_dungeons-1.0.7-neoforge-1.21.1.jar",
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/optionaloff/extra_dungeons-1.0.7-neoforge-1.21.1.jar",
             "MD5": "b7fb573dadf1dbc65e76177c84b22e21"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -2487,8 +2505,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 361795,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/ImmediatelyFast-NeoForge-1.6.11+1.21.1.jar",
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/optionaloff/ImmediatelyFast-NeoForge-1.6.11+1.21.1.jar",
             "MD5": "f432a12463accb05290ea7de52fccc43"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -2977,8 +2999,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 388678,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/YungsApi-1.21.1-NeoForge-5.1.6.jar",
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/optionaloff/YungsApi-1.21.1-NeoForge-5.1.6.jar",
             "MD5": "4a27558e0a2fd72512b051525c9abeaf"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
