@@ -2172,16 +2172,6 @@
           }
         },
         {
-          "id": "generated.forgemod:enhancedblockentities:0.1.1+1.21.1@jar",
-          "name": "Enhanced Block Entities NEOFORGE [Unofficial]",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 193539,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/blockentities-[NEOFORGED]-1.21.1+1.1.0.jar",
-            "MD5": "df56b3963fd962cc3d9113167efe581a"
-          }
-        },
-        {
           "id": "generated.forgemod:c2me:0.4.0-alpha.0.114+1.21.1@jar",
           "name": "Concurrent Chunk Management Engine",
           "type": "ForgeMod",
@@ -2782,16 +2772,6 @@
           }
         },
         {
-          "id": "generated.forgemod:pv_voice_changer:1.5@jar",
-          "name": "Plasmo Voice Changer",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 107287,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/pv-voice-changer-neoforge-1.5-neoforge-1.21.jar",
-            "MD5": "b32a89c26b48daa4b955920363fee911"
-          }
-        },
-        {
           "id": "generated.forgemod:rebind_narrator:2025.12.23@jar",
           "name": "Rebind Narrator",
           "type": "ForgeMod",
@@ -2799,6 +2779,16 @@
             "size": 213661,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/rebind_narrator-1.21.1-neoforge-2025.12.23.jar",
             "MD5": "295f75c630abc3b7c1fccd3405c88424"
+          }
+        },
+        {
+          "id": "generated.forgemod:reeses_sodium_options:2.2.3+mc1.21.1@jar",
+          "name": "Reese's Sodium Options",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 260876,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/reeses-sodium-options-neoforge-2.2.3+mc1.21.1.jar",
+            "MD5": "ffd2290753f3e5e494d04daca1b4eb13"
           }
         },
         {
@@ -2879,6 +2869,26 @@
             "size": 1353585,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/sliceanddice-neoforge-4.3.2.jar",
             "MD5": "394aa452ac6dea1a264192d59c340185"
+          }
+        },
+        {
+          "id": "generated.forgemod:sodium_extra:0.9.3+mc1.21.1@jar",
+          "name": "Sodium Extra",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 465013,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/sodium-extra-neoforge-0.9.3+mc1.21.1.jar",
+            "MD5": "48540138881ebc454ef3a07c1bd4c250"
+          }
+        },
+        {
+          "id": "generated.forgemod:sodium:0.8.12+mc1.21.1@jar",
+          "name": "Sodium",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1291418,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/sodium-neoforge-0.8.12+mc1.21.1.jar",
+            "MD5": "c0d728fccffb8365ba45e6ae4b15e5cc"
           }
         },
         {
