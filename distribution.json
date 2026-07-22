@@ -2167,8 +2167,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 932199,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/beautify-neoforge-1.21.1-2.0.2.jar",
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/optionaloff/beautify-neoforge-1.21.1-2.0.2.jar",
             "MD5": "e18f49c2d8723f77da79f73ec83a316f"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -2291,8 +2295,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 94735,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/cullleaves-neoforge-4.1.1+1.21.1.jar",
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/optionaloff/cullleaves-neoforge-4.1.1+1.21.1.jar",
             "MD5": "2b0b25cd86a1bb1179862aa4088677aa"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -2321,8 +2329,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 93170262,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/decocraft-3.0.11-1.21.1-neoforge.jar",
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/optionaloff/decocraft-3.0.11-1.21.1-neoforge.jar",
             "MD5": "dd7e3bb25bfa6d7863244db2f2a8fe9f"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -3013,8 +3025,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 28197448,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/yuushya-1.21.0-neoforge-2.3.0.jar",
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/optionaloff/yuushya-1.21.0-neoforge-2.3.0.jar",
             "MD5": "e9a8e2005bb8556b9b1dfb45d5f930ed"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
