@@ -1562,7 +1562,7 @@
           },
           "subModules": [
             {
-              "id": "neoforge-21.1.235",
+              "id": "21.1.235",
               "name": "Minecraft NeoForge (version.json)",
               "type": "VersionManifest",
               "artifact": {
