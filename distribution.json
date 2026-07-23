@@ -2167,12 +2167,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 932199,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/optionaloff/beautify-neoforge-1.21.1-2.0.2.jar",
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/beautify-neoforge-1.21.1-2.0.2.jar",
             "MD5": "e18f49c2d8723f77da79f73ec83a316f"
-          },
-          "required": {
-            "value": false,
-            "def": false
           }
         },
         {
@@ -2324,20 +2320,6 @@
           }
         },
         {
-          "id": "generated.forgemod:decocraft:3.0.11@jar",
-          "name": "Decocraft",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 93170262,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/optionaloff/decocraft-3.0.11-1.21.1-neoforge.jar",
-            "MD5": "dd7e3bb25bfa6d7863244db2f2a8fe9f"
-          },
-          "required": {
-            "value": false,
-            "def": false
-          }
-        },
-        {
           "id": "generated.forgemod:diamondvalue:1.0.0@jar",
           "name": "Diamond Value",
           "type": "ForgeMod",
@@ -2345,20 +2327,6 @@
             "size": 29167,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/diamondvalue-1.0.0-neoforge-1.21.1.jar",
             "MD5": "3e29781e0af4d92098b5a8f85ebab374"
-          }
-        },
-        {
-          "id": "generated.forgemod:dungeons_arise:2.1.68@jar",
-          "name": "When Dungeons Arise",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 11842679,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/optionaloff/DungeonsArise-1.21.1-2.1.68-release.jar",
-            "MD5": "8c803078cb52411a40201d6e69a23529"
-          },
-          "required": {
-            "value": false,
-            "def": false
           }
         },
         {
@@ -2377,11 +2345,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 567827,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/optionalon/entity_model_features-3.2.4-1.21-neoforge.jar",
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/entity_model_features-3.2.4-1.21-neoforge.jar",
             "MD5": "b7f1c8a4f16281fa69b9e09e8154544b"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -2390,11 +2355,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 752334,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/optionalon/entity_texture_features_1.21-neoforge-7.1.jar",
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/entity_texture_features_1.21-neoforge-7.1.jar",
             "MD5": "07c98cc3e76f514eee3adee43d05dae9"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -2405,20 +2367,6 @@
             "size": 1585287,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/entityculling-neoforge-1.10.5-mc1.21.1.jar",
             "MD5": "efb6e5638cd09578c0aaaa396c9bfa84"
-          }
-        },
-        {
-          "id": "generated.forgemod:extra_dungeons:1.0.7@jar",
-          "name": "Extra dungeons",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 59323,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/optionaloff/extra_dungeons-1.0.7-neoforge-1.21.1.jar",
-            "MD5": "b7fb573dadf1dbc65e76177c84b22e21"
-          },
-          "required": {
-            "value": false,
-            "def": false
           }
         },
         {
@@ -2721,8 +2669,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 76657,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/NaturalWaters-v21.1.0-mc1.21.1-NeoForge.jar",
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/optionaloff/NaturalWaters-v21.1.0-mc1.21.1-NeoForge.jar",
             "MD5": "4c6837638e49e188f0d15b8bc9ad7f56"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -3011,26 +2963,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 388678,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/optionaloff/YungsApi-1.21.1-NeoForge-5.1.6.jar",
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/YungsApi-1.21.1-NeoForge-5.1.6.jar",
             "MD5": "4a27558e0a2fd72512b051525c9abeaf"
-          },
-          "required": {
-            "value": false,
-            "def": false
-          }
-        },
-        {
-          "id": "generated.forgemod:yuushya:2.3.0@jar",
-          "name": "Yuushya",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 28197448,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/optionaloff/yuushya-1.21.0-neoforge-2.3.0.jar",
-            "MD5": "e9a8e2005bb8556b9b1dfb45d5f930ed"
-          },
-          "required": {
-            "value": false,
-            "def": false
           }
         },
         {
