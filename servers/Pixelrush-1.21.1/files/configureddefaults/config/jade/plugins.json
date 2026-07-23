@@ -82,5 +82,12 @@
     "registry_name": "OFF",
     "block_properties": false,
     "mod_name": true
+  },
+  "securitycraft": {
+    "showowner": true,
+    "showmodules": true,
+    "entity_info": true,
+    "block_info": true,
+    "showcustomname": true
   }
 }

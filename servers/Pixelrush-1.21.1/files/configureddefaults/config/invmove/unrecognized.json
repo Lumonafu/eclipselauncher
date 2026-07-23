@@ -16,7 +16,21 @@
     "journeymap.client.ui.component.screens.ScrollPaneScreen": true,
     "com.github.tartaricacid.netmusic.client.gui.BigMegaphoneScreen": true,
     "com.nstut.simplyspeakers.client.screens.SpeakerScreen": true,
-    "com.nstut.simplyspeakers.client.screens.ProxySpeakerScreen": true
+    "com.nstut.simplyspeakers.client.screens.ProxySpeakerScreen": true,
+    "net.minecraft.client.gui.screens.PauseScreen": true,
+    "com.terraformersmc.mod_menu.gui.ModsScreen": true,
+    "me.flashyreese.mods.reeses_sodium_options.client.gui.SodiumVideoOptionsScreen": true,
+    "net.minecraft.client.gui.screens.options.OptionsScreen": true,
+    "net.minecraft.client.gui.screens.packs.PackSelectionScreen": true,
+    "journeymap.client.ui.dialog.AutoMapPopup": true,
+    "journeymap.client.ui.option.ClientOptionsManager": true,
+    "journeymap.client.ui.waypointmanager.WaypointManager": true,
+    "journeymap.client.ui.dialog.GridEditorPopup": true,
+    "journeymap.client.ui.option.ServerOptionsManager": true,
+    "journeymap.client.ui.option.MultiplayerOptionsManager": true,
+    "net.geforcemods.securitycraft.screen.ProjectorScreen": true,
+    "com.progwml6.ironchest.client.screen.IronChestScreen": true,
+    "com.tom.cpm.client.GuiImpl": true
   },
   "hideBackground": {
     "mezz.jei.gui.recipes.RecipesGui": true,
@@ -30,6 +44,11 @@
     "com.razz.decocraft.client.screens.DecoStorageScreen": true,
     "io.github.kosmx.emotes.arch.screen.ingame.FastMenuScreen": true,
     "io.github.kosmx.emotes.arch.screen.ingame.FullMenuScreen": true,
-    "com.github.tartaricacid.netmusic.client.gui.BigMegaphoneScreen": true
+    "com.github.tartaricacid.netmusic.client.gui.BigMegaphoneScreen": true,
+    "net.geforcemods.securitycraft.screen.ProjectorScreen": true,
+    "net.geforcemods.securitycraft.screen.SetPasscodeScreen": true,
+    "net.geforcemods.securitycraft.screen.CheckPasscodeScreen": true,
+    "com.progwml6.ironchest.client.screen.IronChestScreen": true,
+    "com.tom.cpm.client.GuiImpl": true
   }
 }
