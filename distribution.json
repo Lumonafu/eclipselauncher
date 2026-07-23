@@ -2791,16 +2791,6 @@
           }
         },
         {
-          "id": "generated.forgemod:pixelrush:1.0.0@jar",
-          "name": "PixelRush",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2606766,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/pixelrush-1.0.0.jar",
-            "MD5": "d68d669fab3dcd2b50592f4dea4e7db3"
-          }
-        },
-        {
           "id": "generated.forgemod:plasmovoice:2.1.13@jar",
           "name": "Plasmo Voice",
           "type": "ForgeMod",
