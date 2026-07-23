@@ -2107,12 +2107,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 538832,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/optionaloff/alltheleaks-1.1.10+1.21.1-neoforge.jar",
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/alltheleaks-1.1.10+1.21.1-neoforge.jar",
             "MD5": "093d03e1036e984dd9f977ea63728e93"
-          },
-          "required": {
-            "value": false,
-            "def": false
           }
         },
         {
