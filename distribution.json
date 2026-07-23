@@ -2107,8 +2107,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 538832,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/alltheleaks-1.1.10+1.21.1-neoforge.jar",
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/optionaloff/alltheleaks-1.1.10+1.21.1-neoforge.jar",
             "MD5": "093d03e1036e984dd9f977ea63728e93"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -2233,6 +2237,20 @@
             "size": 43521,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/ConfiguredDefaults-v21.1.3-1.21.1-NeoForge.jar",
             "MD5": "512d6e79b39e980c320d197668a142cf"
+          }
+        },
+        {
+          "id": "generated.forgemod:controlify:3.0.1+lts+1.21.1-neoforge@jar",
+          "name": "Controlify",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7981721,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/optionaloff/controlify-3.0.1+lts+1.21.1-neoforge.jar",
+            "MD5": "b2c7fee15e07017c3802c01a78a23ca8"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
@@ -2669,12 +2687,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 76657,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/optionaloff/NaturalWaters-v21.1.0-mc1.21.1-NeoForge.jar",
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/optionalon/NaturalWaters-v21.1.0-mc1.21.1-NeoForge.jar",
             "MD5": "4c6837638e49e188f0d15b8bc9ad7f56"
           },
           "required": {
-            "value": false,
-            "def": false
+            "value": false
           }
         },
         {
@@ -2955,6 +2972,16 @@
             "size": 413386,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/wandering_ribbit-3.0.0-neoforge-1.21.1.jar",
             "MD5": "7760eff70d95d138a84851664fb5c1cb"
+          }
+        },
+        {
+          "id": "generated.forgemod:yet_another_config_lib_v3:3.8.2+1.21.1-neoforge@jar",
+          "name": "YetAnotherConfigLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1118651,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
+            "MD5": "c346120062c3364a0d215c228354030e"
           }
         },
         {
