@@ -2330,6 +2330,36 @@
           }
         },
         {
+          "id": "generated.forgemod:createdieselgenerators:1.21.1-1.3.15@jar",
+          "name": "Create Diesel Generators",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3154746,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/createdieselgenerators-1.21.1-1.3.15.jar",
+            "MD5": "6608b13819952971bf0ebff17d8ea472"
+          }
+        },
+        {
+          "id": "generated.forgemod:croptopia:4.2.4@jar",
+          "name": "Croptopia",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2220594,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/croptopia-neoforge-1.21.1-4.2.4.jar",
+            "MD5": "c98bc02548924d344d5f583942d722b0"
+          }
+        },
+        {
+          "id": "generated.forgemod:croptopiadelight:1.0.1@jar",
+          "name": "Croptopia Delight",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 96487,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/croptopiadelight-1.0.1.jar",
+            "MD5": "d72613216389f1c8d22404ba3e2662ad"
+          }
+        },
+        {
           "id": "generated.forgemod:cullleaves:4.1.1@jar",
           "name": "CullLeaves",
           "type": "ForgeMod",
@@ -2421,6 +2451,16 @@
             "size": 1585287,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/entityculling-neoforge-1.10.5-mc1.21.1.jar",
             "MD5": "efb6e5638cd09578c0aaaa396c9bfa84"
+          }
+        },
+        {
+          "id": "generated.forgemod:epherolib:1.2.0@jar",
+          "name": "EpheroLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 746263,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/EpheroLib-1.21.1-NEO-FORGE-1.2.0.jar",
+            "MD5": "d15a6ebe7f3011625507d610d80c039c"
           }
         },
         {
@@ -2728,6 +2768,16 @@
           }
         },
         {
+          "id": "generated.forgemod:more_armor_trims:1.5.3-1.21.1@jar",
+          "name": "More Armor Trims",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 164084,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/more_armor_trims-neoforge-1.5.3-1.21.1.jar",
+            "MD5": "629d2f114624595a03d564810c77d2ba"
+          }
+        },
+        {
           "id": "generated.forgemod:moreculling:1.0.8@jar",
           "name": "More Culling",
           "type": "ForgeMod",
@@ -3008,6 +3058,16 @@
             "size": 85732,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/trade-cycling-neoforge-1.21.1-1.0.18.jar",
             "MD5": "cfe95476fdd5c3b2b2b3e2912c17d5e8"
+          }
+        },
+        {
+          "id": "generated.forgemod:trading_floor:3.0.16@jar",
+          "name": "Create: Trading Floor",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 214343,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/trading_floor-3.0.16.jar",
+            "MD5": "2f15922ce52580ed466b48ade0ef2d38"
           }
         },
         {
