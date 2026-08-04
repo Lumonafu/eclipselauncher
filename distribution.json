@@ -2112,6 +2112,16 @@
           }
         },
         {
+          "id": "generated.forgemod:adorablehamsterpets:3.6.1-1.21.1+neoforge@jar",
+          "name": "Adorable Hamster Pets",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 15515412,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/adorablehamsterpets-3.6.1-1.21.1+neoforge.jar",
+            "MD5": "244c5d75824b1d8d9cc5f33cf3fbc026"
+          }
+        },
+        {
           "id": "generated.forgemod:alltheleaks:1.1.10+1.21.1-neoforge@jar",
           "name": "All The Leaks",
           "type": "ForgeMod",
@@ -2172,6 +2182,16 @@
           }
         },
         {
+          "id": "generated.forgemod:balm:21.0.64@jar",
+          "name": "Balm",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 783793,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/balm-neoforge-1.21.1-21.0.64.jar",
+            "MD5": "c833ed1fce8ca18adbf9733ca3ce5362"
+          }
+        },
+        {
           "id": "generated.forgemod:beautify:2.0.2@jar",
           "name": "Beautify",
           "type": "ForgeMod",
@@ -2179,6 +2199,16 @@
             "size": 932199,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/beautify-neoforge-1.21.1-2.0.2.jar",
             "MD5": "e18f49c2d8723f77da79f73ec83a316f"
+          }
+        },
+        {
+          "id": "generated.forgemod:betteradvancements:0.4.3.21@jar",
+          "name": "Better Advancements",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 98641,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar",
+            "MD5": "a18430f1f7ecf6dd1849a8f240f509af"
           }
         },
         {
@@ -2578,6 +2608,16 @@
           }
         },
         {
+          "id": "generated.forgemod:immersive_melodies:0.6.4+1.21.1@jar",
+          "name": "Immersive Melodies",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5521192,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/immersive_melodies-neoforge-0.6.4+1.21.1.jar",
+            "MD5": "03d6d811f7009d7bfb5fc838a779a7d4"
+          }
+        },
+        {
           "id": "generated.forgemod:immersive_paintings:0.7.8@jar",
           "name": "Immersive Paintings",
           "type": "ForgeMod",
@@ -2831,6 +2871,16 @@
           }
         },
         {
+          "id": "generated.forgemod:patchouli:1.21.1-93-NEOFORGE@jar",
+          "name": "Patchouli",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 646777,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/Patchouli-1.21.1-93-NEOFORGE.jar",
+            "MD5": "8178d65cd07dd7a646446729058ae2bf"
+          }
+        },
+        {
           "id": "generated.forgemod:pehkui:3.8.3+1.21-neoforge@jar",
           "name": "Pehkui",
           "type": "ForgeMod",
@@ -3011,6 +3061,36 @@
           }
         },
         {
+          "id": "generated.forgemod:sophisticatedbackpacks:3.25.73@jar",
+          "name": "Sophisticated Backpacks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1144235,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/sophisticatedbackpacks-1.21.1-3.25.73.2027.jar",
+            "MD5": "a5aad205a09cffa45db256cb359d83a6"
+          }
+        },
+        {
+          "id": "generated.forgemod:sophisticatedbackpackscreateintegration:0.1.8@jar",
+          "name": "Sophisticated Backpacks Create Integration",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 82627,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/sophisticatedbackpackscreateintegration-1.21.1-0.1.8.134.jar",
+            "MD5": "e96f4946910d8b44967ff286435786bd"
+          }
+        },
+        {
+          "id": "generated.forgemod:sophisticatedcore:1.4.80@jar",
+          "name": "Sophisticated Core",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1673669,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/sophisticatedcore-1.21.1-1.4.80.2194.jar",
+            "MD5": "da0f4ed1765ddd84395988eae5eec8b4"
+          }
+        },
+        {
           "id": "generated.forgemod:spears:1.8.0@jar",
           "name": "Backported Spears",
           "type": "ForgeMod",
@@ -3068,6 +3148,16 @@
             "size": 214343,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/trading_floor-3.0.16.jar",
             "MD5": "2f15922ce52580ed466b48ade0ef2d38"
+          }
+        },
+        {
+          "id": "generated.forgemod:trashslot:21.1.11@jar",
+          "name": "TrashSlot",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 77535,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/trashslot-neoforge-1.21.1-21.1.11.jar",
+            "MD5": "8927e1bf06c132991223c39f9a86817e"
           }
         },
         {
