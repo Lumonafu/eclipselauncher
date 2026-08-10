@@ -2182,6 +2182,16 @@
           }
         },
         {
+          "id": "generated.forgemod:artifactsmerging:1.1.1@jar",
+          "name": "Artifacts Merging",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 28997,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/artifactsmerging-1.21.1-1.1.1.jar",
+            "MD5": "d57f6183dcfa6a187cd8a594b595e92c"
+          }
+        },
+        {
           "id": "generated.forgemod:balm:21.0.64@jar",
           "name": "Balm",
           "type": "ForgeMod",
@@ -2300,6 +2310,16 @@
           }
         },
         {
+          "id": "generated.forgemod:copycats:3.0.4+mc.1.21.1-neoforge@jar",
+          "name": "Create: Copycats+",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1791747,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/copycats-3.0.4+mc.1.21.1-neoforge.jar",
+            "MD5": "c9f1a4b031cdfab8ebfc06d81e891c43"
+          }
+        },
+        {
           "id": "generated.forgemod:coroutil:1.21.0-1.3.8@jar",
           "name": "CoroUtil",
           "type": "ForgeMod",
@@ -2327,6 +2347,26 @@
             "size": 6779410,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/create_connected-1.3.2-mc1.21.1.jar",
             "MD5": "5ec87500b99fc02cc83f74d995d00044"
+          }
+        },
+        {
+          "id": "generated.forgemod:create_power_loader:2.0.5-mc1.21.1@jar",
+          "name": "Create: Power Loader",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 442369,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/create_power_loader-2.0.5-mc1.21.1.jar",
+            "MD5": "db072c13031f5144d140335206fdad89"
+          }
+        },
+        {
+          "id": "generated.forgemod:create_things_and_misc:4.1.1@jar",
+          "name": "Create: things and misc",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1055815,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/create_things_and_misc-4.1.1-neoforge-1.21.1.jar",
+            "MD5": "015746413b5209f04c0046dc89e51feb"
           }
         },
         {
@@ -2360,6 +2400,16 @@
           }
         },
         {
+          "id": "generated.forgemod:create_enchantment_industry:2.4.2@jar",
+          "name": "Create: Enchantment Industry",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1283517,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/create-enchantment-industry-2.4.2.jar",
+            "MD5": "4bf7e32d49403b73f0782f6f2d80f000"
+          }
+        },
+        {
           "id": "generated.forgemod:createdieselgenerators:1.21.1-1.3.15@jar",
           "name": "Create Diesel Generators",
           "type": "ForgeMod",
@@ -2367,6 +2417,26 @@
             "size": 3154746,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/createdieselgenerators-1.21.1-1.3.15.jar",
             "MD5": "6608b13819952971bf0ebff17d8ea472"
+          }
+        },
+        {
+          "id": "generated.forgemod:create_dragons_plus:1.11.4@jar",
+          "name": "Create: Dragons Plus",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1029344,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/CreateDragonsPlus-1.11.4.jar",
+            "MD5": "e3b66c1ffa852fcf4297ad9fb423c39b"
+          }
+        },
+        {
+          "id": "generated.forgemod:createnuclear:1.3.2-beta.3@jar",
+          "name": "Create Nuclear",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1842160,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/createnuclear-1.3.2-beta.3-neoforge.jar",
+            "MD5": "baae69947ce29825799e565a00bdc842"
           }
         },
         {
@@ -2638,6 +2708,34 @@
           }
         },
         {
+          "id": "generated.forgemod:irisflw:2.4.0@jar",
+          "name": "Iris Flywheel Compat",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 907133,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/optionaloff/iris-flywheel-compat-NeoForge-2.4.0.jar",
+            "MD5": "9d3b7b83bd5747f1825cecf3f80fba26"
+          },
+          "required": {
+            "value": false,
+            "def": false
+          }
+        },
+        {
+          "id": "generated.forgemod:iris:1.8.14-beta.1+mc1.21.1@jar",
+          "name": "Iris",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2540723,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/optionaloff/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
+            "MD5": "6b68276a6718656ec476cfac69dfe013"
+          },
+          "required": {
+            "value": false,
+            "def": false
+          }
+        },
+        {
           "id": "generated.forgemod:ironchest:1.21-neoforge-16.0.7@jar",
           "name": "Iron Chests",
           "type": "ForgeMod",
@@ -2675,6 +2773,16 @@
             "size": 4151399,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/journeymap-neoforge-1.21.1-6.0.1.jar",
             "MD5": "d178b1361172e5f4fd3c6e53999ef2ec"
+          }
+        },
+        {
+          "id": "generated.forgemod:jeresources:1.6.0.12@jar",
+          "name": "Just Enough Resources",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 286072,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/JustEnoughResources-NeoForge-1.21.1-1.6.0.12.jar",
+            "MD5": "c403bde281938f8b7473b3473dec800b"
           }
         },
         {
@@ -3121,6 +3229,16 @@
           }
         },
         {
+          "id": "generated.forgemod:terra_curio:1.1.1@jar",
+          "name": "TerraCurio",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1816091,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/terra_curio-1.1.1.jar",
+            "MD5": "b56c8130c9897df3d925c52016b8bc18"
+          }
+        },
+        {
           "id": "generated.forgemod:toms_storage:2.3.2@jar",
           "name": "Tom's Simple Storage Mod",
           "type": "ForgeMod",
@@ -3128,6 +3246,16 @@
             "size": 848335,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/toms_storage-1.21-2.3.2.jar",
             "MD5": "0678851bbe9afd7ac53cb192e93a66e4"
+          }
+        },
+        {
+          "id": "generated.forgemod:tool_trims:3.0.7@jar",
+          "name": "Tool Trims",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1441954,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/tool-trims-v3.0.7-for-1.21.1.jar",
+            "MD5": "2c64a98c6a83394511c20172815ffbec"
           }
         },
         {
