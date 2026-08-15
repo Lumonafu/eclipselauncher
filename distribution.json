@@ -3050,9 +3050,9 @@
           "name": "Pixelrushcontent",
           "type": "ForgeMod",
           "artifact": {
-            "size": 64343,
+            "size": 64342,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/pixelrushcontent-1.0.0.jar",
-            "MD5": "059bf6eb78fc5cbea35afe2f2faaf04c"
+            "MD5": "7350d568c4e224558d230aa82c86ea7e"
           }
         },
         {
