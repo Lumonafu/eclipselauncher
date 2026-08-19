@@ -2704,27 +2704,17 @@
           }
         },
         {
-          "id": "generated.forgemod:immediatelyfast:1.6.11+1.21.1@jar",
-          "name": "ImmediatelyFast",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 361795,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/optionaloff/ImmediatelyFast-NeoForge-1.6.11+1.21.1.jar",
-            "MD5": "f432a12463accb05290ea7de52fccc43"
-          },
-          "required": {
-            "value": false,
-            "def": false
-          }
-        },
-        {
           "id": "generated.forgemod:immediatelyfast:1.6.12+1.21.1@jar",
           "name": "ImmediatelyFast",
           "type": "ForgeMod",
           "artifact": {
             "size": 362397,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/ImmediatelyFast-NeoForge-1.6.12+1.21.1.jar",
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/optionaloff/ImmediatelyFast-NeoForge-1.6.12+1.21.1.jar",
             "MD5": "fb50d85c4e8fc4ecb8a9e4c3e7c494df"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
