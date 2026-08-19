@@ -2232,16 +2232,6 @@
           }
         },
         {
-          "id": "generated.forgemod:bluemap:5.7@jar",
-          "name": "BlueMap",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 5414670,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/bluemap-5.7-neoforge.jar",
-            "MD5": "5363c8d1a9b5c16627148fd65ca50c04"
-          }
-        },
-        {
           "id": "generated.forgemod:c2me:0.4.0-alpha.0.114+1.21.1@jar",
           "name": "Concurrent Chunk Management Engine",
           "type": "ForgeMod",
@@ -2347,16 +2337,6 @@
             "size": 63981,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/coroutil-neoforge-1.21.0-1.3.8.jar",
             "MD5": "9d410a84fe0216ce18568993afb4f8e5"
-          }
-        },
-        {
-          "id": "generated.forgemod:create_bluemap:1.1.1@jar",
-          "name": "Create Bluemap",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 15642,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/create_bluemap-1.1.1.jar",
-            "MD5": "eca714b273541234ab30eeebfda2d529"
           }
         },
         {
@@ -2554,6 +2534,16 @@
           }
         },
         {
+          "id": "generated.forgemod:dynamic_fps:3.11.4@jar",
+          "name": "Dynamic FPS",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 220193,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar",
+            "MD5": "e5ef3e5d37eedad79cf44897229fd8f2"
+          }
+        },
+        {
           "id": "generated.forgemod:emotecraft:2.4.12@jar",
           "name": "Emotecraft",
           "type": "ForgeMod",
@@ -2631,6 +2621,16 @@
             "size": 91362,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/farmersknives-neoforge-1.21.1-4.2.0.jar",
             "MD5": "343cc10d7660f4b044f1a7754976416c"
+          }
+        },
+        {
+          "id": "generated.forgemod:fastsuite:6.0.7@jar",
+          "name": "Fast Suite",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 28192,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/FastSuite-1.21.1-6.0.7.jar",
+            "MD5": "966004408b33e6df06e6c71834217ffb"
           }
         },
         {
@@ -2715,6 +2715,16 @@
           "required": {
             "value": false,
             "def": false
+          }
+        },
+        {
+          "id": "generated.forgemod:immediatelyfast:1.6.12+1.21.1@jar",
+          "name": "ImmediatelyFast",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 362397,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/ImmediatelyFast-NeoForge-1.6.12+1.21.1.jar",
+            "MD5": "fb50d85c4e8fc4ecb8a9e4c3e7c494df"
           }
         },
         {
@@ -2996,6 +3006,16 @@
           }
         },
         {
+          "id": "generated.forgemod:moreculling:1.0.9@jar",
+          "name": "More Culling",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 335661,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/moreculling-neoforge-1.21.1-1.0.9.jar",
+            "MD5": "8d2a197a9a72a78feb8e5423fbaac97b"
+          }
+        },
+        {
           "id": "generated.forgemod:mousetweaks:2.26.1@jar",
           "name": "Mouse Tweaks",
           "type": "ForgeMod",
@@ -3013,6 +3033,16 @@
             "size": 3161,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/nofog-neoforge-1.21-1.21.1.jar",
             "MD5": "1b9b8a5fc2a35f86ec63fea7bbd791d1"
+          }
+        },
+        {
+          "id": "generated.forgemod:nowheel:1.0.6@jar",
+          "name": "Nowheel",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 75713,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/nowheel-1.0.6+1.21.1neoforge.jar",
+            "MD5": "0a82036b59819e63678529181a063fb6"
           }
         },
         {
@@ -3053,6 +3083,16 @@
             "size": 64342,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/pixelrushcontent-1.0.0.jar",
             "MD5": "7350d568c4e224558d230aa82c86ea7e"
+          }
+        },
+        {
+          "id": "generated.forgemod:placebo:9.9.2@jar",
+          "name": "Placebo",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 324058,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/Placebo-1.21.1-9.9.2.jar",
+            "MD5": "208b373fb2bdc703cdd2e087753ed859"
           }
         },
         {
@@ -3303,6 +3343,16 @@
             "size": 1816091,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/terra_curio-1.1.1.jar",
             "MD5": "b56c8130c9897df3d925c52016b8bc18"
+          }
+        },
+        {
+          "id": "generated.forgemod:threadtweak:1.0.0@jar",
+          "name": "ThreadTweak",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 19397,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/threadtweak-1.21.1-NeoForge-1.0.0.jar",
+            "MD5": "66192c9a836662fa79870e172683e073"
           }
         },
         {
