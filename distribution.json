@@ -2276,6 +2276,16 @@
           }
         },
         {
+          "id": "generated.forgemod:cmpackagecouriers:2.3.0@jar",
+          "name": "Create More: Package Couriers",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 284825,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/cmpackagecouriers-neoforge-2.3.0.jar",
+            "MD5": "a4b5174a930f06394f80e5603243f680"
+          }
+        },
+        {
           "id": "com.natamus:collective:8.39@jar",
           "name": "Collective",
           "type": "ForgeMod",
@@ -2283,6 +2293,16 @@
             "size": 1061931,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/collective-1.21.1-8.39.jar",
             "MD5": "7ae605279aacf6ae233bb1aafe2775c4"
+          }
+        },
+        {
+          "id": "generated.forgemod:comforts:9.0.5+1.21.1@jar",
+          "name": "Comforts",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 422658,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/comforts-neoforge-9.0.5+1.21.1.jar",
+            "MD5": "ba7a318dcf4190a27e017eacac47427e"
           }
         },
         {
@@ -2340,6 +2360,36 @@
           }
         },
         {
+          "id": "generated.forgemod:cosmeticarmoursmod:1.5.3.0@jar",
+          "name": "CosmeticArmours",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 17478086,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/CosmeticArmours%20-%201.5.3.1%20-%201.21.1%20-%20NeoForge.jar",
+            "MD5": "cbd3c9fc45c767a1e0cfe26f09f15bca"
+          }
+        },
+        {
+          "id": "generated.forgemod:cosmeticweaponsmod:1.1.0.0@jar",
+          "name": "CosmeticWeapons",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4837922,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/CosmeticWeapons%20-%201.1.0.1%20-%201.21.1%20-%20NeoForge.jar",
+            "MD5": "523fe04c4c61a973f9aa6036e33aa826"
+          }
+        },
+        {
+          "id": "generated.forgemod:create_bb:1.0.7@jar",
+          "name": "Create: Blocks & Bogies",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2613213,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/create_bb-1.0.7-1.21.1-Neoforge.jar",
+            "MD5": "4785597d4a3bf7152a7911f7392ec7b6"
+          }
+        },
+        {
           "id": "generated.forgemod:create_connected:1.3.2-mc1.21.1@jar",
           "name": "Create: Connected",
           "type": "ForgeMod",
@@ -2350,6 +2400,16 @@
           }
         },
         {
+          "id": "generated.forgemod:create_copper_and_zinc:2.0.0@jar",
+          "name": "Create: Copper and Zinc",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 98709,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/create_copper_and_zinc-2.0.0-neoforge-1.21.1.jar",
+            "MD5": "4a70e08edb06937a5d0a8ca6386f1bcf"
+          }
+        },
+        {
           "id": "generated.forgemod:create_power_loader:2.0.5-mc1.21.1@jar",
           "name": "Create: Power Loader",
           "type": "ForgeMod",
@@ -2357,6 +2417,26 @@
             "size": 442369,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/create_power_loader-2.0.5-mc1.21.1.jar",
             "MD5": "db072c13031f5144d140335206fdad89"
+          }
+        },
+        {
+          "id": "generated.forgemod:create_radar:0.4.9.4-1.21.1@jar",
+          "name": "Create: Radars",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2990812,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/create_radar-0.4.9.4-1.21.1.jar",
+            "MD5": "6b68a2d7204f0aa344e4770c8715b7a8"
+          }
+        },
+        {
+          "id": "generated.forgemod:create_submarine:2.2.4@jar",
+          "name": "Create Deep Seas",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1869296,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/create_submarine-2.2.4.jar",
+            "MD5": "6fb1a07efaa33fa22650b06b5d71b305"
           }
         },
         {
@@ -2407,6 +2487,26 @@
             "size": 1283517,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/create-enchantment-industry-2.4.2.jar",
             "MD5": "4bf7e32d49403b73f0782f6f2d80f000"
+          }
+        },
+        {
+          "id": "generated.forgemod:createbigcannons:5.11.7@jar",
+          "name": "Create Big Cannons",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3771506,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/createbigcannons-5.11.7+mc.1.21.1.jar",
+            "MD5": "866d83d2cc87ed791c5ce419e497032d"
+          }
+        },
+        {
+          "id": "generated.forgemod:createcobblestone:1.4.12+neoforge-1.21.1-144@jar",
+          "name": "Create cobblestone",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 573612,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/createcobblestone-1.4.12+neoforge-1.21.1-144.jar",
+            "MD5": "0e0928dab7c089c30df247c36b8c41e4"
           }
         },
         {
@@ -2534,6 +2634,16 @@
           }
         },
         {
+          "id": "generated.forgemod:dragonlib:1.21.1-beta-3.0.28@jar",
+          "name": "DragonLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2107270,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/dragonlib-neoforge-1.21.1-beta-3.0.28.jar",
+            "MD5": "4c631268718d6cdb34714de2936d7a79"
+          }
+        },
+        {
           "id": "generated.forgemod:dynamic_fps:3.11.4@jar",
           "name": "Dynamic FPS",
           "type": "ForgeMod",
@@ -2591,6 +2701,16 @@
             "size": 746263,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/EpheroLib-1.21.1-NEO-FORGE-1.2.0.jar",
             "MD5": "d15a6ebe7f3011625507d610d80c039c"
+          }
+        },
+        {
+          "id": "generated.forgemod:escalated:1.3.2@jar",
+          "name": "Create: Escalated",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 512624,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/escalated-1.3.2+mc.1.21.1.jar",
+            "MD5": "5b3693779f0bd150f57957b91d3da4be"
           }
         },
         {
@@ -3116,6 +3236,16 @@
           }
         },
         {
+          "id": "generated.forgemod:powergrid:0.6.0.1@jar",
+          "name": "Create: Power Grid",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7905734,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/powergrid-mc1.21.1-0.6.0.1.jar",
+            "MD5": "9aaa66e65976163603239413b2c3c4a4"
+          }
+        },
+        {
           "id": "generated.forgemod:primity:0.1.4@jar",
           "name": "Primity",
           "type": "ForgeMod",
@@ -3196,6 +3326,16 @@
           }
         },
         {
+          "id": "generated.forgemod:ritchiesprojectilelib:2.1.2@jar",
+          "name": "Ritchie's Projectile Library",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 76369,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/ritchiesprojectilelib-2.1.2+mc.1.21.1-neoforge.jar",
+            "MD5": "1772f7d2ef79cdb3e77ff0335fe7f3f8"
+          }
+        },
+        {
           "id": "generated.forgemod:sable:2.0.3@jar",
           "name": "Sable",
           "type": "ForgeMod",
@@ -3223,6 +3363,16 @@
             "size": 381204,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/shulkerboxtooltip-neoforge-5.1.9+1.21.1.jar",
             "MD5": "cbdde866ca8ec8a04b90e17a8668df61"
+          }
+        },
+        {
+          "id": "generated.forgemod:simulatedcoasters:0.1.5@jar",
+          "name": "Create: Coasters Simulated",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1892119,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/simulatedcoasters-0.1.5.jar",
+            "MD5": "629039056d8cebd6be7321c359073fdc"
           }
         },
         {
@@ -3366,6 +3516,16 @@
           }
         },
         {
+          "id": "generated.forgemod:tracks:1.0.5@jar",
+          "name": "Create Tracks+",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 610174,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/tracks_plus-1.0.5.jar",
+            "MD5": "e47f21ae7450d04a29d86ece8f34cae7"
+          }
+        },
+        {
           "id": "generated.forgemod:trade_cycling:1.21.1-1.0.18@jar",
           "name": "Trade Cycling",
           "type": "ForgeMod",
@@ -3383,6 +3543,16 @@
             "size": 214343,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/trading_floor-3.0.16.jar",
             "MD5": "2f15922ce52580ed466b48ade0ef2d38"
+          }
+        },
+        {
+          "id": "generated.forgemod:trainutilities:3.1.0@jar",
+          "name": "Create Train Utilities",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5053928,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/trainutilities-neoforge-3.1.0.jar",
+            "MD5": "c015e44e75af737679c3ddb2685f9566"
           }
         },
         {
