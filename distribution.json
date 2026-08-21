@@ -4100,6 +4100,28 @@
           }
         },
         {
+          "id": "create_submarine-common.toml",
+          "name": "create_submarine-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 3765,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/create_submarine-common.toml",
+            "MD5": "a53a16c18723657a945cec3985a72c96",
+            "path": "configureddefaults/config/create_submarine-common.toml"
+          }
+        },
+        {
+          "id": "create_submarine_client_state.json",
+          "name": "create_submarine_client_state.json",
+          "type": "File",
+          "artifact": {
+            "size": 97,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/create_submarine_client_state.json",
+            "MD5": "08607965efaa3c45aadbf6c56208b793",
+            "path": "configureddefaults/config/create_submarine_client_state.json"
+          }
+        },
+        {
           "id": "cullleaves.json",
           "name": "cullleaves.json",
           "type": "File",
@@ -5228,7 +5250,7 @@
           "artifact": {
             "size": 13,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/.crowdin/timestamp",
-            "MD5": "41689de88ad44ab22de9d2b60fd5b395",
+            "MD5": "6594a5cb8d10d8cc59e777c664993e5e",
             "path": "configureddefaults/config/plasmovoice/.crowdin/timestamp"
           }
         },
@@ -5303,9 +5325,9 @@
           "name": "client.toml",
           "type": "File",
           "artifact": {
-            "size": 1319,
+            "size": 1925,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/client.toml",
-            "MD5": "4dc903c3aa925a3410a2adf3240af1c1",
+            "MD5": "7ba6c2525d2fd33c195513de34d377cb",
             "path": "configureddefaults/config/plasmovoice/client.toml"
           }
         },
@@ -5314,9 +5336,9 @@
           "name": "meta_cache.json",
           "type": "File",
           "artifact": {
-            "size": 655,
+            "size": 1309,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/meta_cache.json",
-            "MD5": "52c076d7f60d29b947e22eea70c7c86c",
+            "MD5": "fe201683e26b4d094be118e817f1a50e",
             "path": "configureddefaults/config/plasmovoice/meta_cache.json"
           }
         },
@@ -5448,7 +5470,7 @@
           "artifact": {
             "size": 13,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/server/languages/.crowdin/timestamp",
-            "MD5": "ae9959ace9696cd3e7ff97105cd40d8b",
+            "MD5": "114119bd3abc87089facbf92518fe1a1",
             "path": "configureddefaults/config/plasmovoice/server/languages/.crowdin/timestamp"
           }
         },
