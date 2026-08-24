@@ -2122,16 +2122,6 @@
           }
         },
         {
-          "id": "generated.forgemod:alltheleaks:1.1.10+1.21.1-neoforge@jar",
-          "name": "All The Leaks",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 538832,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/alltheleaks-1.1.10+1.21.1-neoforge.jar",
-            "MD5": "093d03e1036e984dd9f977ea63728e93"
-          }
-        },
-        {
           "id": "generated.forgemod:appleskin:3.0.9+mc1.21@jar",
           "name": "AppleSkin",
           "type": "ForgeMod",
@@ -3083,16 +3073,6 @@
             "size": 164084,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/more_armor_trims-neoforge-1.5.3-1.21.1.jar",
             "MD5": "629d2f114624595a03d564810c77d2ba"
-          }
-        },
-        {
-          "id": "generated.forgemod:moreculling:1.0.8@jar",
-          "name": "More Culling",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 332875,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/moreculling-neoforge-1.21.1-1.0.8.jar",
-            "MD5": "d97e21d2b8af8da26b3e4e25ac8feb8e"
           }
         },
         {
