@@ -2986,16 +2986,6 @@
           }
         },
         {
-          "id": "generated.forgemod:krypton:0.1.0+mc1.21@jar",
-          "name": "KryptonFoxified",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 189002,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/KryptonFoxified-0.1.0+mc1.21.jar",
-            "MD5": "8847cc09f246ed6d99f3b90e4cf26592"
-          }
-        },
-        {
           "id": "generated.forgemod:literally_just_backpacks:1.0.1@jar",
           "name": "Literally Just Backpacks",
           "type": "ForgeMod",
@@ -3003,16 +2993,6 @@
             "size": 216151,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/literally_just_backpacks-1.21.1-v1.0.1.jar",
             "MD5": "48c352878a8920081fef702c2a53dd65"
-          }
-        },
-        {
-          "id": "generated.forgemod:lithium:0.15.4+mc1.21.1@jar",
-          "name": "Lithium",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 774220,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/lithium-neoforge-0.15.4+mc1.21.1.jar",
-            "MD5": "969860e6a6ebe4dc2e2154b56f05483e"
           }
         },
         {
@@ -3473,16 +3453,6 @@
             "size": 1816091,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/terra_curio-1.1.1.jar",
             "MD5": "b56c8130c9897df3d925c52016b8bc18"
-          }
-        },
-        {
-          "id": "generated.forgemod:threadtweak:1.0.0@jar",
-          "name": "ThreadTweak",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 19397,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/threadtweak-1.21.1-NeoForge-1.0.0.jar",
-            "MD5": "66192c9a836662fa79870e172683e073"
           }
         },
         {
