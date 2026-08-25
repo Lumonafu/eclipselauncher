@@ -2222,20 +2222,6 @@
           }
         },
         {
-          "id": "generated.forgemod:c2me:0.4.0-alpha.0.114+1.21.1@jar",
-          "name": "Concurrent Chunk Management Engine",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 3656592,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/optionaloff/c2me-neoforge-mc1.21.1-0.4.0-alpha.0.114.jar",
-            "MD5": "f6fe7719409ffe7ff6e783b6623dfff9"
-          },
-          "required": {
-            "value": false,
-            "def": false
-          }
-        },
-        {
           "id": "generated.forgemod:carryon:2.2.5@jar",
           "name": "Carry On",
           "type": "ForgeMod",
@@ -2480,6 +2466,20 @@
           }
         },
         {
+          "id": "generated.forgemod:create_gmf:0.1.2@jar",
+          "name": "Create: Give Me FPS",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 271313,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/optionaloff/Create-Give-Me-FPS-0.1.2-NeoForge-1.21.1%20(1).jar",
+            "MD5": "186dab3d2142ef89d670081d9fa42339"
+          },
+          "required": {
+            "value": false,
+            "def": false
+          }
+        },
+        {
           "id": "generated.forgemod:createbigcannons:5.11.7@jar",
           "name": "Create Big Cannons",
           "type": "ForgeMod",
@@ -2567,20 +2567,6 @@
             "size": 96487,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/croptopiadelight-1.0.1.jar",
             "MD5": "d72613216389f1c8d22404ba3e2662ad"
-          }
-        },
-        {
-          "id": "generated.forgemod:cullleaves:4.1.1@jar",
-          "name": "CullLeaves",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 94735,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/optionaloff/cullleaves-neoforge-4.1.1+1.21.1.jar",
-            "MD5": "2b0b25cd86a1bb1179862aa4088677aa"
-          },
-          "required": {
-            "value": false,
-            "def": false
           }
         },
         {
@@ -2739,8 +2725,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 28192,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/FastSuite-1.21.1-6.0.7.jar",
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/optionalon/FastSuite-1.21.1-6.0.7.jar",
             "MD5": "966004408b33e6df06e6c71834217ffb"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -2931,8 +2920,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 4151399,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/journeymap-neoforge-1.21.1-6.0.1.jar",
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/optionalon/journeymap-neoforge-1.21.1-6.0.1.jar",
             "MD5": "d178b1361172e5f4fd3c6e53999ef2ec"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -2991,8 +2983,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 6094,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/LongerChatHistory-neoforge-1.7.jar",
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/optionalon/LongerChatHistory-neoforge-1.7.jar",
             "MD5": "05875eeefef70ffe0e42e474a22943f8"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -3051,8 +3046,11 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 597318,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/modernfix-neoforge-5.27.15+mc1.21.1.jar",
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/optionalon/modernfix-neoforge-5.27.15+mc1.21.1.jar",
             "MD5": "b5ba355fc60c7e5cc8762f2fada8324b"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -3266,16 +3264,6 @@
           }
         },
         {
-          "id": "generated.forgemod:resourcepackoverrides:21.1.0@jar",
-          "name": "Resource Pack Overrides",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 83035,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/ResourcePackOverrides-v21.1.0-1.21.1-NeoForge.jar",
-            "MD5": "9757d99dce58ebb447cc75a1940d4d5a"
-          }
-        },
-        {
           "id": "generated.forgemod:ribbits:1.21.1-NeoForge-4.1.6@jar",
           "name": "Ribbits",
           "type": "ForgeMod",
@@ -3353,6 +3341,20 @@
             "size": 1353585,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/sliceanddice-neoforge-4.3.2.jar",
             "MD5": "394aa452ac6dea1a264192d59c340185"
+          }
+        },
+        {
+          "id": "generated.forgemod:smart_bounds:1.0.0@jar",
+          "name": "Create: Smart Bounds",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 749901,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/optionaloff/smart_bounds-1.0.0.jar",
+            "MD5": "4a7e29a427609acd3a8925719d3eeefa"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
