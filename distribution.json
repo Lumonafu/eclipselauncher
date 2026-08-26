@@ -2396,16 +2396,6 @@
           }
         },
         {
-          "id": "generated.forgemod:create_radar:0.4.9.4-1.21.1@jar",
-          "name": "Create: Radars",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2990812,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/create_radar-0.4.9.4-1.21.1.jar",
-            "MD5": "6b68a2d7204f0aa344e4770c8715b7a8"
-          }
-        },
-        {
           "id": "generated.forgemod:create_submarine:2.2.4@jar",
           "name": "Create Deep Seas",
           "type": "ForgeMod",
@@ -2530,13 +2520,13 @@
           }
         },
         {
-          "id": "generated.forgemod:createpropulsion:1.1.5@jar",
+          "id": "generated.forgemod:createpropulsion:1.1.4@jar",
           "name": "Create Propulsion: Simulated",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1707765,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/createpropulsion-1.1.5.jar",
-            "MD5": "054843664d3bef2d61e6e492503fd824"
+            "size": 1196735,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/createpropulsion-1.1.4.jar",
+            "MD5": "4d67f8a63e402dd31ef5e150faa83ec9"
           }
         },
         {
@@ -2965,16 +2955,6 @@
             "size": 7279264,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/kotlinforforge-5.12.0-all.jar",
             "MD5": "93ec434c7112952f0501211a992538b9"
-          }
-        },
-        {
-          "id": "generated.forgemod:literally_just_backpacks:1.0.1@jar",
-          "name": "Literally Just Backpacks",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 216151,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/literally_just_backpacks-1.21.1-v1.0.1.jar",
-            "MD5": "48c352878a8920081fef702c2a53dd65"
           }
         },
         {
