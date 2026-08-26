@@ -2376,16 +2376,6 @@
           }
         },
         {
-          "id": "generated.forgemod:create_submarine:2.2.4@jar",
-          "name": "Create Deep Seas",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1869296,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/create_submarine-2.2.4.jar",
-            "MD5": "6fb1a07efaa33fa22650b06b5d71b305"
-          }
-        },
-        {
           "id": "generated.forgemod:create_things_and_misc:4.1.1@jar",
           "name": "Create: things and misc",
           "type": "ForgeMod",
@@ -2447,16 +2437,6 @@
           "required": {
             "value": false,
             "def": false
-          }
-        },
-        {
-          "id": "generated.forgemod:createbigcannons:5.11.7@jar",
-          "name": "Create Big Cannons",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 3771506,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/createbigcannons-5.11.7+mc.1.21.1.jar",
-            "MD5": "866d83d2cc87ed791c5ce419e497032d"
           }
         },
         {
