@@ -2650,16 +2650,6 @@
           }
         },
         {
-          "id": "generated.forgemod:farmersknives:1.21.1-4.2.0@jar",
-          "name": "Farmer's Knives",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 91362,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/farmersknives-neoforge-1.21.1-4.2.0.jar",
-            "MD5": "343cc10d7660f4b044f1a7754976416c"
-          }
-        },
-        {
           "id": "generated.forgemod:fastsuite:6.0.7@jar",
           "name": "Fast Suite",
           "type": "ForgeMod",
@@ -2730,16 +2720,6 @@
             "size": 7132842,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/handcrafted-neoforge-1.21.1-4.0.3.jar",
             "MD5": "0f875f5741a6fad6f1c4f6fdbe5f538b"
-          }
-        },
-        {
-          "id": "generated.forgemod:hellish_trials:1.0.5@jar",
-          "name": "Hellish Trials",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 581988,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/HellishTrials-neoforge-1.0.5.jar",
-            "MD5": "5932b90300f103bb2d891da002126a69"
           }
         },
         {
@@ -2855,19 +2835,6 @@
           }
         },
         {
-          "id": "generated.forgemod:journeymap:1.21.1-6.0.1@jar",
-          "name": "Journeymap",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 4151399,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/optionalon/journeymap-neoforge-1.21.1-6.0.1.jar",
-            "MD5": "d178b1361172e5f4fd3c6e53999ef2ec"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "generated.forgemod:jeresources:1.6.0.12@jar",
           "name": "Just Enough Resources",
           "type": "ForgeMod",
@@ -2968,19 +2935,6 @@
             "size": 933248,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/Mod%20Menu%20(NeoForge%20Edition)%201.21.1-1.0.2.jar",
             "MD5": "bc44f629a0013e8dea8e41021b3c1a24"
-          }
-        },
-        {
-          "id": "generated.forgemod:modernfix:5.27.15+mc1.21.1@jar",
-          "name": "ModernFix",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 597318,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/optionalon/modernfix-neoforge-5.27.15+mc1.21.1.jar",
-            "MD5": "b5ba355fc60c7e5cc8762f2fada8324b"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -3091,16 +3045,6 @@
             "size": 324058,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/Placebo-1.21.1-9.9.2.jar",
             "MD5": "208b373fb2bdc703cdd2e087753ed859"
-          }
-        },
-        {
-          "id": "generated.forgemod:plasmovoice:2.1.13@jar",
-          "name": "Plasmo Voice",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 12304232,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/plasmovoice-neoforge-1.21.1-2.1.13.jar",
-            "MD5": "b7005e28f999c7116658ef492c67fa06"
           }
         },
         {
@@ -3224,26 +3168,6 @@
           }
         },
         {
-          "id": "generated.forgemod:sharedatlasjm:0.9.0@jar",
-          "name": "SharedAtlasJM",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 32515,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/sharedatlasjm-0.12.0.jar",
-            "MD5": "33f6f324631c26258d0bb889dc6c5241"
-          }
-        },
-        {
-          "id": "generated.forgemod:shulkerboxtooltip:5.1.9+1.21.1@jar",
-          "name": "ShulkerBoxTooltip",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 381204,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/shulkerboxtooltip-neoforge-5.1.9+1.21.1.jar",
-            "MD5": "cbdde866ca8ec8a04b90e17a8668df61"
-          }
-        },
-        {
           "id": "generated.forgemod:simulatedcoasters:0.1.5@jar",
           "name": "Create: Coasters Simulated",
           "type": "ForgeMod",
@@ -3305,16 +3229,6 @@
             "size": 1144235,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/sophisticatedbackpacks-1.21.1-3.25.73.2027.jar",
             "MD5": "a5aad205a09cffa45db256cb359d83a6"
-          }
-        },
-        {
-          "id": "generated.forgemod:sophisticatedbackpackscreateintegration:0.1.8@jar",
-          "name": "Sophisticated Backpacks Create Integration",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 82627,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/sophisticatedbackpackscreateintegration-1.21.1-0.1.8.134.jar",
-            "MD5": "e96f4946910d8b44967ff286435786bd"
           }
         },
         {
@@ -3408,16 +3322,6 @@
           }
         },
         {
-          "id": "generated.forgemod:trashslot:21.1.11@jar",
-          "name": "TrashSlot",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 77535,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/trashslot-neoforge-1.21.1-21.1.11.jar",
-            "MD5": "8927e1bf06c132991223c39f9a86817e"
-          }
-        },
-        {
           "id": "generated.forgemod:treechop:0.19.3@jar",
           "name": "HT's TreeChop",
           "type": "ForgeMod",
@@ -3438,13 +3342,13 @@
           }
         },
         {
-          "id": "generated.forgemod:wanderer_ribbit:3.0.0@jar",
-          "name": "Wanderer_Ribbit",
+          "id": "generated.forgemod:voicechat:1.21.1-2.6.22@jar",
+          "name": "Simple Voice Chat",
           "type": "ForgeMod",
           "artifact": {
-            "size": 413386,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/wandering_ribbit-3.0.0-neoforge-1.21.1.jar",
-            "MD5": "7760eff70d95d138a84851664fb5c1cb"
+            "size": 4918442,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/voicechat-neoforge-1.21.1-2.6.22.jar",
+            "MD5": "f2c1f0eb15d2fb2a8cf8a0040282df51"
           }
         },
         {
@@ -3472,9 +3376,9 @@
           "name": "customizablemenus.txt",
           "type": "File",
           "artifact": {
-            "size": 136,
+            "size": 135,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/config/fancymenu/customizablemenus.txt",
-            "MD5": "e7e122cfaae47af63de2ce13c3ad084d",
+            "MD5": "17107860a5701685c0ba36cffbc111de",
             "path": "config/fancymenu/customizablemenus.txt"
           }
         },
@@ -3483,9 +3387,9 @@
           "name": "options_screen_layout.txt",
           "type": "File",
           "artifact": {
-            "size": 49636,
+            "size": 49740,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/config/fancymenu/customization/options_screen_layout.txt",
-            "MD5": "4ecb02681a19315dfd4d8c5ee2d1c03c",
+            "MD5": "27e003e814c93e71c92428ec4dbbdfce",
             "path": "config/fancymenu/customization/options_screen_layout.txt"
           }
         },
@@ -3496,7 +3400,7 @@
           "artifact": {
             "size": 55200,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/config/fancymenu/customization/title_screen_layout.txt",
-            "MD5": "3dda866945dd4e902aa86426ed4f3abe",
+            "MD5": "cfd3802642dc5d88c86f60b8ac24bfe5",
             "path": "config/fancymenu/customization/title_screen_layout.txt"
           }
         },
@@ -3538,9 +3442,9 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 4399,
+            "size": 4398,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/config/fancymenu/options.txt",
-            "MD5": "bbf58ab289630a4c3f1d54f35be42baa",
+            "MD5": "21540080cc1853fc45e858015624434a",
             "path": "config/fancymenu/options.txt"
           }
         },
@@ -3659,10 +3563,120 @@
           "name": "accessories.json5",
           "type": "File",
           "artifact": {
-            "size": 919,
+            "size": 915,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/accessories.json5",
-            "MD5": "4324a1d110d6d84a44df08c3d80efed6",
+            "MD5": "c650b5f2c1efe0938cdf4f76eede88a0",
             "path": "configureddefaults/config/accessories.json5"
+          }
+        },
+        {
+          "id": "announcements.json",
+          "name": "announcements.json",
+          "type": "File",
+          "artifact": {
+            "size": 150,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/adorablehamsterpets/announcements.json",
+            "MD5": "d5e12d86e25e70e1d06d10e8fcd85776",
+            "path": "configureddefaults/config/adorablehamsterpets/announcements.json"
+          }
+        },
+        {
+          "id": "items.toml",
+          "name": "items.toml",
+          "type": "File",
+          "artifact": {
+            "size": 8172,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/adorablehamsterpets/items.toml",
+            "MD5": "d716025269e345ab4773a984d64dc3d5",
+            "path": "configureddefaults/config/adorablehamsterpets/items.toml"
+          }
+        },
+        {
+          "id": "links.cache.json",
+          "name": "links.cache.json",
+          "type": "File",
+          "artifact": {
+            "size": 70,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/adorablehamsterpets/links.cache.json",
+            "MD5": "1f77948bcf8b11b0b270a3105606f8a8",
+            "path": "configureddefaults/config/adorablehamsterpets/links.cache.json"
+          }
+        },
+        {
+          "id": "main.toml",
+          "name": "main.toml",
+          "type": "File",
+          "artifact": {
+            "size": 34168,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/adorablehamsterpets/main.toml",
+            "MD5": "31b6015c85ffef8fb6aa71103ee14875",
+            "path": "configureddefaults/config/adorablehamsterpets/main.toml"
+          }
+        },
+        {
+          "id": "manifest.cache.json",
+          "name": "manifest.cache.json",
+          "type": "File",
+          "artifact": {
+            "size": 2356,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/adorablehamsterpets/manifest.cache.json",
+            "MD5": "530b15de1185d0e6ab0c131fe7031b4a",
+            "path": "configureddefaults/config/adorablehamsterpets/manifest.cache.json"
+          }
+        },
+        {
+          "id": "perks.cache.json",
+          "name": "perks.cache.json",
+          "type": "File",
+          "artifact": {
+            "size": 165,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/adorablehamsterpets/perks.cache.json",
+            "MD5": "f137539e6b251da73384cf821789cc9d",
+            "path": "configureddefaults/config/adorablehamsterpets/perks.cache.json"
+          }
+        },
+        {
+          "id": "root.toml",
+          "name": "root.toml",
+          "type": "File",
+          "artifact": {
+            "size": 70,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/adorablehamsterpets/root.toml",
+            "MD5": "4cc26bc760adc1871956f09eab6c81b1",
+            "path": "configureddefaults/config/adorablehamsterpets/root.toml"
+          }
+        },
+        {
+          "id": "supporter_perks.toml",
+          "name": "supporter_perks.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1727,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/adorablehamsterpets/supporter_perks.toml",
+            "MD5": "72e6475a51876cd57f2c0db6e6c16b68",
+            "path": "configureddefaults/config/adorablehamsterpets/supporter_perks.toml"
+          }
+        },
+        {
+          "id": "ui.toml",
+          "name": "ui.toml",
+          "type": "File",
+          "artifact": {
+            "size": 7200,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/adorablehamsterpets/ui.toml",
+            "MD5": "d5684a36926a48420100b32e95d365a4",
+            "path": "configureddefaults/config/adorablehamsterpets/ui.toml"
+          }
+        },
+        {
+          "id": "worldgen.toml",
+          "name": "worldgen.toml",
+          "type": "File",
+          "artifact": {
+            "size": 24890,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/adorablehamsterpets/worldgen.toml",
+            "MD5": "424d9c566934ba0843ba9a1d807bef2f",
+            "path": "configureddefaults/config/adorablehamsterpets/worldgen.toml"
           }
         },
         {
@@ -3674,17 +3688,6 @@
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/aeronautics-server.toml",
             "MD5": "f0a3af7930944b1388e7f06b705f66a3",
             "path": "configureddefaults/config/aeronautics-server.toml"
-          }
-        },
-        {
-          "id": "alltheleaks.json",
-          "name": "alltheleaks.json",
-          "type": "File",
-          "artifact": {
-            "size": 398,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/alltheleaks.json",
-            "MD5": "7b0347a81c24e4ddc5fb690749123529",
-            "path": "configureddefaults/config/alltheleaks.json"
           }
         },
         {
@@ -3703,9 +3706,9 @@
           "name": "armor_hud.json",
           "type": "File",
           "artifact": {
-            "size": 468,
+            "size": 467,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/armor_hud.json",
-            "MD5": "19c372c20c3e48fa678ae5e8a250db5c",
+            "MD5": "b8c9deb1b64ea7556938cdabf28646b1",
             "path": "configureddefaults/config/armor_hud.json"
           }
         },
@@ -3754,25 +3757,14 @@
           }
         },
         {
-          "id": "boostedbrightness.json",
-          "name": "boostedbrightness.json",
+          "id": "betteradvancements-client.toml",
+          "name": "betteradvancements-client.toml",
           "type": "File",
           "artifact": {
-            "size": 72,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/boostedbrightness.json",
-            "MD5": "54a526f44c6c20b17f23e285f5048299",
-            "path": "configureddefaults/config/boostedbrightness.json"
-          }
-        },
-        {
-          "id": "c2me.toml",
-          "name": "c2me.toml",
-          "type": "File",
-          "artifact": {
-            "size": 9528,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/c2me.toml",
-            "MD5": "444bc51ac8dc9917d189a0fa82527b78",
-            "path": "configureddefaults/config/c2me.toml"
+            "size": 939,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/betteradvancements-client.toml",
+            "MD5": "979a1410e1a64f66d9d118f33b5e2186",
+            "path": "configureddefaults/config/betteradvancements-client.toml"
           }
         },
         {
@@ -3802,9 +3794,9 @@
           "name": "chat_heads.json5",
           "type": "File",
           "artifact": {
-            "size": 230,
+            "size": 229,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/chat_heads.json5",
-            "MD5": "607b53c23fec269bb473f0832e9e623d",
+            "MD5": "582cc3f28157f02c5504e49bc7e4a9f2",
             "path": "configureddefaults/config/chat_heads.json5"
           }
         },
@@ -3820,36 +3812,58 @@
           }
         },
         {
-          "id": "colorfulhearts.toml",
-          "name": "colorfulhearts.toml",
+          "id": "comforts-common.toml",
+          "name": "comforts-common.toml",
           "type": "File",
           "artifact": {
-            "size": 1648,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/colorfulhearts.toml",
-            "MD5": "54dea79e53378b2bae77d6dec370cf3b",
-            "path": "configureddefaults/config/colorfulhearts.toml"
+            "size": 189,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/comforts-common.toml",
+            "MD5": "ad61bba10c45aa4855f588408751bfff",
+            "path": "configureddefaults/config/comforts-common.toml"
           }
         },
         {
-          "id": "client_config.json",
-          "name": "client_config.json",
+          "id": "comforts-server.toml",
+          "name": "comforts-server.toml",
           "type": "File",
           "artifact": {
-            "size": 20,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/com.yuushya/client_config.json",
-            "MD5": "5d9a5a048c724898c64bf0f6ae58b077",
-            "path": "configureddefaults/config/com.yuushya/client_config.json"
+            "size": 1852,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/comforts-server.toml",
+            "MD5": "0de435bc28556fe757795315abcba315",
+            "path": "configureddefaults/config/comforts-server.toml"
           }
         },
         {
-          "id": "controlify.json",
-          "name": "controlify.json",
+          "id": "copycats-client.toml",
+          "name": "copycats-client.toml",
           "type": "File",
           "artifact": {
-            "size": 581,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/controlify.json",
-            "MD5": "658871a4b6ce2423b9fc40bcdfc81c64",
-            "path": "configureddefaults/config/controlify.json"
+            "size": 340,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/copycats-client.toml",
+            "MD5": "7acb10458e9f27041f1f48c8c13ff868",
+            "path": "configureddefaults/config/copycats-client.toml"
+          }
+        },
+        {
+          "id": "copycats-common.toml",
+          "name": "copycats-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 2165,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/copycats-common.toml",
+            "MD5": "45f56b2190977024714b931827dc58d6",
+            "path": "configureddefaults/config/copycats-common.toml"
+          }
+        },
+        {
+          "id": "copycats-server.toml",
+          "name": "copycats-server.toml",
+          "type": "File",
+          "artifact": {
+            "size": 363,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/copycats-server.toml",
+            "MD5": "d94bca0ada5588b27433f93470c8deeb",
+            "path": "configureddefaults/config/copycats-server.toml"
           }
         },
         {
@@ -3868,9 +3882,9 @@
           "name": "cpm.json",
           "type": "File",
           "artifact": {
-            "size": 389,
+            "size": 216,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/cpm.json",
-            "MD5": "95fb3a5e33725a80c7af0869d1fc9198",
+            "MD5": "3c851c55e28942a7314d35f8bfeab49e",
             "path": "configureddefaults/config/cpm.json"
           }
         },
@@ -3908,6 +3922,83 @@
           }
         },
         {
+          "id": "createcobblestone-common.toml",
+          "name": "createcobblestone-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 2150,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/createcobblestone-common.toml",
+            "MD5": "1c73aad63da00d5591fde5e31ea45125",
+            "path": "configureddefaults/config/createcobblestone-common.toml"
+          }
+        },
+        {
+          "id": "createdieselgenerators-client.toml",
+          "name": "createdieselgenerators-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 243,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/createdieselgenerators-client.toml",
+            "MD5": "b22fb409adca86271420c2ab4fb5a1b8",
+            "path": "configureddefaults/config/createdieselgenerators-client.toml"
+          }
+        },
+        {
+          "id": "createdieselgenerators-common.toml",
+          "name": "createdieselgenerators-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 407,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/createdieselgenerators-common.toml",
+            "MD5": "395ac1789cf62ac53317eee412422c37",
+            "path": "configureddefaults/config/createdieselgenerators-common.toml"
+          }
+        },
+        {
+          "id": "createdieselgenerators-server.toml",
+          "name": "createdieselgenerators-server.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1540,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/createdieselgenerators-server.toml",
+            "MD5": "9cb0fba6f65f06bd79d60a7c96bd974e",
+            "path": "configureddefaults/config/createdieselgenerators-server.toml"
+          }
+        },
+        {
+          "id": "createnuclear-common.toml",
+          "name": "createnuclear-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1071,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/createnuclear-common.toml",
+            "MD5": "66612b47097dfa8516490dc3567477d3",
+            "path": "configureddefaults/config/createnuclear-common.toml"
+          }
+        },
+        {
+          "id": "createpropulsion-client.toml",
+          "name": "createpropulsion-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 352,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/createpropulsion-client.toml",
+            "MD5": "9d4c09609dd0ab83fa7874295673aedb",
+            "path": "configureddefaults/config/createpropulsion-client.toml"
+          }
+        },
+        {
+          "id": "createpropulsion-common.toml",
+          "name": "createpropulsion-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 16380,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/createpropulsion-common.toml",
+            "MD5": "1170b42873c51232e5cb8058ec2e1e15",
+            "path": "configureddefaults/config/createpropulsion-common.toml"
+          }
+        },
+        {
           "id": "create_connected-common.toml",
           "name": "create_connected-common.toml",
           "type": "File",
@@ -3930,58 +4021,91 @@
           }
         },
         {
-          "id": "create_marketplace-client.toml",
-          "name": "create_marketplace-client.toml",
+          "id": "create_dragons_plus-client.toml",
+          "name": "create_dragons_plus-client.toml",
           "type": "File",
           "artifact": {
-            "size": 601,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/create_marketplace-client.toml",
-            "MD5": "23d9704db9c15830b3a0b608d055f213",
-            "path": "configureddefaults/config/create_marketplace-client.toml"
+            "size": 302,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/create_dragons_plus-client.toml",
+            "MD5": "6b8fbe36f26b016cc951f65ec5874b8f",
+            "path": "configureddefaults/config/create_dragons_plus-client.toml"
           }
         },
         {
-          "id": "create_marketplace-common.toml",
-          "name": "create_marketplace-common.toml",
+          "id": "create_dragons_plus-common.toml",
+          "name": "create_dragons_plus-common.toml",
           "type": "File",
           "artifact": {
-            "size": 737,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/create_marketplace-common.toml",
-            "MD5": "116a661f58a9759706bc92eaeeafacd0",
-            "path": "configureddefaults/config/create_marketplace-common.toml"
+            "size": 1851,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/create_dragons_plus-common.toml",
+            "MD5": "0fcfd576d7bd65cce0fe0bdca64f3646",
+            "path": "configureddefaults/config/create_dragons_plus-common.toml"
           }
         },
         {
-          "id": "create_submarine-common.toml",
-          "name": "create_submarine-common.toml",
+          "id": "create_dragons_plus-server.toml",
+          "name": "create_dragons_plus-server.toml",
           "type": "File",
           "artifact": {
-            "size": 3765,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/create_submarine-common.toml",
-            "MD5": "a53a16c18723657a945cec3985a72c96",
-            "path": "configureddefaults/config/create_submarine-common.toml"
+            "size": 1040,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/create_dragons_plus-server.toml",
+            "MD5": "1cf4d5d8bea2956699fbf52f0096cd5c",
+            "path": "configureddefaults/config/create_dragons_plus-server.toml"
           }
         },
         {
-          "id": "create_submarine_client_state.json",
-          "name": "create_submarine_client_state.json",
+          "id": "create_dragons_plus-simulated-extension-server.toml",
+          "name": "create_dragons_plus-simulated-extension-server.toml",
           "type": "File",
           "artifact": {
-            "size": 97,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/create_submarine_client_state.json",
-            "MD5": "08607965efaa3c45aadbf6c56208b793",
-            "path": "configureddefaults/config/create_submarine_client_state.json"
+            "size": 3078,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/create_dragons_plus-simulated-extension-server.toml",
+            "MD5": "47478c65da6f07f976e0b0d5aa1539ec",
+            "path": "configureddefaults/config/create_dragons_plus-simulated-extension-server.toml"
           }
         },
         {
-          "id": "cullleaves.json",
-          "name": "cullleaves.json",
+          "id": "create_enchantment_industry-client.toml",
+          "name": "create_enchantment_industry-client.toml",
           "type": "File",
           "artifact": {
-            "size": 42,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/cullleaves.json",
-            "MD5": "727604a10633c683eb5b0b24985f2db2",
-            "path": "configureddefaults/config/cullleaves.json"
+            "size": 155,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/create_enchantment_industry-client.toml",
+            "MD5": "3efa450d7f86b5804b2d90d311487e78",
+            "path": "configureddefaults/config/create_enchantment_industry-client.toml"
+          }
+        },
+        {
+          "id": "create_enchantment_industry-common.toml",
+          "name": "create_enchantment_industry-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 399,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/create_enchantment_industry-common.toml",
+            "MD5": "adcadc943af56e33a844134107f42df4",
+            "path": "configureddefaults/config/create_enchantment_industry-common.toml"
+          }
+        },
+        {
+          "id": "create_enchantment_industry-server.toml",
+          "name": "create_enchantment_industry-server.toml",
+          "type": "File",
+          "artifact": {
+            "size": 7151,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/create_enchantment_industry-server.toml",
+            "MD5": "db0ceec8457213fb26ccc00e4ea0e507",
+            "path": "configureddefaults/config/create_enchantment_industry-server.toml"
+          }
+        },
+        {
+          "id": "create_power_loader-server.toml",
+          "name": "create_power_loader-server.toml",
+          "type": "File",
+          "artifact": {
+            "size": 3107,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/create_power_loader-server.toml",
+            "MD5": "382abe97482c0fc4d5a78e60c7ab53de",
+            "path": "configureddefaults/config/create_power_loader-server.toml"
           }
         },
         {
@@ -4018,25 +4142,36 @@
           }
         },
         {
-          "id": "decocraft-common.toml",
-          "name": "decocraft-common.toml",
+          "id": "dragonlib-common.toml",
+          "name": "dragonlib-common.toml",
           "type": "File",
           "artifact": {
-            "size": 330,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/decocraft-common.toml",
-            "MD5": "f00907c3f3c80427d908902542b4dee4",
-            "path": "configureddefaults/config/decocraft-common.toml"
+            "size": 3104,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/dragonlib-common.toml",
+            "MD5": "71ad4992b2481bd17710603f509bb45f",
+            "path": "configureddefaults/config/dragonlib-common.toml"
           }
         },
         {
-          "id": "deeperdarker-common.toml",
-          "name": "deeperdarker-common.toml",
+          "id": "dragonlib-server.toml",
+          "name": "dragonlib-server.toml",
           "type": "File",
           "artifact": {
-            "size": 854,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/deeperdarker-common.toml",
-            "MD5": "045ac2ab78f7c66505f4b60e22073998",
-            "path": "configureddefaults/config/deeperdarker-common.toml"
+            "size": 1036,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/dragonlib-server.toml",
+            "MD5": "b47b0e20b596a16d4f516bceaf922a75",
+            "path": "configureddefaults/config/dragonlib-server.toml"
+          }
+        },
+        {
+          "id": "dynamic_fps.json",
+          "name": "dynamic_fps.json",
+          "type": "File",
+          "artifact": {
+            "size": 3,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/dynamic_fps.json",
+            "MD5": "8a80554c91d9fca8acb82f023de02f11",
+            "path": "configureddefaults/config/dynamic_fps.json"
           }
         },
         {
@@ -4044,9 +4179,9 @@
           "name": "emotecraft.json",
           "type": "File",
           "artifact": {
-            "size": 942,
+            "size": 668,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/emotecraft.json",
-            "MD5": "cd54d3a9869894eda4686c1568682712",
+            "MD5": "d592804655b892e45c4a074da25fcd5a",
             "path": "configureddefaults/config/emotecraft.json"
           }
         },
@@ -4059,17 +4194,6 @@
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/emotecraft_emote_map.json",
             "MD5": "fdcffe9e7eaa4949ee1d33d613a7c2eb",
             "path": "configureddefaults/config/emotecraft_emote_map.json"
-          }
-        },
-        {
-          "id": "enhanced_bes.properties",
-          "name": "enhanced_bes.properties",
-          "type": "File",
-          "artifact": {
-            "size": 512,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/enhanced_bes.properties",
-            "MD5": "fb357622dad79377e4828c1186fa559f",
-            "path": "configureddefaults/config/enhanced_bes.properties"
           }
         },
         {
@@ -4106,28 +4230,6 @@
           }
         },
         {
-          "id": "config.json",
-          "name": "config.json",
-          "type": "File",
-          "artifact": {
-            "size": 28,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/essential-mod-partner/config.json",
-            "MD5": "845936bf3faee04970d11535a80bf3aa",
-            "path": "configureddefaults/config/essential-mod-partner/config.json"
-          }
-        },
-        {
-          "id": "data.cache.json",
-          "name": "data.cache.json",
-          "type": "File",
-          "artifact": {
-            "size": 17775,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/essential-mod-partner/data.cache.json",
-            "MD5": "3ef0486adc7e460e0df23303ae7bca86",
-            "path": "configureddefaults/config/essential-mod-partner/data.cache.json"
-          }
-        },
-        {
           "id": "etf_warnings.json",
           "name": "etf_warnings.json",
           "type": "File",
@@ -4139,24 +4241,13 @@
           }
         },
         {
-          "id": "indigo-renderer.properties",
-          "name": "indigo-renderer.properties",
-          "type": "File",
-          "artifact": {
-            "size": 290,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/fabric/indigo-renderer.properties",
-            "MD5": "2e5a3126d66f5af50a80cbb5325fa765",
-            "path": "configureddefaults/config/fabric/indigo-renderer.properties"
-          }
-        },
-        {
           "id": "customizablemenus.txt",
           "name": "customizablemenus.txt",
           "type": "File",
           "artifact": {
-            "size": 136,
+            "size": 135,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/fancymenu/customizablemenus.txt",
-            "MD5": "e7e122cfaae47af63de2ce13c3ad084d",
+            "MD5": "17107860a5701685c0ba36cffbc111de",
             "path": "configureddefaults/config/fancymenu/customizablemenus.txt"
           }
         },
@@ -4165,9 +4256,9 @@
           "name": "options_screen_layout.txt",
           "type": "File",
           "artifact": {
-            "size": 49636,
+            "size": 49740,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/fancymenu/customization/options_screen_layout.txt",
-            "MD5": "4ecb02681a19315dfd4d8c5ee2d1c03c",
+            "MD5": "27e003e814c93e71c92428ec4dbbdfce",
             "path": "configureddefaults/config/fancymenu/customization/options_screen_layout.txt"
           }
         },
@@ -4178,7 +4269,7 @@
           "artifact": {
             "size": 55200,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/fancymenu/customization/title_screen_layout.txt",
-            "MD5": "3dda866945dd4e902aa86426ed4f3abe",
+            "MD5": "cfd3802642dc5d88c86f60b8ac24bfe5",
             "path": "configureddefaults/config/fancymenu/customization/title_screen_layout.txt"
           }
         },
@@ -4220,9 +4311,9 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 4399,
+            "size": 4398,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/fancymenu/options.txt",
-            "MD5": "bbf58ab289630a4c3f1d54f35be42baa",
+            "MD5": "21540080cc1853fc45e858015624434a",
             "path": "configureddefaults/config/fancymenu/options.txt"
           }
         },
@@ -4359,6 +4450,17 @@
           }
         },
         {
+          "id": "fastsuite.cfg",
+          "name": "fastsuite.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 918,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/fastsuite.cfg",
+            "MD5": "12608768c3b5368c23c88ab2b8b0d6cd",
+            "path": "configureddefaults/config/fastsuite.cfg"
+          }
+        },
+        {
           "id": "ferritecore-mixin.toml",
           "name": "ferritecore-mixin.toml",
           "type": "File",
@@ -4367,17 +4469,6 @@
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/ferritecore-mixin.toml",
             "MD5": "1273149165ad75919e7f3234a993d101",
             "path": "configureddefaults/config/ferritecore-mixin.toml"
-          }
-        },
-        {
-          "id": "figura.json",
-          "name": "figura.json",
-          "type": "File",
-          "artifact": {
-            "size": 166,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/figura.json",
-            "MD5": "e8312897df581f3e270c1092c85b7206",
-            "path": "configureddefaults/config/figura.json"
           }
         },
         {
@@ -4400,17 +4491,6 @@
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/fml.toml",
             "MD5": "61a62e6a2b5b00f324065233e76b9a64",
             "path": "configureddefaults/config/fml.toml"
-          }
-        },
-        {
-          "id": "laststate.txt",
-          "name": "laststate.txt",
-          "type": "File",
-          "artifact": {
-            "size": 12,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/fullbrightnesstoggle/laststate.txt",
-            "MD5": "93fc3faf9beaebf554565b50e744e025",
-            "path": "configureddefaults/config/fullbrightnesstoggle/laststate.txt"
           }
         },
         {
@@ -4447,25 +4527,14 @@
           }
         },
         {
-          "id": "immediatelyfast.json",
-          "name": "immediatelyfast.json",
+          "id": "immersive_melodies.json",
+          "name": "immersive_melodies.json",
           "type": "File",
           "artifact": {
-            "size": 1114,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/immediatelyfast.json",
-            "MD5": "8c5364d78b0f6f9c1461f88ca38e8d84",
-            "path": "configureddefaults/config/immediatelyfast.json"
-          }
-        },
-        {
-          "id": "immersivelanterns-client.toml",
-          "name": "immersivelanterns-client.toml",
-          "type": "File",
-          "artifact": {
-            "size": 501,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/immersivelanterns-client.toml",
-            "MD5": "d86e41824cad917ce44b9ebe20b98a00",
-            "path": "configureddefaults/config/immersivelanterns-client.toml"
+            "size": 1161,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/immersive_melodies.json",
+            "MD5": "f1f53415843fb803668522d895aabcbb",
+            "path": "configureddefaults/config/immersive_melodies.json"
           }
         },
         {
@@ -4495,9 +4564,9 @@
           "name": "unrecognized.json",
           "type": "File",
           "artifact": {
-            "size": 3247,
+            "size": 446,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/invmove/unrecognized.json",
-            "MD5": "0b0e8869339d0be53a6f93b8567f981b",
+            "MD5": "701feb52ca2a1e68ff4370f77d3bf632",
             "path": "configureddefaults/config/invmove/unrecognized.json"
           }
         },
@@ -4517,9 +4586,9 @@
           "name": "invmove.json",
           "type": "File",
           "artifact": {
-            "size": 449,
+            "size": 578,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/invmove.json",
-            "MD5": "fe69d57296c02c07d25f1bc0686488ed",
+            "MD5": "6aeb6e07510365833714c7f83cfc0cd8",
             "path": "configureddefaults/config/invmove.json"
           }
         },
@@ -4550,9 +4619,9 @@
           "name": "jade.json",
           "type": "File",
           "artifact": {
-            "size": 1089,
+            "size": 1090,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/jade/jade.json",
-            "MD5": "ad37277172d44ee4f0b17d486850c163",
+            "MD5": "691911a7e996dd176ff27535fc277887",
             "path": "configureddefaults/config/jade/jade.json"
           }
         },
@@ -4561,9 +4630,9 @@
           "name": "plugins.json",
           "type": "File",
           "artifact": {
-            "size": 2401,
+            "size": 2590,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/jade/plugins.json",
-            "MD5": "7ea5c08cdd10a1cfd852a262f79342da",
+            "MD5": "10679f92db3ae5fd41066ae46dfce943",
             "path": "configureddefaults/config/jade/plugins.json"
           }
         },
@@ -4572,9 +4641,9 @@
           "name": "sort-order.json",
           "type": "File",
           "artifact": {
-            "size": 2347,
+            "size": 2564,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/jade/sort-order.json",
-            "MD5": "58e41a64730716a1e3f6880c1ee42d4f",
+            "MD5": "b94a7599583c42b2de89d847274315cb",
             "path": "configureddefaults/config/jade/sort-order.json"
           }
         },
@@ -4594,9 +4663,9 @@
           "name": "ingredient-list-mod-sort-order.ini",
           "type": "File",
           "artifact": {
-            "size": 405,
+            "size": 958,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/jei/ingredient-list-mod-sort-order.ini",
-            "MD5": "e391f7914e0a950311e9d5c1da8b7c3d",
+            "MD5": "ab0373df4f79985821691abf975b0606",
             "path": "configureddefaults/config/jei/ingredient-list-mod-sort-order.ini"
           }
         },
@@ -4660,32 +4729,10 @@
           "name": "recipe-category-sort-order.ini",
           "type": "File",
           "artifact": {
-            "size": 941,
+            "size": 1685,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/jei/recipe-category-sort-order.ini",
-            "MD5": "9fde3a8802cb9bce85a6266ff5ea9c20",
+            "MD5": "bc11b3a17faaa2d63c66440c2b0dcbc6",
             "path": "configureddefaults/config/jei/recipe-category-sort-order.ini"
-          }
-        },
-        {
-          "id": "bookmarks.json",
-          "name": "bookmarks.json",
-          "type": "File",
-          "artifact": {
-            "size": 19,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/jei/world/local/New%20World/bookmarks.json",
-            "MD5": "78f1a39821342258f73e542d9ea40e0f",
-            "path": "configureddefaults/config/jei/world/local/New World/bookmarks.json"
-          }
-        },
-        {
-          "id": "lookupHistory.json",
-          "name": "lookupHistory.json",
-          "type": "File",
-          "artifact": {
-            "size": 7785,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/jei/world/local/New%20World/lookupHistory.json",
-            "MD5": "75f6f9b83ed79379ec51122d0a1ee6ac",
-            "path": "configureddefaults/config/jei/world/local/New World/lookupHistory.json"
           }
         },
         {
@@ -4700,14 +4747,14 @@
           }
         },
         {
-          "id": "journeymap-server.toml",
-          "name": "journeymap-server.toml",
+          "id": "jeresources-common.toml",
+          "name": "jeresources-common.toml",
           "type": "File",
           "artifact": {
-            "size": 550,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/journeymap-server.toml",
-            "MD5": "84dcc81ca8a4926e479104038e7184ba",
-            "path": "configureddefaults/config/journeymap-server.toml"
+            "size": 264,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/jeresources-common.toml",
+            "MD5": "b9e7cfc6f1bec5049721e897bfb7acca",
+            "path": "configureddefaults/config/jeresources-common.toml"
           }
         },
         {
@@ -4766,39 +4813,6 @@
           }
         },
         {
-          "id": "lambdynlights.toml",
-          "name": "lambdynlights.toml",
-          "type": "File",
-          "artifact": {
-            "size": 1448,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/lambdynlights.toml",
-            "MD5": "ea1917df0f1c3fd26e782f0d9f5a63cc",
-            "path": "configureddefaults/config/lambdynlights.toml"
-          }
-        },
-        {
-          "id": "lithium.properties",
-          "name": "lithium.properties",
-          "type": "File",
-          "artifact": {
-            "size": 430,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/lithium.properties",
-            "MD5": "422e0797eef9c35fe7d8ecea0ac3f567",
-            "path": "configureddefaults/config/lithium.properties"
-          }
-        },
-        {
-          "id": "mapsyncer-client.toml",
-          "name": "mapsyncer-client.toml",
-          "type": "File",
-          "artifact": {
-            "size": 857,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/mapsyncer-client.toml",
-            "MD5": "8145df7362b4fa91a7277bf96f381680",
-            "path": "configureddefaults/config/mapsyncer-client.toml"
-          }
-        },
-        {
           "id": "midnightlib.json",
           "name": "midnightlib.json",
           "type": "File",
@@ -4807,28 +4821,6 @@
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/midnightlib.json",
             "MD5": "5d33d36208b50f3a0951695c2e806d98",
             "path": "configureddefaults/config/midnightlib.json"
-          }
-        },
-        {
-          "id": "modernfix-common.toml",
-          "name": "modernfix-common.toml",
-          "type": "File",
-          "artifact": {
-            "size": 105,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/modernfix-common.toml",
-            "MD5": "40e1cfe891a1355f22e5c07591f8943e",
-            "path": "configureddefaults/config/modernfix-common.toml"
-          }
-        },
-        {
-          "id": "modernfix-mixins.properties",
-          "name": "modernfix-mixins.properties",
-          "type": "File",
-          "artifact": {
-            "size": 5443,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/modernfix-mixins.properties",
-            "MD5": "a351e14cf815e98052ef0058037238e4",
-            "path": "configureddefaults/config/modernfix-mixins.properties"
           }
         },
         {
@@ -4869,10 +4861,21 @@
           "name": "moreculling.toml",
           "type": "File",
           "artifact": {
-            "size": 536,
+            "size": 540,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/moreculling.toml",
-            "MD5": "7e6eba2168d3bbc5a90318489743cf93",
+            "MD5": "f8beb616c4a3a52cbab5827b0df5e67e",
             "path": "configureddefaults/config/moreculling.toml"
+          }
+        },
+        {
+          "id": "more_armor_trims-common.toml",
+          "name": "more_armor_trims-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 330,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/more_armor_trims-common.toml",
+            "MD5": "f00907c3f3c80427d908902542b4dee4",
+            "path": "configureddefaults/config/more_armor_trims-common.toml"
           }
         },
         {
@@ -4884,17 +4887,6 @@
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/MouseTweaks.cfg",
             "MD5": "ff577ca09e989c07c056c7cdff465be3",
             "path": "configureddefaults/config/MouseTweaks.cfg"
-          }
-        },
-        {
-          "id": "naturalwaters-client.toml",
-          "name": "naturalwaters-client.toml",
-          "type": "File",
-          "artifact": {
-            "size": 487,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/naturalwaters-client.toml",
-            "MD5": "c319915fc83ec7f6d9ca12f1c02a99f4",
-            "path": "configureddefaults/config/naturalwaters-client.toml"
           }
         },
         {
@@ -4931,14 +4923,14 @@
           }
         },
         {
-          "id": "netmusic-common.toml",
-          "name": "netmusic-common.toml",
+          "id": "nowheel.json",
+          "name": "nowheel.json",
           "type": "File",
           "artifact": {
-            "size": 1511,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/netmusic-common.toml",
-            "MD5": "7a9fe205828a2c0b1b6f2da02b40751a",
-            "path": "configureddefaults/config/netmusic-common.toml"
+            "size": 36,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/nowheel.json",
+            "MD5": "a41e9dc296e2def137a00ff8ad3805b1",
+            "path": "configureddefaults/config/nowheel.json"
           }
         },
         {
@@ -4953,14 +4945,25 @@
           }
         },
         {
-          "id": "ore-creeper-common.json",
-          "name": "ore-creeper-common.json",
+          "id": "particlestorm-common.toml",
+          "name": "particlestorm-common.toml",
           "type": "File",
           "artifact": {
-            "size": 1003,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/ore-creeper-common.json",
-            "MD5": "413c101752cf930695ea7bcfac8c1364",
-            "path": "configureddefaults/config/ore-creeper-common.json"
+            "size": 27,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/particlestorm-common.toml",
+            "MD5": "cd6679593d085ea6314de82b690b768d",
+            "path": "configureddefaults/config/particlestorm-common.toml"
+          }
+        },
+        {
+          "id": "patchouli-client.toml",
+          "name": "patchouli-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1089,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/patchouli-client.toml",
+            "MD5": "096d15a4d3d4a87d58076883a3ac17aa",
+            "path": "configureddefaults/config/patchouli-client.toml"
           }
         },
         {
@@ -4997,586 +5000,25 @@
           }
         },
         {
-          "id": "de_de.json",
-          "name": "de_de.json",
+          "id": "pixelrushcontent-common.toml",
+          "name": "pixelrushcontent-common.toml",
           "type": "File",
           "artifact": {
-            "size": 8510,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/.crowdin/de_de.json",
-            "MD5": "cb8838ceada0cc1ac72d33c3359eb883",
-            "path": "configureddefaults/config/plasmovoice/.crowdin/de_de.json"
+            "size": 330,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/pixelrushcontent-common.toml",
+            "MD5": "f00907c3f3c80427d908902542b4dee4",
+            "path": "configureddefaults/config/pixelrushcontent-common.toml"
           }
         },
         {
-          "id": "es_es.json",
-          "name": "es_es.json",
+          "id": "placebo.cfg",
+          "name": "placebo.cfg",
           "type": "File",
           "artifact": {
-            "size": 9115,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/.crowdin/es_es.json",
-            "MD5": "ebe33e9b2d8f8f2d4519edb2e4394e40",
-            "path": "configureddefaults/config/plasmovoice/.crowdin/es_es.json"
-          }
-        },
-        {
-          "id": "fr_fr.json",
-          "name": "fr_fr.json",
-          "type": "File",
-          "artifact": {
-            "size": 9154,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/.crowdin/fr_fr.json",
-            "MD5": "f3a517b45d6920f327020408fd9751fd",
-            "path": "configureddefaults/config/plasmovoice/.crowdin/fr_fr.json"
-          }
-        },
-        {
-          "id": "he_il.json",
-          "name": "he_il.json",
-          "type": "File",
-          "artifact": {
-            "size": 9290,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/.crowdin/he_il.json",
-            "MD5": "2f2e21189a6f11d39a33b7b66a111b5c",
-            "path": "configureddefaults/config/plasmovoice/.crowdin/he_il.json"
-          }
-        },
-        {
-          "id": "ja_jp.json",
-          "name": "ja_jp.json",
-          "type": "File",
-          "artifact": {
-            "size": 9467,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/.crowdin/ja_jp.json",
-            "MD5": "5ccf0895426e7fca281ca28d13dccc31",
-            "path": "configureddefaults/config/plasmovoice/.crowdin/ja_jp.json"
-          }
-        },
-        {
-          "id": "ko_kr.json",
-          "name": "ko_kr.json",
-          "type": "File",
-          "artifact": {
-            "size": 9208,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/.crowdin/ko_kr.json",
-            "MD5": "ab87eb710206cd3eef9e1ba03f88bd57",
-            "path": "configureddefaults/config/plasmovoice/.crowdin/ko_kr.json"
-          }
-        },
-        {
-          "id": "pl_pl.json",
-          "name": "pl_pl.json",
-          "type": "File",
-          "artifact": {
-            "size": 8890,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/.crowdin/pl_pl.json",
-            "MD5": "6a09569fa006d3f01bc00333838df100",
-            "path": "configureddefaults/config/plasmovoice/.crowdin/pl_pl.json"
-          }
-        },
-        {
-          "id": "pt_br.json",
-          "name": "pt_br.json",
-          "type": "File",
-          "artifact": {
-            "size": 9046,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/.crowdin/pt_br.json",
-            "MD5": "97bd0d3f6c281f960cf448c4346563fc",
-            "path": "configureddefaults/config/plasmovoice/.crowdin/pt_br.json"
-          }
-        },
-        {
-          "id": "ru_ru.json",
-          "name": "ru_ru.json",
-          "type": "File",
-          "artifact": {
-            "size": 11446,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/.crowdin/ru_ru.json",
-            "MD5": "9c3a8c7dc0eb3a6640847988b139fb00",
-            "path": "configureddefaults/config/plasmovoice/.crowdin/ru_ru.json"
-          }
-        },
-        {
-          "id": "timestamp",
-          "name": "timestamp",
-          "type": "File",
-          "artifact": {
-            "size": 13,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/.crowdin/timestamp",
-            "MD5": "6594a5cb8d10d8cc59e777c664993e5e",
-            "path": "configureddefaults/config/plasmovoice/.crowdin/timestamp"
-          }
-        },
-        {
-          "id": "tr_tr.json",
-          "name": "tr_tr.json",
-          "type": "File",
-          "artifact": {
-            "size": 1545,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/.crowdin/tr_tr.json",
-            "MD5": "9eb2a3be47503ed7b7065e4c3f2413bc",
-            "path": "configureddefaults/config/plasmovoice/.crowdin/tr_tr.json"
-          }
-        },
-        {
-          "id": "tt_ru.json",
-          "name": "tt_ru.json",
-          "type": "File",
-          "artifact": {
-            "size": 11312,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/.crowdin/tt_ru.json",
-            "MD5": "6f8f48b6ce5ec3b6f8ea9cf34a3d5dc4",
-            "path": "configureddefaults/config/plasmovoice/.crowdin/tt_ru.json"
-          }
-        },
-        {
-          "id": "uk_ua.json",
-          "name": "uk_ua.json",
-          "type": "File",
-          "artifact": {
-            "size": 10828,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/.crowdin/uk_ua.json",
-            "MD5": "a68060377351fcfdbf5c0af87330e6c7",
-            "path": "configureddefaults/config/plasmovoice/.crowdin/uk_ua.json"
-          }
-        },
-        {
-          "id": "vi_vn.json",
-          "name": "vi_vn.json",
-          "type": "File",
-          "artifact": {
-            "size": 10102,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/.crowdin/vi_vn.json",
-            "MD5": "0458e0a83010b7648fec3488e7dd2341",
-            "path": "configureddefaults/config/plasmovoice/.crowdin/vi_vn.json"
-          }
-        },
-        {
-          "id": "zh_cn.json",
-          "name": "zh_cn.json",
-          "type": "File",
-          "artifact": {
-            "size": 8123,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/.crowdin/zh_cn.json",
-            "MD5": "6a385d12b888457adee2b62acc8e9aa6",
-            "path": "configureddefaults/config/plasmovoice/.crowdin/zh_cn.json"
-          }
-        },
-        {
-          "id": "zh_tw.json",
-          "name": "zh_tw.json",
-          "type": "File",
-          "artifact": {
-            "size": 8119,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/.crowdin/zh_tw.json",
-            "MD5": "5afb2f116f79813891221626cbdeb096",
-            "path": "configureddefaults/config/plasmovoice/.crowdin/zh_tw.json"
-          }
-        },
-        {
-          "id": "client.toml",
-          "name": "client.toml",
-          "type": "File",
-          "artifact": {
-            "size": 1925,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/client.toml",
-            "MD5": "7ba6c2525d2fd33c195513de34d377cb",
-            "path": "configureddefaults/config/plasmovoice/client.toml"
-          }
-        },
-        {
-          "id": "meta_cache.json",
-          "name": "meta_cache.json",
-          "type": "File",
-          "artifact": {
-            "size": 1309,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/meta_cache.json",
-            "MD5": "fe201683e26b4d094be118e817f1a50e",
-            "path": "configureddefaults/config/plasmovoice/meta_cache.json"
-          }
-        },
-        {
-          "id": "autosave.properties",
-          "name": "autosave.properties",
-          "type": "File",
-          "artifact": {
-            "size": 447,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/pv-voice-changer-presets/autosave.properties",
-            "MD5": "29e82b322b3bb88296b6f0edfb9f0c07",
-            "path": "configureddefaults/config/plasmovoice/pv-voice-changer-presets/autosave.properties"
-          }
-        },
-        {
-          "id": "config.toml",
-          "name": "config.toml",
-          "type": "File",
-          "artifact": {
-            "size": 3605,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/server/config.toml",
-            "MD5": "a6f29fb16c151b2dd21f9d7287190a99",
-            "path": "configureddefaults/config/plasmovoice/server/config.toml"
-          }
-        },
-        {
-          "id": "de_de.toml",
-          "name": "de_de.toml",
-          "type": "File",
-          "artifact": {
-            "size": 2187,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/server/languages/.crowdin/de_de.toml",
-            "MD5": "2089abe483e394b6bca56e9d5e678356",
-            "path": "configureddefaults/config/plasmovoice/server/languages/.crowdin/de_de.toml"
-          }
-        },
-        {
-          "id": "es_es.toml",
-          "name": "es_es.toml",
-          "type": "File",
-          "artifact": {
-            "size": 2123,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/server/languages/.crowdin/es_es.toml",
-            "MD5": "a460aa40e6caf8f608d5d9eef37a352d",
-            "path": "configureddefaults/config/plasmovoice/server/languages/.crowdin/es_es.toml"
-          }
-        },
-        {
-          "id": "fr_fr.toml",
-          "name": "fr_fr.toml",
-          "type": "File",
-          "artifact": {
-            "size": 2099,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/server/languages/.crowdin/fr_fr.toml",
-            "MD5": "740fdb640a023b211ed687635401a9d1",
-            "path": "configureddefaults/config/plasmovoice/server/languages/.crowdin/fr_fr.toml"
-          }
-        },
-        {
-          "id": "he_il.toml",
-          "name": "he_il.toml",
-          "type": "File",
-          "artifact": {
-            "size": 2228,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/server/languages/.crowdin/he_il.toml",
-            "MD5": "f9dea392bcf8b6e753a27df4f992423b",
-            "path": "configureddefaults/config/plasmovoice/server/languages/.crowdin/he_il.toml"
-          }
-        },
-        {
-          "id": "ja_jp.toml",
-          "name": "ja_jp.toml",
-          "type": "File",
-          "artifact": {
-            "size": 2508,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/server/languages/.crowdin/ja_jp.toml",
-            "MD5": "f0eee7a99ea6c2d643c8140c19454a8a",
-            "path": "configureddefaults/config/plasmovoice/server/languages/.crowdin/ja_jp.toml"
-          }
-        },
-        {
-          "id": "ko_kr.toml",
-          "name": "ko_kr.toml",
-          "type": "File",
-          "artifact": {
-            "size": 2356,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/server/languages/.crowdin/ko_kr.toml",
-            "MD5": "0ebaa356e476ef191aea62286e6f6201",
-            "path": "configureddefaults/config/plasmovoice/server/languages/.crowdin/ko_kr.toml"
-          }
-        },
-        {
-          "id": "pl_pl.toml",
-          "name": "pl_pl.toml",
-          "type": "File",
-          "artifact": {
-            "size": 2040,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/server/languages/.crowdin/pl_pl.toml",
-            "MD5": "878c8082d74bf35b7a90e09bdeb2e77c",
-            "path": "configureddefaults/config/plasmovoice/server/languages/.crowdin/pl_pl.toml"
-          }
-        },
-        {
-          "id": "pt_br.toml",
-          "name": "pt_br.toml",
-          "type": "File",
-          "artifact": {
-            "size": 2035,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/server/languages/.crowdin/pt_br.toml",
-            "MD5": "5bce271883e6122226e028673426ef48",
-            "path": "configureddefaults/config/plasmovoice/server/languages/.crowdin/pt_br.toml"
-          }
-        },
-        {
-          "id": "ru_ru.toml",
-          "name": "ru_ru.toml",
-          "type": "File",
-          "artifact": {
-            "size": 2531,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/server/languages/.crowdin/ru_ru.toml",
-            "MD5": "c7f9382eefb0b7eaa0019e53ca59a1d8",
-            "path": "configureddefaults/config/plasmovoice/server/languages/.crowdin/ru_ru.toml"
-          }
-        },
-        {
-          "id": "timestamp",
-          "name": "timestamp",
-          "type": "File",
-          "artifact": {
-            "size": 13,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/server/languages/.crowdin/timestamp",
-            "MD5": "114119bd3abc87089facbf92518fe1a1",
-            "path": "configureddefaults/config/plasmovoice/server/languages/.crowdin/timestamp"
-          }
-        },
-        {
-          "id": "tr_tr.toml",
-          "name": "tr_tr.toml",
-          "type": "File",
-          "artifact": {
-            "size": 2125,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/server/languages/.crowdin/tr_tr.toml",
-            "MD5": "16bda59435bd4feebc8d3a49468aa5cf",
-            "path": "configureddefaults/config/plasmovoice/server/languages/.crowdin/tr_tr.toml"
-          }
-        },
-        {
-          "id": "tt_ru.toml",
-          "name": "tt_ru.toml",
-          "type": "File",
-          "artifact": {
-            "size": 2913,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/server/languages/.crowdin/tt_ru.toml",
-            "MD5": "f5d14860658cf0751277709266047a8c",
-            "path": "configureddefaults/config/plasmovoice/server/languages/.crowdin/tt_ru.toml"
-          }
-        },
-        {
-          "id": "uk_ua.toml",
-          "name": "uk_ua.toml",
-          "type": "File",
-          "artifact": {
-            "size": 2730,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/server/languages/.crowdin/uk_ua.toml",
-            "MD5": "679c42fb12563dead83f7a0111ba6eb4",
-            "path": "configureddefaults/config/plasmovoice/server/languages/.crowdin/uk_ua.toml"
-          }
-        },
-        {
-          "id": "vi_vn.toml",
-          "name": "vi_vn.toml",
-          "type": "File",
-          "artifact": {
-            "size": 2258,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/server/languages/.crowdin/vi_vn.toml",
-            "MD5": "f660c598baaf3db5590a61f576bdc78c",
-            "path": "configureddefaults/config/plasmovoice/server/languages/.crowdin/vi_vn.toml"
-          }
-        },
-        {
-          "id": "zh_cn.toml",
-          "name": "zh_cn.toml",
-          "type": "File",
-          "artifact": {
-            "size": 1882,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/server/languages/.crowdin/zh_cn.toml",
-            "MD5": "74b40c78208fe6f358a346dd2adb76e8",
-            "path": "configureddefaults/config/plasmovoice/server/languages/.crowdin/zh_cn.toml"
-          }
-        },
-        {
-          "id": "zh_tw.toml",
-          "name": "zh_tw.toml",
-          "type": "File",
-          "artifact": {
-            "size": 1879,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/server/languages/.crowdin/zh_tw.toml",
-            "MD5": "6c4a2685db02eb56892a8440c075ce40",
-            "path": "configureddefaults/config/plasmovoice/server/languages/.crowdin/zh_tw.toml"
-          }
-        },
-        {
-          "id": "de_de.toml",
-          "name": "de_de.toml",
-          "type": "File",
-          "artifact": {
-            "size": 2175,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/server/languages/de_de.toml",
-            "MD5": "93a9d14a724a6502ac6e7fdca8d7b121",
-            "path": "configureddefaults/config/plasmovoice/server/languages/de_de.toml"
-          }
-        },
-        {
-          "id": "en_us.toml",
-          "name": "en_us.toml",
-          "type": "File",
-          "artifact": {
-            "size": 1892,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/server/languages/en_us.toml",
-            "MD5": "49ebe9ff33a62a4f28ec5b8b965ba2c9",
-            "path": "configureddefaults/config/plasmovoice/server/languages/en_us.toml"
-          }
-        },
-        {
-          "id": "es_es.toml",
-          "name": "es_es.toml",
-          "type": "File",
-          "artifact": {
-            "size": 2111,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/server/languages/es_es.toml",
-            "MD5": "285832ac1b88e96ce360eddf2b5fe8b3",
-            "path": "configureddefaults/config/plasmovoice/server/languages/es_es.toml"
-          }
-        },
-        {
-          "id": "fr_fr.toml",
-          "name": "fr_fr.toml",
-          "type": "File",
-          "artifact": {
-            "size": 2087,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/server/languages/fr_fr.toml",
-            "MD5": "ac96d5a885a08166603b8c4a872b8cfa",
-            "path": "configureddefaults/config/plasmovoice/server/languages/fr_fr.toml"
-          }
-        },
-        {
-          "id": "he_il.toml",
-          "name": "he_il.toml",
-          "type": "File",
-          "artifact": {
-            "size": 2216,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/server/languages/he_il.toml",
-            "MD5": "e0dd440bbd2b90aa0218ce09316ba0fa",
-            "path": "configureddefaults/config/plasmovoice/server/languages/he_il.toml"
-          }
-        },
-        {
-          "id": "ja_jp.toml",
-          "name": "ja_jp.toml",
-          "type": "File",
-          "artifact": {
-            "size": 2496,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/server/languages/ja_jp.toml",
-            "MD5": "0501901e5fd117eb8720be4f385a66a0",
-            "path": "configureddefaults/config/plasmovoice/server/languages/ja_jp.toml"
-          }
-        },
-        {
-          "id": "ko_kr.toml",
-          "name": "ko_kr.toml",
-          "type": "File",
-          "artifact": {
-            "size": 2344,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/server/languages/ko_kr.toml",
-            "MD5": "22ca682e2bacbdd62a664d52977218e6",
-            "path": "configureddefaults/config/plasmovoice/server/languages/ko_kr.toml"
-          }
-        },
-        {
-          "id": "pl_pl.toml",
-          "name": "pl_pl.toml",
-          "type": "File",
-          "artifact": {
-            "size": 2028,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/server/languages/pl_pl.toml",
-            "MD5": "65591e68a7501980c5c4270c096203ea",
-            "path": "configureddefaults/config/plasmovoice/server/languages/pl_pl.toml"
-          }
-        },
-        {
-          "id": "pt_br.toml",
-          "name": "pt_br.toml",
-          "type": "File",
-          "artifact": {
-            "size": 2023,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/server/languages/pt_br.toml",
-            "MD5": "f0f8d12c31b72c36c2b806fd47786f80",
-            "path": "configureddefaults/config/plasmovoice/server/languages/pt_br.toml"
-          }
-        },
-        {
-          "id": "ru_ru.toml",
-          "name": "ru_ru.toml",
-          "type": "File",
-          "artifact": {
-            "size": 2519,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/server/languages/ru_ru.toml",
-            "MD5": "1b3d72cf2e187d8bcd62fb8d49bd03a7",
-            "path": "configureddefaults/config/plasmovoice/server/languages/ru_ru.toml"
-          }
-        },
-        {
-          "id": "tr_tr.toml",
-          "name": "tr_tr.toml",
-          "type": "File",
-          "artifact": {
-            "size": 2113,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/server/languages/tr_tr.toml",
-            "MD5": "6ceddbbea665b817e3a02d64f4de7260",
-            "path": "configureddefaults/config/plasmovoice/server/languages/tr_tr.toml"
-          }
-        },
-        {
-          "id": "tt_ru.toml",
-          "name": "tt_ru.toml",
-          "type": "File",
-          "artifact": {
-            "size": 2901,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/server/languages/tt_ru.toml",
-            "MD5": "0b9b86cc64bb0b57427f61dfe53d436f",
-            "path": "configureddefaults/config/plasmovoice/server/languages/tt_ru.toml"
-          }
-        },
-        {
-          "id": "uk_ua.toml",
-          "name": "uk_ua.toml",
-          "type": "File",
-          "artifact": {
-            "size": 2718,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/server/languages/uk_ua.toml",
-            "MD5": "3460a9c5c46205ee2892e18b2f62a2bd",
-            "path": "configureddefaults/config/plasmovoice/server/languages/uk_ua.toml"
-          }
-        },
-        {
-          "id": "vi_vn.toml",
-          "name": "vi_vn.toml",
-          "type": "File",
-          "artifact": {
-            "size": 2246,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/server/languages/vi_vn.toml",
-            "MD5": "03f4051b5d781b0b17757019365392a8",
-            "path": "configureddefaults/config/plasmovoice/server/languages/vi_vn.toml"
-          }
-        },
-        {
-          "id": "zh_cn.toml",
-          "name": "zh_cn.toml",
-          "type": "File",
-          "artifact": {
-            "size": 1870,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/server/languages/zh_cn.toml",
-            "MD5": "3fdc475103740fa0974b9c006a78bd5d",
-            "path": "configureddefaults/config/plasmovoice/server/languages/zh_cn.toml"
-          }
-        },
-        {
-          "id": "zh_tw.toml",
-          "name": "zh_tw.toml",
-          "type": "File",
-          "artifact": {
-            "size": 1867,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/server/languages/zh_tw.toml",
-            "MD5": "d5f312dfe6d8ef936b807e736807d2f4",
-            "path": "configureddefaults/config/plasmovoice/server/languages/zh_tw.toml"
-          }
-        },
-        {
-          "id": "voice_mutes.json",
-          "name": "voice_mutes.json",
-          "type": "File",
-          "artifact": {
-            "size": 2,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/plasmovoice/server/voice_mutes.json",
-            "MD5": "99914b932bd37a50b983c5e7c90ae93b",
-            "path": "configureddefaults/config/plasmovoice/server/voice_mutes.json"
+            "size": 495,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/placebo.cfg",
+            "MD5": "4b7cc2ff78cad0c1c45e8ec87d96c6b5",
+            "path": "configureddefaults/config/placebo.cfg"
           }
         },
         {
@@ -5591,6 +5033,39 @@
           }
         },
         {
+          "id": "powergrid-client.toml",
+          "name": "powergrid-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 2409,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/powergrid-client.toml",
+            "MD5": "5ee22419e8339126a1163f3b596c0a62",
+            "path": "configureddefaults/config/powergrid-client.toml"
+          }
+        },
+        {
+          "id": "powergrid-common.toml",
+          "name": "powergrid-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 623,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/powergrid-common.toml",
+            "MD5": "b7def3431fee73cabbd19fe951bdd254",
+            "path": "configureddefaults/config/powergrid-common.toml"
+          }
+        },
+        {
+          "id": "powergrid-server.toml",
+          "name": "powergrid-server.toml",
+          "type": "File",
+          "artifact": {
+            "size": 20161,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/powergrid-server.toml",
+            "MD5": "862eb2da76f8153f7b3e6f1583eaff16",
+            "path": "configureddefaults/config/powergrid-server.toml"
+          }
+        },
+        {
           "id": "primity.json5",
           "name": "primity.json5",
           "type": "File",
@@ -5602,14 +5077,36 @@
           }
         },
         {
-          "id": "resourcepackoverrides.json",
-          "name": "resourcepackoverrides.json",
+          "id": "railways-client.toml",
+          "name": "railways-client.toml",
           "type": "File",
           "artifact": {
-            "size": 27,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/resourcepackoverrides.json",
-            "MD5": "7e6d76a8e555e1529d8213aed129b704",
-            "path": "configureddefaults/config/resourcepackoverrides.json"
+            "size": 2231,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/railways-client.toml",
+            "MD5": "0d9b8feae088f59e793124b34ff24cb0",
+            "path": "configureddefaults/config/railways-client.toml"
+          }
+        },
+        {
+          "id": "railways-common.toml",
+          "name": "railways-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 335,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/railways-common.toml",
+            "MD5": "710bc62e8307e21414009a6f3920d4ac",
+            "path": "configureddefaults/config/railways-common.toml"
+          }
+        },
+        {
+          "id": "railways-server.toml",
+          "name": "railways-server.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1841,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/railways-server.toml",
+            "MD5": "605a454d4174d65b4d2e71d798428c95",
+            "path": "configureddefaults/config/railways-server.toml"
           }
         },
         {
@@ -5635,25 +5132,14 @@
           }
         },
         {
-          "id": "sable-client-1.toml.bak",
-          "name": "sable-client-1.toml.bak",
+          "id": "ritchiesprojectilelib-server.toml",
+          "name": "ritchiesprojectilelib-server.toml",
           "type": "File",
           "artifact": {
-            "size": 924,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/sable-client-1.toml.bak",
-            "MD5": "814b8251d524b7a57bfc61d5c22f129d",
-            "path": "configureddefaults/config/sable-client-1.toml.bak"
-          }
-        },
-        {
-          "id": "sable-client-2.toml.bak",
-          "name": "sable-client-2.toml.bak",
-          "type": "File",
-          "artifact": {
-            "size": 946,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/sable-client-2.toml.bak",
-            "MD5": "bfaf1ec6904eb1d1f9f22ff4b64b54ed",
-            "path": "configureddefaults/config/sable-client-2.toml.bak"
+            "size": 710,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/ritchiesprojectilelib-server.toml",
+            "MD5": "a4112900a600a59579c28acd208c5b0c",
+            "path": "configureddefaults/config/ritchiesprojectilelib-server.toml"
           }
         },
         {
@@ -5679,17 +5165,6 @@
           }
         },
         {
-          "id": "scout.css",
-          "name": "scout.css",
-          "type": "File",
-          "artifact": {
-            "size": 238,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/scout.css",
-            "MD5": "3bddf1e28bd08555237ece4d388b4486",
-            "path": "configureddefaults/config/scout.css"
-          }
-        },
-        {
           "id": "securitycraft-client.toml",
           "name": "securitycraft-client.toml",
           "type": "File",
@@ -5705,43 +5180,10 @@
           "name": "securitycraft-server.toml",
           "type": "File",
           "artifact": {
-            "size": 8314,
+            "size": 8315,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/securitycraft-server.toml",
-            "MD5": "20728afc76acd6fa7cb3214713c0cc79",
+            "MD5": "b30ef3315a3924351dcfa615debea397",
             "path": "configureddefaults/config/securitycraft-server.toml"
-          }
-        },
-        {
-          "id": "sharedatlasjm-client.properties",
-          "name": "sharedatlasjm-client.properties",
-          "type": "File",
-          "artifact": {
-            "size": 110,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/sharedatlasjm-client.properties",
-            "MD5": "70cfa0c63ea04cb8bced31b9fc48bac4",
-            "path": "configureddefaults/config/sharedatlasjm-client.properties"
-          }
-        },
-        {
-          "id": "shulkerboxtooltip.json5",
-          "name": "shulkerboxtooltip.json5",
-          "type": "File",
-          "artifact": {
-            "size": 5724,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/shulkerboxtooltip.json5",
-            "MD5": "c6bced4e92a5128165dd4f1095809812",
-            "path": "configureddefaults/config/shulkerboxtooltip.json5"
-          }
-        },
-        {
-          "id": "simplyspeakers-common.toml",
-          "name": "simplyspeakers-common.toml",
-          "type": "File",
-          "artifact": {
-            "size": 341,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/simplyspeakers-common.toml",
-            "MD5": "bb25f031c56d0df2b27aa520e6ad21c3",
-            "path": "configureddefaults/config/simplyspeakers-common.toml"
           }
         },
         {
@@ -5764,6 +5206,17 @@
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/simulated-server.toml",
             "MD5": "605aa9d58f972a760955593b51216e57",
             "path": "configureddefaults/config/simulated-server.toml"
+          }
+        },
+        {
+          "id": "simulatedcoasters-common.toml",
+          "name": "simulatedcoasters-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 854,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/simulatedcoasters-common.toml",
+            "MD5": "eed1091eb12f86e305d920a4ff72af0c",
+            "path": "configureddefaults/config/simulatedcoasters-common.toml"
           }
         },
         {
@@ -5804,9 +5257,9 @@
           "name": "sodium-extra-options.json",
           "type": "File",
           "artifact": {
-            "size": 4766,
+            "size": 5243,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/sodium-extra-options.json",
-            "MD5": "4ceb88a4eb8cc2b3880ac75b86d0004f",
+            "MD5": "df2fc5f5eebd8fdb036d9bf8bd13c6b6",
             "path": "configureddefaults/config/sodium-extra-options.json"
           }
         },
@@ -5828,7 +5281,7 @@
           "artifact": {
             "size": 427,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/sodium-fingerprint.json",
-            "MD5": "bcba9c43e433cc3c708b76d6e40415a0",
+            "MD5": "91451712a07205d797ad3df0dbe47bca",
             "path": "configureddefaults/config/sodium-fingerprint.json"
           }
         },
@@ -5837,9 +5290,9 @@
           "name": "sodium-mixins.properties",
           "type": "File",
           "artifact": {
-            "size": 265,
+            "size": 258,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/sodium-mixins.properties",
-            "MD5": "456d99888369486f42d6ea7f70294170",
+            "MD5": "a5b6a84e034d60be869ae33f2dba4e2b",
             "path": "configureddefaults/config/sodium-mixins.properties"
           }
         },
@@ -5850,19 +5303,52 @@
           "artifact": {
             "size": 756,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/sodium-options.json",
-            "MD5": "92800b81162bfb9b2f9187ba4287896d",
+            "MD5": "f52bdb9280fb03f3349e2974c0f4d876",
             "path": "configureddefaults/config/sodium-options.json"
           }
         },
         {
-          "id": "sodiumdynamiclights-client.toml",
-          "name": "sodiumdynamiclights-client.toml",
+          "id": "sophisticatedbackpacks-common.toml",
+          "name": "sophisticatedbackpacks-common.toml",
           "type": "File",
           "artifact": {
-            "size": 655,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/sodiumdynamiclights-client.toml",
-            "MD5": "1aa7ab78fb5b1f74d98a096821d7ac08",
-            "path": "configureddefaults/config/sodiumdynamiclights-client.toml"
+            "size": 118,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/sophisticatedbackpacks-common.toml",
+            "MD5": "3c220b8881045a5364a3a8d7395974a8",
+            "path": "configureddefaults/config/sophisticatedbackpacks-common.toml"
+          }
+        },
+        {
+          "id": "sophisticatedbackpacks-server.toml",
+          "name": "sophisticatedbackpacks-server.toml",
+          "type": "File",
+          "artifact": {
+            "size": 23507,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/sophisticatedbackpacks-server.toml",
+            "MD5": "4c0f08a8f620cb9555f1fc062ffd9584",
+            "path": "configureddefaults/config/sophisticatedbackpacks-server.toml"
+          }
+        },
+        {
+          "id": "sophisticatedcore-client.toml",
+          "name": "sophisticatedcore-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 478,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/sophisticatedcore-client.toml",
+            "MD5": "3874e6398ee08a5f59218ed86fc534bb",
+            "path": "configureddefaults/config/sophisticatedcore-client.toml"
+          }
+        },
+        {
+          "id": "sophisticatedcore-common.toml",
+          "name": "sophisticatedcore-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 3036,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/sophisticatedcore-common.toml",
+            "MD5": "2e1d100faba654c5701317b6a66a89c2",
+            "path": "configureddefaults/config/sophisticatedcore-common.toml"
           }
         },
         {
@@ -5910,6 +5396,39 @@
           }
         },
         {
+          "id": "terra_curio-client.toml",
+          "name": "terra_curio-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 339,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/terra_curio-client.toml",
+            "MD5": "05bbec3a75708a71be2b1a65780bb3c3",
+            "path": "configureddefaults/config/terra_curio-client.toml"
+          }
+        },
+        {
+          "id": "terra_curio-common.toml",
+          "name": "terra_curio-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1097,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/terra_curio-common.toml",
+            "MD5": "06464ef4560106450d756b9e2028b73d",
+            "path": "configureddefaults/config/terra_curio-common.toml"
+          }
+        },
+        {
+          "id": "terra_curio-startup.toml",
+          "name": "terra_curio-startup.toml",
+          "type": "File",
+          "artifact": {
+            "size": 277,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/terra_curio-startup.toml",
+            "MD5": "4ba495704d5902c4a6af84d79148282e",
+            "path": "configureddefaults/config/terra_curio-startup.toml"
+          }
+        },
+        {
           "id": "toms_storage-common.toml",
           "name": "toms_storage-common.toml",
           "type": "File",
@@ -5940,6 +5459,17 @@
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/trade_cycling-client.toml",
             "MD5": "591b3cb908b60ceb551b82a318a555fa",
             "path": "configureddefaults/config/trade_cycling-client.toml"
+          }
+        },
+        {
+          "id": "trading_floor-server.toml",
+          "name": "trading_floor-server.toml",
+          "type": "File",
+          "artifact": {
+            "size": 599,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/trading_floor-server.toml",
+            "MD5": "f9ec2acc1ddd09a31a0034e5b3e60890",
+            "path": "configureddefaults/config/trading_floor-server.toml"
           }
         },
         {
@@ -6009,168 +5539,69 @@
           }
         },
         {
-          "id": "wanderer_ribbit-common.toml",
-          "name": "wanderer_ribbit-common.toml",
+          "id": "category-volumes.properties",
+          "name": "category-volumes.properties",
           "type": "File",
           "artifact": {
-            "size": 358,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/wanderer_ribbit-common.toml",
-            "MD5": "32107b760ff4999dc5e1baddf497aeb8",
-            "path": "configureddefaults/config/wanderer_ribbit-common.toml"
+            "size": 46,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/voicechat/category-volumes.properties",
+            "MD5": "47731f53ffef4a8a57c766a8091a5651",
+            "path": "configureddefaults/config/voicechat/category-volumes.properties"
           }
         },
         {
-          "id": "wandering-ribbit-spawn-config.toml",
-          "name": "wandering-ribbit-spawn-config.toml",
+          "id": "player-volumes.properties",
+          "name": "player-volumes.properties",
           "type": "File",
           "artifact": {
-            "size": 358,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/wandering-ribbit-spawn-config.toml",
-            "MD5": "32107b760ff4999dc5e1baddf497aeb8",
-            "path": "configureddefaults/config/wandering-ribbit-spawn-config.toml"
+            "size": 44,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/voicechat/player-volumes.properties",
+            "MD5": "881435f0ba9a0f1af1d2082d1298dcc4",
+            "path": "configureddefaults/config/voicechat/player-volumes.properties"
           }
         },
         {
-          "id": "watut-client.toml",
-          "name": "watut-client.toml",
+          "id": "translations.properties",
+          "name": "translations.properties",
           "type": "File",
           "artifact": {
-            "size": 3444,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/watut-client.toml",
-            "MD5": "e6a73d35914167498f8c997ab9b7fd21",
-            "path": "configureddefaults/config/watut-client.toml"
+            "size": 1182,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/voicechat/translations.properties",
+            "MD5": "4af29bbbf5267fe4298e80c2e6ebca63",
+            "path": "configureddefaults/config/voicechat/translations.properties"
           }
         },
         {
-          "id": "watut-common.toml",
-          "name": "watut-common.toml",
+          "id": "username-cache.json",
+          "name": "username-cache.json",
           "type": "File",
           "artifact": {
-            "size": 169,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/watut-common.toml",
-            "MD5": "e1ad6e33dc749f2f9be5c16174ee1c0d",
-            "path": "configureddefaults/config/watut-common.toml"
+            "size": 2,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/voicechat/username-cache.json",
+            "MD5": "99914b932bd37a50b983c5e7c90ae93b",
+            "path": "configureddefaults/config/voicechat/username-cache.json"
           }
         },
         {
-          "id": "watut-item-arm-adjustments.json",
-          "name": "watut-item-arm-adjustments.json",
+          "id": "voicechat-client.properties",
+          "name": "voicechat-client.properties",
           "type": "File",
           "artifact": {
-            "size": 3367,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/watut-item-arm-adjustments.json",
-            "MD5": "25925ecf5d13afcb55b2d4fcff81361c",
-            "path": "configureddefaults/config/watut-item-arm-adjustments.json"
+            "size": 5064,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/voicechat/voicechat-client.properties",
+            "MD5": "f112827bafbe33ec438b76814658dd06",
+            "path": "configureddefaults/config/voicechat/voicechat-client.properties"
           }
         },
         {
-          "id": "watut-server.toml",
-          "name": "watut-server.toml",
+          "id": "voicechat-server.properties",
+          "name": "voicechat-server.properties",
           "type": "File",
           "artifact": {
-            "size": 2945,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/watut-server.toml",
-            "MD5": "22c0bedd7b79ffa96d6f60650c1c3115",
-            "path": "configureddefaults/config/watut-server.toml"
-          }
-        },
-        {
-          "id": "client.cfg",
-          "name": "client.cfg",
-          "type": "File",
-          "artifact": {
-            "size": 26,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/xaero/lib/client.cfg",
-            "MD5": "dd7d24d2b991f7648671c16d0a74c265",
-            "path": "configureddefaults/config/xaero/lib/client.cfg"
-          }
-        },
-        {
-          "id": "common.cfg",
-          "name": "common.cfg",
-          "type": "File",
-          "artifact": {
-            "size": 236,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/xaero/lib/common.cfg",
-            "MD5": "e085e122e32132e1fa73ac927f7ece81",
-            "path": "configureddefaults/config/xaero/lib/common.cfg"
-          }
-        },
-        {
-          "id": "default.cfg",
-          "name": "default.cfg",
-          "type": "File",
-          "artifact": {
-            "size": 121,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/xaero/lib/profiles/default.cfg",
-            "MD5": "e6a2491cfa99c4163942c19eb7b4c489",
-            "path": "configureddefaults/config/xaero/lib/profiles/default.cfg"
-          }
-        },
-        {
-          "id": "default.cfg",
-          "name": "default.cfg",
-          "type": "File",
-          "artifact": {
-            "size": 75,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/xaero/lib/server_profiles/default.cfg",
-            "MD5": "a7ba1c4e531ad6afe1fa89e86f7dfd6f",
-            "path": "configureddefaults/config/xaero/lib/server_profiles/default.cfg"
-          }
-        },
-        {
-          "id": "client.cfg",
-          "name": "client.cfg",
-          "type": "File",
-          "artifact": {
-            "size": 521,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/xaero/world-map/client.cfg",
-            "MD5": "ab1be7cbe44d8ac32333a69570ab8cae",
-            "path": "configureddefaults/config/xaero/world-map/client.cfg"
-          }
-        },
-        {
-          "id": "common.cfg",
-          "name": "common.cfg",
-          "type": "File",
-          "artifact": {
-            "size": 141,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/xaero/world-map/common.cfg",
-            "MD5": "b5ddb993fe4200e02fec18254463b2c2",
-            "path": "configureddefaults/config/xaero/world-map/common.cfg"
-          }
-        },
-        {
-          "id": "default.cfg",
-          "name": "default.cfg",
-          "type": "File",
-          "artifact": {
-            "size": 1619,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/xaero/world-map/profiles/default.cfg",
-            "MD5": "21c979a028cd1efa4cc914ceca5b54b9",
-            "path": "configureddefaults/config/xaero/world-map/profiles/default.cfg"
-          }
-        },
-        {
-          "id": "default.cfg",
-          "name": "default.cfg",
-          "type": "File",
-          "artifact": {
-            "size": 75,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/xaero/world-map/server_profiles/default.cfg",
-            "MD5": "a7ba1c4e531ad6afe1fa89e86f7dfd6f",
-            "path": "configureddefaults/config/xaero/world-map/server_profiles/default.cfg"
-          }
-        },
-        {
-          "id": "xaeropatreon.txt",
-          "name": "xaeropatreon.txt",
-          "type": "File",
-          "artifact": {
-            "size": 0,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/xaeropatreon.txt",
-            "MD5": "d41d8cd98f00b204e9800998ecf8427e",
-            "path": "configureddefaults/config/xaeropatreon.txt"
+            "size": 3072,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/voicechat/voicechat-server.properties",
+            "MD5": "fb0c18824b2d01ddc105852defd63a60",
+            "path": "configureddefaults/config/voicechat/voicechat-server.properties"
           }
         },
         {
@@ -6189,9 +5620,9 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 9780,
+            "size": 12735,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/options.txt",
-            "MD5": "457685c165d95d660cb247d4dfeb6035",
+            "MD5": "38f0428f8f48b63001080983fc3f60d4",
             "path": "configureddefaults/options.txt"
           }
         },

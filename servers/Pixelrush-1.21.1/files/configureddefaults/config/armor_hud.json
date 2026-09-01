@@ -14,7 +14,7 @@
   "pushSubtitles": true,
   "reversed": false,
   "iconsShown": true,
-  "warningShown": false,
+  "warningShown": true,
   "minDurabilityValue": 10,
   "minDurabilityPercentage": 5,
   "warningBobIntensity": 3
