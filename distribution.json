@@ -3376,9 +3376,9 @@
           "name": "customizablemenus.txt",
           "type": "File",
           "artifact": {
-            "size": 135,
+            "size": 235,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/config/fancymenu/customizablemenus.txt",
-            "MD5": "17107860a5701685c0ba36cffbc111de",
+            "MD5": "cbe9fb52271199bc16c33bc20fa71d2b",
             "path": "config/fancymenu/customizablemenus.txt"
           }
         },
@@ -3391,6 +3391,17 @@
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/config/fancymenu/customization/options_screen_layout.txt",
             "MD5": "27e003e814c93e71c92428ec4dbbdfce",
             "path": "config/fancymenu/customization/options_screen_layout.txt"
+          }
+        },
+        {
+          "id": "pause_screen_layout.txt",
+          "name": "pause_screen_layout.txt",
+          "type": "File",
+          "artifact": {
+            "size": 43775,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/config/fancymenu/customization/pause_screen_layout.txt",
+            "MD5": "fcfbdabf1b3c4148908c6d5c7791de32",
+            "path": "config/fancymenu/customization/pause_screen_layout.txt"
           }
         },
         {
@@ -3442,9 +3453,9 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 4398,
+            "size": 4399,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/config/fancymenu/options.txt",
-            "MD5": "21540080cc1853fc45e858015624434a",
+            "MD5": "bbf58ab289630a4c3f1d54f35be42baa",
             "path": "config/fancymenu/options.txt"
           }
         },
@@ -4245,9 +4256,9 @@
           "name": "customizablemenus.txt",
           "type": "File",
           "artifact": {
-            "size": 135,
+            "size": 235,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/fancymenu/customizablemenus.txt",
-            "MD5": "17107860a5701685c0ba36cffbc111de",
+            "MD5": "cbe9fb52271199bc16c33bc20fa71d2b",
             "path": "configureddefaults/config/fancymenu/customizablemenus.txt"
           }
         },
@@ -4260,6 +4271,17 @@
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/fancymenu/customization/options_screen_layout.txt",
             "MD5": "27e003e814c93e71c92428ec4dbbdfce",
             "path": "configureddefaults/config/fancymenu/customization/options_screen_layout.txt"
+          }
+        },
+        {
+          "id": "pause_screen_layout.txt",
+          "name": "pause_screen_layout.txt",
+          "type": "File",
+          "artifact": {
+            "size": 43775,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/fancymenu/customization/pause_screen_layout.txt",
+            "MD5": "fcfbdabf1b3c4148908c6d5c7791de32",
+            "path": "configureddefaults/config/fancymenu/customization/pause_screen_layout.txt"
           }
         },
         {
@@ -4311,9 +4333,9 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 4398,
+            "size": 4399,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/fancymenu/options.txt",
-            "MD5": "21540080cc1853fc45e858015624434a",
+            "MD5": "bbf58ab289630a4c3f1d54f35be42baa",
             "path": "configureddefaults/config/fancymenu/options.txt"
           }
         },
@@ -5536,72 +5558,6 @@
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/vanillabackport-common.toml",
             "MD5": "5ba7f2cb24d78a4f87320d316a5082f1",
             "path": "configureddefaults/config/vanillabackport-common.toml"
-          }
-        },
-        {
-          "id": "category-volumes.properties",
-          "name": "category-volumes.properties",
-          "type": "File",
-          "artifact": {
-            "size": 46,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/voicechat/category-volumes.properties",
-            "MD5": "47731f53ffef4a8a57c766a8091a5651",
-            "path": "configureddefaults/config/voicechat/category-volumes.properties"
-          }
-        },
-        {
-          "id": "player-volumes.properties",
-          "name": "player-volumes.properties",
-          "type": "File",
-          "artifact": {
-            "size": 44,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/voicechat/player-volumes.properties",
-            "MD5": "881435f0ba9a0f1af1d2082d1298dcc4",
-            "path": "configureddefaults/config/voicechat/player-volumes.properties"
-          }
-        },
-        {
-          "id": "translations.properties",
-          "name": "translations.properties",
-          "type": "File",
-          "artifact": {
-            "size": 1182,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/voicechat/translations.properties",
-            "MD5": "4af29bbbf5267fe4298e80c2e6ebca63",
-            "path": "configureddefaults/config/voicechat/translations.properties"
-          }
-        },
-        {
-          "id": "username-cache.json",
-          "name": "username-cache.json",
-          "type": "File",
-          "artifact": {
-            "size": 2,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/voicechat/username-cache.json",
-            "MD5": "99914b932bd37a50b983c5e7c90ae93b",
-            "path": "configureddefaults/config/voicechat/username-cache.json"
-          }
-        },
-        {
-          "id": "voicechat-client.properties",
-          "name": "voicechat-client.properties",
-          "type": "File",
-          "artifact": {
-            "size": 5064,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/voicechat/voicechat-client.properties",
-            "MD5": "f112827bafbe33ec438b76814658dd06",
-            "path": "configureddefaults/config/voicechat/voicechat-client.properties"
-          }
-        },
-        {
-          "id": "voicechat-server.properties",
-          "name": "voicechat-server.properties",
-          "type": "File",
-          "artifact": {
-            "size": 3072,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/files/configureddefaults/config/voicechat/voicechat-server.properties",
-            "MD5": "fb0c18824b2d01ddc105852defd63a60",
-            "path": "configureddefaults/config/voicechat/voicechat-server.properties"
           }
         },
         {
