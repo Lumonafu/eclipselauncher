@@ -2162,6 +2162,20 @@
           }
         },
         {
+          "id": "generated.forgemod:armorhider:1.0.1@jar",
+          "name": "Armor Hider",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 16748,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/optionaloff/ArmorHider-NeoForge-1.21.1-1.0.1.jar",
+            "MD5": "9b15af0be39f4e319537efb4a9b6a008"
+          },
+          "required": {
+            "value": false,
+            "def": false
+          }
+        },
+        {
           "id": "generated.forgemod:artifacts:13.2.1@jar",
           "name": "Artifacts",
           "type": "ForgeMod",
@@ -2683,6 +2697,20 @@
           }
         },
         {
+          "id": "generated.forgemod:forgematica:0.4.2+mc1.21.1@jar",
+          "name": "Forgematica",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1646155,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/optionaloff/forgematica-0.4.2+mc1.21.1.jar",
+            "MD5": "fdc09f7225b0b814b6bea67d84deb6e6"
+          },
+          "required": {
+            "value": false,
+            "def": false
+          }
+        },
+        {
           "id": "generated.forgemod:fzzy_config:0.7.6+1.21+neoforge@jar",
           "name": "Fzzy Config",
           "type": "ForgeMod",
@@ -2885,6 +2913,20 @@
           },
           "required": {
             "value": false
+          }
+        },
+        {
+          "id": "generated.forgemod:mafglib:0.4.3+mc1.21.1@jar",
+          "name": "MaFgLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1314767,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/optionaloff/mafglib-0.4.3+mc1.21.1.jar",
+            "MD5": "3b3dafc71cfb16845d3e019a0d8670ec"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         },
         {
