@@ -3234,16 +3234,6 @@
           }
         },
         {
-          "id": "generated.forgemod:reanimal:0.6.0@jar",
-          "name": "Re:Animal",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 3329709,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/reanimal-0.6.0.jar",
-            "MD5": "24ed24ba747dc23101d71946ba8b163d"
-          }
-        },
-        {
           "id": "generated.forgemod:rebind_narrator:2025.12.23@jar",
           "name": "Rebind Narrator",
           "type": "ForgeMod",
