@@ -2638,16 +2638,6 @@
           }
         },
         {
-          "id": "generated.forgemod:embrace:0.1.0@jar",
-          "name": "Embrace",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 25674,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/embrace-0.1.0.jar",
-            "MD5": "7de90d25215303dc6db585b131bbc6e8"
-          }
-        },
-        {
           "id": "generated.forgemod:emotecraft:2.4.12@jar",
           "name": "Emotecraft",
           "type": "ForgeMod",
