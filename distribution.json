@@ -3254,16 +3254,6 @@
           }
         },
         {
-          "id": "generated.forgemod:rarcompat:0.9.7@jar",
-          "name": "RAR-Compat",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 451470,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/rarcompat-1.21-0.9.7.jar",
-            "MD5": "74fdf20f36fd23458263740af730b8aa"
-          }
-        },
-        {
           "id": "generated.forgemod:reanimal:0.6.0@jar",
           "name": "Re:Animal",
           "type": "ForgeMod",
