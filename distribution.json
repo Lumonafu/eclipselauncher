@@ -2984,26 +2984,6 @@
           }
         },
         {
-          "id": "generated.forgemod:mavapi:fabric-1.3.0-mc1.21.1@jar",
-          "name": "Mavapi",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 569718,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/mavapi-fabric-1.3.0-mc1.21.1.jar",
-            "MD5": "685918787a940fcb16ce74478962b508"
-          }
-        },
-        {
-          "id": "generated.forgemod:mavm:fabric-1.3.1-mc1.21.1@jar",
-          "name": "Mavm",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 783876,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/mavm-fabric-1.3.1-mc1.21.1.jar",
-            "MD5": "ddd6ee77260318f093700d33304fbcf1"
-          }
-        },
-        {
           "id": "generated.forgemod:mcwroofs:2.3.2@jar",
           "name": "Macaw's Roofs",
           "type": "ForgeMod",
