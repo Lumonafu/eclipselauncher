@@ -2384,16 +2384,6 @@
           }
         },
         {
-          "id": "generated.forgemod:create_compatible_storage:2.13.0@jar",
-          "name": "Create: Compatible Storage",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 161996,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/create_compatible_storage-2.13.0-mc1.21.1-neoforge.jar",
-            "MD5": "f3d78d7d829ebb8b530f62dbe759a993"
-          }
-        },
-        {
           "id": "generated.forgemod:create_connected:1.3.2-mc1.21.1@jar",
           "name": "Create: Connected",
           "type": "ForgeMod",
@@ -2981,6 +2971,16 @@
             "size": 1784829,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/mcw-roofs-2.3.2-mc1.21.1neoforge.jar",
             "MD5": "9f72bf86f91b80effe1baefb5858926b"
+          }
+        },
+        {
+          "id": "generated.forgemod:measurements:3.0.3@jar",
+          "name": "Measurements",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 47632,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/Measurements-neoforge-1.21.1-3.0.3.jar",
+            "MD5": "9e3a9d7240c6750760c1bb7cc3f8c6ae"
           }
         },
         {
