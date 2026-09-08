@@ -2538,16 +2538,6 @@
           }
         },
         {
-          "id": "generated.forgemod:crittersandcompanions:2.7.0@jar",
-          "name": "Critters and Companions",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2098079,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/crittersandcompanions-neoforge-1.21.1-2.7.0.jar",
-            "MD5": "ede12f7d45ce384f3f6e1443c83619e6"
-          }
-        },
-        {
           "id": "generated.forgemod:croptopia:4.2.4@jar",
           "name": "Croptopia",
           "type": "ForgeMod",
