@@ -2142,13 +2142,13 @@
           }
         },
         {
-          "id": "generated.forgemod:architectury:13.0.8@jar",
+          "id": "generated.forgemod:architectury:13.0.11@jar",
           "name": "Architectury",
           "type": "ForgeMod",
           "artifact": {
-            "size": 584004,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/architectury-13.0.8-neoforge.jar",
-            "MD5": "7a45a948b525c031ca85d221dfdbed85"
+            "size": 584734,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/architectury-13.0.11-neoforge.jar",
+            "MD5": "aefbea361809755c331126bcff6e6d3e"
           }
         },
         {
@@ -2538,6 +2538,16 @@
           }
         },
         {
+          "id": "generated.forgemod:crittersandcompanions:2.7.0@jar",
+          "name": "Critters and Companions",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2098079,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/crittersandcompanions-neoforge-1.21.1-2.7.0.jar",
+            "MD5": "ede12f7d45ce384f3f6e1443c83619e6"
+          }
+        },
+        {
           "id": "generated.forgemod:croptopia:4.2.4@jar",
           "name": "Croptopia",
           "type": "ForgeMod",
@@ -2887,6 +2897,16 @@
           }
         },
         {
+          "id": "generated.forgemod:jagmkiwis:1.2.1@jar",
+          "name": "Jagm's Kiwis",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 164054,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/jagmkiwis-neoforge-1.21.1-1.2.1.jar",
+            "MD5": "42673975a27ebe5a30c497174287d331"
+          }
+        },
+        {
           "id": "generated.forgemod:jei:19.38.0.366@jar",
           "name": "Just Enough Items",
           "type": "ForgeMod",
@@ -3221,16 +3241,6 @@
             "size": 12118736,
             "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/railways-0.2.1+neoforge-mc1.21.1.jar",
             "MD5": "a1e93677459b11e2b4edbe01998ffdbd"
-          }
-        },
-        {
-          "id": "generated.forgemod:reanimal:0.6.0@jar",
-          "name": "Re:Animal",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 3329709,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/reanimal-0.6.0.jar",
-            "MD5": "24ed24ba747dc23101d71946ba8b163d"
           }
         },
         {
