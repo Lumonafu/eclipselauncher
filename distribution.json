@@ -2122,16 +2122,6 @@
           }
         },
         {
-          "id": "generated.forgemod:animalhatmod:1.1.0@jar",
-          "name": "Animalhatmod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 393070,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Pixelrush-1.21.1/forgemods/required/animalhatmod-1.1.1-neoforge-1.21.1.jar",
-            "MD5": "ba36a0d4809f36d3569213c048b0a478"
-          }
-        },
-        {
           "id": "generated.forgemod:appleskin:3.0.9+mc1.21@jar",
           "name": "AppleSkin",
           "type": "ForgeMod",
