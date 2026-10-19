@@ -334,9 +334,9 @@
           "name": "Forced",
           "type": "FabricMod",
           "artifact": {
-            "size": 6618,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/Forced-4.jar",
-            "MD5": "85ff4d7b074dc91812714a69cb9e8fe9"
+            "size": 6944,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/Forced-5.0.jar",
+            "MD5": "ea6b21a5fd4e1ff1151c5e20ac8a3e71"
           }
         },
         {
@@ -1562,7 +1562,7 @@
           },
           "subModules": [
             {
-              "id": "21.1.235",
+              "id": "neoforge-21.1.235",
               "name": "Minecraft NeoForge (version.json)",
               "type": "VersionManifest",
               "artifact": {
