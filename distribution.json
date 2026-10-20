@@ -334,9 +334,9 @@
           "name": "Forced",
           "type": "FabricMod",
           "artifact": {
-            "size": 7110,
-            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/Forced-5.1.jar",
-            "MD5": "5010cb973d6c740f8f8c8a811f994ddb"
+            "size": 6828,
+            "url": "https://raw.githubusercontent.com/Lumonafu/eclipselauncher/main/servers/Eclipse-1.20.1/fabricmods/required/Forced-6.0.jar",
+            "MD5": "580a9000e72576c9bc1a6bc1dc4733f0"
           }
         },
         {
